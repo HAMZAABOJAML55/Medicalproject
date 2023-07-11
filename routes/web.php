@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\BackEnd\ReportController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ClientController;
 /*
@@ -25,3 +26,6 @@ Route::get('show-pdf', function () {
 Route::get('/index', function(){
     return view('backend\reports\F057-THHC Consent to Photograph and or Video Record');
 });
+
+Route::get('/show_pdf',[ReportController::class,'create'])->name('show_pdf');
+Route::get('/pdf_loading',[ReportController::class,'pdf'])->name('pdf_loading');

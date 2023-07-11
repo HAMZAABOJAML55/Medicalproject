@@ -15,7 +15,7 @@
             background: #b4b4b4a0;
         }
 
-        .report-logo{                                                                                                                                                              
+        .report-logo{
             max-width: 400px
         }
 
@@ -55,11 +55,11 @@
 <body>
 
 
-
+<form method="get" action="{{route('pdf_loading')}}">
     <div class="report-form container my-5 py-3 bg-light shadow">
 
         <div class="report-header d-flex align-items-center" id="reportHeader">
-            <img src="{{ asset('assets/reports/logo.png') }}" class="report-logo" />
+{{--            <img src="{{$data['imagePath']}}" class="report-logo" />--}}
             <h4>
                 ORIENTATION CHECKLIST
             </h4>
@@ -74,7 +74,7 @@
                             <div class="row align-items-center">
                                 <div class="col-3"><label for="doctorName">Staff Name:</label></div>
                                 <div class="col-9">
-                                    <input type="text" class="form-control">
+                                    <input type="text"  value="{{$data['doctorName']}}" name="doctorName" class="form-control">
                                 </div>
                             </div>
                         </td>
@@ -82,7 +82,7 @@
                             <div class="row align-items-center">
                                 <div class="col-3"><label for="doctorID">I.D #:</label></div>
                                 <div class="col-9">
-                                    <input type="text" name="doctorID" id="doctorID" class="form-control">
+                                    <input type="text" value="{{$data['doctorID']}}" name="doctorID" id="doctorID" class="form-control">
                                 </div>
                             </div>
                         </td>
@@ -92,7 +92,7 @@
                         <div class="row">
                                 <div class="col-3"><label for="reportDate">Date:</label></div>
                                 <div class="col-9">
-                                    <input type="date" name="reportDate" id="reportDate" class="form-control">
+                                    <input type="text"  value="{{$data['reportDate']}}" name="reportDate" id="reportDate" class="form-control">
                                 </div>
                         </div>
                         </td>
@@ -100,7 +100,7 @@
                             <div class="row">
                                 <div class="col-3"><label for="joiningDate">Joining Date</label></div>
                                 <div class="col-9">
-                                    <input type="date" name="joiningDate" id="joiningDate" class="form-control">
+                                    <input type="text" value="{{$data['joiningDate']}}"  name="joiningDate" id="joiningDate" class="form-control">
                                 </div>
                             </div>
                         </td>
@@ -133,10 +133,10 @@
                     <tr>
                         <td class="">Job specific orientation (Review of Job Description), Privileges  </td>
                         <td class="">
-                            <input type="text" name="" id="" class="form-control">
+                            <input type="text" value="{{$data['doctorID']}}" name="" id="" class="form-control">
                         </td>
                         <td class="">
-                            <input type="text" name="" id="" class="form-control">
+                            <input type="text"  value="{{$data['doctorID']}}" name="" id="" class="form-control">
                         </td>
                     </tr>
                     <tr>
@@ -687,9 +687,12 @@
 
 
         <div class="my-3">
-            <button class="btn btn-primary" onclick="toPDF()">PDF</button>
+{{--            <button class="btn btn-primary" onclick="toPDF()">PDF</button>--}}
         </div>
+       <button class="btn btn-primary" type="submit">PDF</button>
+
     </div>
+</form>
 
     <script src="https://code.jquery.com/jquery-3.7.0.min.js" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js" integrity="sha512-BNaRQnYJYiPSqHHDb58B0yaPfCu+Wgds8Gp/gU33kqBtgNS4tSPHuGibyoeqMV/TJlSKda6FXzoEyYGjTe+vXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
