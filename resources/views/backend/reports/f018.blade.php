@@ -85,6 +85,20 @@
                                     <input type="text" value="{{$data['doctorID']}}" name="doctorID" id="doctorID" class="form-control">
                                 </div>
                             </div>
+
+                            <div class="col-md-3">
+                                <div class="form-group">
+                                    <label for="doctorID">Doctor : <span class="text-danger">*</span></label>
+                                    <select class="custom-select mr-sm-2" name="doctorID">
+                                        <option selected disabled>Choose...</option>
+                                        @foreach($doctots as $d)
+                                            <option  value="{{ $d->id }}">{{ $d->name }}</option>
+                                        @endforeach
+                                    </select>
+                                </div>
+                            </div>
+
+
                         </td>
                     </tr>
                     <tr>

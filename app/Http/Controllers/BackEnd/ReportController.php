@@ -23,7 +23,8 @@ class ReportController extends Controller
             'reportDate' => '',
             'joiningDate' => '',
         ];
-        return view('backend.reports.f018',compact('data'));
+        $doctots=Doctor::all();
+        return view('backend.reports.f018',compact('data','doctots'));
     }
 
     public function store(Request $request){
