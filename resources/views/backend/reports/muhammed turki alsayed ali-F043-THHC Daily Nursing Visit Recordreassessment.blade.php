@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Daily Nursing Visit Record/Reassessment</title>
+    <title>Daily Nursing Visit Record/Reassessment |             @yield('title')
+    </title>
     <style>
      
         body.page1 {
@@ -45,6 +46,8 @@
             margin: 0;
         }
     </style>
+                @yield('style')
+
 </head>
 <body class="page1">
     <button onclick='myfanction()' class='btn-secondary'>طباعة الملف</button><br>
@@ -444,6 +447,7 @@
   </tr>
 </table>
 <!-- نهاية الجدول -->
+            @yield('content')
 
 <p class="footer">Page 2 of 2 | F043-THHC Daily Nursing Visit Record/Reassessment</p>
 

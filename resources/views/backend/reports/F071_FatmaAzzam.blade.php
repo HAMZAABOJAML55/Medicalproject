@@ -34,6 +34,8 @@ max-width:50%;
 }
 
 </style>
+@yield('style')
+
 </head>
 <body>
 <form action="{{route('report.save')}}" method="POST" >
@@ -106,6 +108,7 @@ max-width:50%;
 </div>
 </form>
 
+@yield('content')
 
 </body>
 
@@ -119,5 +122,7 @@ max-width:50%;
         newwin.close();
     }
 </script>
+@yield('script')
+
 </html>
 

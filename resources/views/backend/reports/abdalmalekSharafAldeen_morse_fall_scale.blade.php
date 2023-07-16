@@ -3,7 +3,7 @@
 
 <link rel="stylesheet" href="{{ asset('css1/bootstrap.min.css.map') }}">
 
-
+@yield('styles')
 
     <form id="tab">
 
@@ -152,6 +152,7 @@
     </table>
 
     
+    @section('content')
 
     <footer>
         F027-THHC Morse Fall Scale
@@ -226,6 +227,8 @@ border: 1px #2b2929 solid;
         
     }
   </style>
+  @section('style')
+
 </form>
 
 <a href="{{ route('report.storge') }}"><input type="button" class="btn btn-danger btnconvert" value="Create PDF" 
@@ -295,6 +298,7 @@ var total = document.getElementById('total').innerHTML=tot;
       popupWin.print();
     }
   </script>
+@section('script')
 
 
 

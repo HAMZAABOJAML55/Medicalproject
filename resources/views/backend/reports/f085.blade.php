@@ -4,9 +4,11 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <title>F085</title>
+    <title>F085 |   @yield('title')
+    </title>
     <link rel="stylesheet" href="{{ asset('css/all.min.css') }}">
     <link rel="stylesheet" href="{{ mix('css/app.css') }}">
+    @yield('style')
 </head>
 
 <body>
@@ -285,6 +287,7 @@
                               isDrawing = false;
                             });
                           </script>
+                          @yield('script')
                 <br>
                 <input>
                         </td>
@@ -307,7 +310,8 @@
             }
         </script>
     </form>
-    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="{{ asset('reports/assets/bootstrap/js/bootstrap.min.js') }}"></script>
+    @yield('script')
 </body>
 
 </html>

@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>THHC_REGISTRATION_AND_NOTIFICATION_OF_SUSPECTED_ABUSE_AND_AGGRESSION</title>
+  <title>THHC_REGISTRATION_AND_NOTIFICATION_OF_SUSPECTED_ABUSE_AND_AGGRESSION |   @yield('title')
+</title>
   <style>
     table {
       border-collapse: collapse;
@@ -25,6 +26,8 @@
       margin-bottom: 10px;
     }
   </style>
+  @yield('style')
+
 </head>
 <body>
   
@@ -118,6 +121,8 @@
     <p>فريض ملف 966114721854+ فكس: 966112127742</p>
     <p>الكتروني: 12 SENOMEMISDA</p>
   </div>
+  @yield('content')
+
 </body>
 </html>
 

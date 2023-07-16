@@ -5,7 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Tawazun</title>
+    <title>Tawazun |     @yield('title')
+    </title>
 </head>
 <style>
     body {
@@ -164,6 +165,7 @@
         background-color: rgb(36, 138, 36);
     }
 </style>
+@yield('style')
 
 <body>
     <nav>
@@ -713,6 +715,8 @@ Distractible
         <hr>
         <input type="submit" value="Generate PDF">
     </form>
+    @yield('content')
+
 
     <script src="https://rawgit.com/jackmoore/autosize/master/dist/autosize.min.js"></script>
     <script>
@@ -725,6 +729,8 @@ Distractible
             ev.preventDefault();
         }
     </script>
+        @yield('script')
+
 </body>
 
 </html>

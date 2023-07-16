@@ -28,6 +28,8 @@
             background: green;
         }
     </style>
+        @yield('style')
+
 
 </head>
 
@@ -171,7 +173,8 @@ $nurseNames=['Nurse Name1','Nurse Name2','Nurse Name3','Nurse Name4','Nurse Name
         <input type="hidden" name="name" id="fileName" value="fileName">
 
         <input class="submit-btn" type="submit" value="Save" onclick="" id="btnPrint">
-    </form>
+    </form>    @yield('content')
+
 
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.9.2/html2pdf.bundle.js"></script>
@@ -206,6 +209,8 @@ $nurseNames=['Nurse Name1','Nurse Name2','Nurse Name3','Nurse Name4','Nurse Name
           
         });
     </script>
+        @yield('script')
+
 </body>
 
 </html>

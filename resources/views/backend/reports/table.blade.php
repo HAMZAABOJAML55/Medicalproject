@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Document |         @yield('title')
+    </title>
 </head>
 <body>
 
@@ -50,6 +51,7 @@
         padding: 10px 40px;
     }
     </style>
+      @yield('style')
     <div class="main">
         
     <div class="container">
@@ -658,6 +660,7 @@
         </tr>
     </table>
     </div>
+    @yield('content')
 
 </body>
 </html>

@@ -28,6 +28,8 @@ th, td {
 
 tr:nth-child(even){background-color: #f7f4f4}
 </style>
+@yield('style')
+
 </head>
 <body>
 
@@ -357,6 +359,7 @@ tr:nth-child(even){background-color: #f7f4f4}
 
   <input type="submit" class="btn btn-rounded btn-primary mb-5" value="Save And Print" onclick="myPrint('mytable')">
 </form>
+@yield('content')
 
 
 </body>
@@ -371,5 +374,7 @@ tr:nth-child(even){background-color: #f7f4f4}
         newwin.close();
     }
 </script>
+@yield('script')
+
 </html>
 

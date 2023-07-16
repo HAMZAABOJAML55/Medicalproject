@@ -37,6 +37,7 @@
             background: green;
         }
     </style>
+                    @yield('style')
 
 </head>
 
@@ -501,6 +502,7 @@
             </tr>
         </table>
 
+        @yield('content')
 
     </div>
     </div>
@@ -544,6 +546,8 @@
           
         });
     </script>
+                        @yield('script')
+
 </body>
 
 </html>

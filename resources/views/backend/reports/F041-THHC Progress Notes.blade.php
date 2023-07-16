@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Document | @yield('title')
+    </title>
 </head>
 <body id="body">
 
@@ -60,6 +61,8 @@ table {
     background-color: black; /* لون خلفية أبيض */
   }
 </style>
+@yield('style')
+
 <div class="frame">
 <button onclick='myfanction()' class='btn-secondary'>طباعة الملف</button><br>
 <a href="{{ route('print-pdf') }}" target="_blank">طباعة كـ PDF</a>
@@ -93,6 +96,7 @@ table {
 
 </div>
 
+@yield('content')
 
 
 
@@ -114,3 +118,4 @@ table {
     }
 
 </script>
+    @yield('script')

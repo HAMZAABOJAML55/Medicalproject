@@ -14,6 +14,7 @@ Physical Therapy visit note
 }
 
 </style>
+@yield('style')
 @endsection
 @section('title2')
 <textarea name="patient_label" id="patient" cols="20" class="text-center"  placeholder="PATIENT LABEL" rows="3"></textarea>
@@ -266,4 +267,5 @@ Physical Therapy visit note
 
    })
     </script> 
+    @yield('script')
 @endpush

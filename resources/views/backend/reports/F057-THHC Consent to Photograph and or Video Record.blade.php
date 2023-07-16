@@ -2,7 +2,7 @@
 <html lang="en" id="html">
 <head>
     <meta charset="UTF-8">
-    <title>F057-THHC Consent to Photograph and or Video Record</title>
+    <title>F057-THHC Consent to Photograph and or Video Record | @yield('title')</title>
     <!-- Add the Bootstrap stylesheet -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
@@ -26,6 +26,7 @@
             height: 100%;
         }
     </style>
+    @yield('style')
 </head>
 <body id="body">
     <div class="container " id="content">
@@ -286,6 +287,7 @@
                                 </div>  
                             </div>
                     </div>
+                    @yield('content')
 
                     
                     <button id="submit-pdf" class="mt-5">Dawnload PDF</button>      
@@ -357,5 +359,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.9.3/html2pdf.bundle.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.3.2/html2canvas.min.js"></script>
+    @yield('script')
+
 </body>
 </html>

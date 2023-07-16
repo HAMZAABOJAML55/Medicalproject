@@ -412,8 +412,8 @@
 91-100 Excellent   //   81-90 Superior   //   71-80 Good   //   61-70 Fair   //   50-60 Poor  
 </p>
 </div>
-
-    <footer>
+@yield('content')
+<footer>
     F062-THHC SUPERVISORY VISIT STAFF
     </footer>
 
@@ -518,6 +518,7 @@ border: 1px #2b2929 solid;
         
     }
   </style>
+@yield('styles')
     </form>
 
 <a href="{{ route('report.storge') }}"><input type="button" class="btn btn-danger btnconvert" value="Create PDF" 
@@ -743,6 +744,7 @@ function printForm() {
     }
 </script>
 
+@section('script')
 
 
 

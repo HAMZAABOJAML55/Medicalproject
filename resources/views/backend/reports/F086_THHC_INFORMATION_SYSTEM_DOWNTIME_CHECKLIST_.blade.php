@@ -5,7 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="csrf-token" content="{{ csrf_token() }}">
-    <title>F086-THHC INFORMATION SYSTEM DOWNTIME CHECKLIST</title>
+    <title>F086-THHC INFORMATION SYSTEM DOWNTIME CHECKLIST | @yield('title')
+    </title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous"> v
     <style>
         body{
@@ -19,7 +20,7 @@
             height:50px;
         }
     </style>
-
+@yield('style')
 </head>
 <body>
 
@@ -197,6 +198,7 @@
             </div>
 
         </div>
+        @yield('content')
 
         <div class="my-3">
             <button class="btn btn-primary" onclick="toPDF()">jsPDF</button>
@@ -207,7 +209,7 @@
     <script src="https://code.jquery.com/jquery-3.7.0.min.js" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js" integrity="sha512-BNaRQnYJYiPSqHHDb58B0yaPfCu+Wgds8Gp/gU33kqBtgNS4tSPHuGibyoeqMV/TJlSKda6FXzoEyYGjTe+vXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
-
+    @yield('script')
     <script>
 
         function toPDF(){
@@ -258,6 +260,7 @@
             });
         }
     </script>
+    @yield('script')
 
 </body>
 </html>

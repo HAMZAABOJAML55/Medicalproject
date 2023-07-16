@@ -2,7 +2,8 @@
 <html>
 
 <head>
-    <title>Patient Assessment Form</title>
+    <title>Patient Assessment Form |             @yield('title')
+    </title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
     <style>
         /* Add custom styles */
@@ -38,6 +39,8 @@
             touch-action: none;
         }
     </style>
+            @yield('style')
+
 </head>
 
 <body>
@@ -625,6 +628,7 @@
             </div>
 
 
+            @yield('content')
 
 
         </form>
@@ -706,6 +710,8 @@
 
         });
     </script>
+            @yield('script')
+
 </body>
 
 </html>

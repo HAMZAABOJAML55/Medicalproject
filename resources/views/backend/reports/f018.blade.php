@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title> </title>
+    <title>F018-THHC ORIENTATION CHECKLIST | @yield('title')</title>
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
@@ -39,8 +39,8 @@
         table tr{
             height:50px;
         }
-
-
+        
+        
         #first-signature-pad,
         #second-signature-pad{
             width: 100%;
@@ -48,18 +48,19 @@
         }
 
 
-
+        
     </style>
-
+@yield('style')
 </head>
 <body>
 
-
-<form method="get" action="{{route('pdf_loading')}}">
+   
+    
     <div class="report-form container my-5 py-3 bg-light shadow">
 
         <div class="report-header d-flex align-items-center" id="reportHeader">
-{{--            <img src="{{$data['imagePath']}}" class="report-logo" />--}}
+            <img src="{{ asset('assets/reports/logo.png') }}" class="report-logo"/>
+            @yield('title2')
             <h4>
                 ORIENTATION CHECKLIST
             </h4>
@@ -74,7 +75,7 @@
                             <div class="row align-items-center">
                                 <div class="col-3"><label for="doctorName">Staff Name:</label></div>
                                 <div class="col-9">
-                                    <input type="text"  value="{{$data['doctorName']}}" name="doctorName" class="form-control">
+                                    <input type="text" class="form-control">
                                 </div>
                             </div>
                         </td>
@@ -82,23 +83,9 @@
                             <div class="row align-items-center">
                                 <div class="col-3"><label for="doctorID">I.D #:</label></div>
                                 <div class="col-9">
-                                    <input type="text" value="{{$data['doctorID']}}" name="doctorID" id="doctorID" class="form-control">
+                                    <input type="text" name="doctorID" id="doctorID" class="form-control">
                                 </div>
                             </div>
-
-                            <div class="col-md-3">
-                                <div class="form-group">
-                                    <label for="doctorID">Doctor : <span class="text-danger">*</span></label>
-                                    <select class="custom-select mr-sm-2" name="doctorID">
-                                        <option selected disabled>Choose...</option>
-                                        @foreach($doctots as $d)
-                                            <option  value="{{ $d->id }}">{{ $d->name }}</option>
-                                        @endforeach
-                                    </select>
-                                </div>
-                            </div>
-
-
                         </td>
                     </tr>
                     <tr>
@@ -106,7 +93,7 @@
                         <div class="row">
                                 <div class="col-3"><label for="reportDate">Date:</label></div>
                                 <div class="col-9">
-                                    <input type="text"  value="{{$data['reportDate']}}" name="reportDate" id="reportDate" class="form-control">
+                                    <input type="date" name="reportDate" id="reportDate" class="form-control">
                                 </div>
                         </div>
                         </td>
@@ -114,7 +101,7 @@
                             <div class="row">
                                 <div class="col-3"><label for="joiningDate">Joining Date</label></div>
                                 <div class="col-9">
-                                    <input type="text" value="{{$data['joiningDate']}}"  name="joiningDate" id="joiningDate" class="form-control">
+                                    <input type="date" name="joiningDate" id="joiningDate" class="form-control">
                                 </div>
                             </div>
                         </td>
@@ -125,7 +112,7 @@
             <div class="direction my-4">
                 <p>
                     <strong>Directions: </strong>
-                    if the orientation topic was given, write your initials (signature) and date at the right side of the checklist. [N/A] indicates the item is not applicable to you. All aspect should be covered during orientation period.
+                    if the orientation topic was given, write your initials (signature) and date at the right side of the checklist. [N/A] indicates the item is not applicable to you. All aspect should be covered during orientation period. 
                 </p>
             </div>
 
@@ -147,10 +134,10 @@
                     <tr>
                         <td class="">Job specific orientation (Review of Job Description), Privileges  </td>
                         <td class="">
-                            <input type="text" value="{{$data['doctorID']}}" name="" id="" class="form-control">
+                            <input type="text" name="" id="" class="form-control">
                         </td>
                         <td class="">
-                            <input type="text"  value="{{$data['doctorID']}}" name="" id="" class="form-control">
+                            <input type="text" name="" id="" class="form-control">
                         </td>
                     </tr>
                     <tr>
@@ -162,7 +149,7 @@
                             <input type="text" name="" id="" class="form-control">
                         </td>
                     </tr>
-
+                    
                     <tr>
                         <td class="">Introducing team members roles and responsibilities  </td>
                         <td class="">
@@ -355,15 +342,15 @@
                         <td class="">
                             Quality, patient safety, Care, and risk management:
                                 <ul>
-                                    <li>Patient rights and responsibilities</li>
-                                    <li>Ethics and professional conduct </li>
-                                    <li>Patient safety concept </li>
-                                    <li>Reporting critical results </li>
-                                    <li>Unit KPI </li>
-                                    <li>Informed consent</li>
-                                    <li>Antibiotic stewardship</li>
-                                    <li>Adverse and sentinel event </li>
-                                    <li>Reporting system Risk management plan</li>
+                                    <li>Patient rights and responsibilities</li> 
+                                    <li>Ethics and professional conduct </li> 
+                                    <li>Patient safety concept </li> 
+                                    <li>Reporting critical results </li> 
+                                    <li>Unit KPI </li> 
+                                    <li>Informed consent</li> 
+                                    <li>Antibiotic stewardship</li> 
+                                    <li>Adverse and sentinel event </li> 
+                                    <li>Reporting system Risk management plan</li> 
                                 </ul>
                         </td>
                         <td class="">
@@ -621,7 +608,7 @@
 
 
             <p class="terms my-4">
-                I have been oriented to the Tawazun home health care and have been given the opportunity to ask questions on the above material. I understand the material presented to me.
+                I have been oriented to the Tawazun home health care and have been given the opportunity to ask questions on the above material. I understand the material presented to me. 
             </p>
 
 
@@ -635,7 +622,7 @@
                         </div>
                         <button class="btn btn-danger" onclick="firstSignaturePad.clear()">Clear</button>
                     </div>
-
+                    
                 </div>
                 <div class="col-4 row align-items-center">
                     <div class="col-3">Date:</div>
@@ -694,19 +681,16 @@
                     </tr>
                 </tbody>
             </table>
-
+            
             <div id="reportFooter" class="d-flex justify-content-end p-5 text-muted">F018-THHC ORIENTATION CHECKLIST</div>
         </div>
 
-
-
+        @section('content')
+        
         <div class="my-3">
-{{--            <button class="btn btn-primary" onclick="toPDF()">PDF</button>--}}
+            <button class="btn btn-primary" onclick="toPDF()">PDF</button>
         </div>
-       <button class="btn btn-primary" type="submit">PDF</button>
-
     </div>
-</form>
 
     <script src="https://code.jquery.com/jquery-3.7.0.min.js" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js" integrity="sha512-BNaRQnYJYiPSqHHDb58B0yaPfCu+Wgds8Gp/gU33kqBtgNS4tSPHuGibyoeqMV/TJlSKda6FXzoEyYGjTe+vXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
@@ -715,13 +699,13 @@
     <script src="https://cdn.jsdelivr.net/npm/signature_pad@4.0.0/dist/signature_pad.umd.min.js"></script>
 
     <script>
-
+        
         function toPDF() {
             const { jsPDF } = window.jspdf;
-
+            
             const reportHeader=document.getElementById("reportHeader");
             const reportBody=document.getElementById("reportContent");
-
+            
             const doc=new jsPDF('p', 'px', [reportBody.offsetWidth+50,(reportBody.offsetHeight/reportBody.offsetWidth)+(reportBody.offsetWidth/2.16)]);
 
             doc.html(reportHeader,{
@@ -733,9 +717,8 @@
                             var formData = new FormData();
                             formData.append('pdf', blob);
 
-                            $.ajax(
+                            $.ajax('/report/story',
                             {
-                                url:"{{route('report.store')}}",
                                 method: 'POST',
                                 headers: {
                                     'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
@@ -785,6 +768,7 @@
 
     </script>
 
+@section('script')
 
 
     <script>
@@ -797,10 +781,11 @@
             document.querySelector("#second-signature-pad"),{
                 backgroundColor: "#e5e5e5",
             });
-
-
+        
+      
     </script>
 
+@section('script')
 
 </body>
 </html>
