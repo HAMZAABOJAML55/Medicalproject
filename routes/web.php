@@ -29,3 +29,13 @@ Route::get('/index', function(){
 
 Route::get('/show_pdf',[ReportController::class,'create'])->name('show_pdf');
 Route::get('/pdf_loading',[ReportController::class,'pdf'])->name('pdf_loading');
+
+
+Route::prefix('reports/doctore')(function(){
+    Route::view('' , '/f018')->name('backend.reports.f018');
+    Route::view('temp' , 'reports.temp');
+    Route::resource('report' , ReportController::class);
+    Route::post('report_create/{id}' , [ReportController::class , 'create'])->name('report_create');
+    Route::post('report_pdf/{id}' , [ReportController::class , 'pdf'])->name('report_pdf');
+
+});
