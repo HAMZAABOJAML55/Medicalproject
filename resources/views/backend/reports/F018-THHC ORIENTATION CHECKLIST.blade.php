@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>F018-THHC ORIENTATION CHECKLIST |             @yield('title')
+    <title>F018-THHC ORIENTATION CHECKLIST |@yield('title')
     </title>
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
@@ -40,8 +40,8 @@
         table tr{
             height:50px;
         }
-        
-        
+
+
         #first-signature-pad,
         #second-signature-pad{
             width: 100%;
@@ -49,15 +49,15 @@
         }
 
 
-        
+
     </style>
             @yield('style')
 
 </head>
 <body>
 
-   
-    
+
+
     <div class="report-form container my-5 py-3 bg-light shadow">
 
         <div class="report-header d-flex align-items-center" id="reportHeader">
@@ -113,7 +113,7 @@
             <div class="direction my-4">
                 <p>
                     <strong>Directions: </strong>
-                    if the orientation topic was given, write your initials (signature) and date at the right side of the checklist. [N/A] indicates the item is not applicable to you. All aspect should be covered during orientation period. 
+                    if the orientation topic was given, write your initials (signature) and date at the right side of the checklist. [N/A] indicates the item is not applicable to you. All aspect should be covered during orientation period.
                 </p>
             </div>
 
@@ -150,7 +150,7 @@
                             <input type="text" name="" id="" class="form-control">
                         </td>
                     </tr>
-                    
+
                     <tr>
                         <td class="">Introducing team members roles and responsibilities  </td>
                         <td class="">
@@ -343,15 +343,15 @@
                         <td class="">
                             Quality, patient safety, Care, and risk management:
                                 <ul>
-                                    <li>Patient rights and responsibilities</li> 
-                                    <li>Ethics and professional conduct </li> 
-                                    <li>Patient safety concept </li> 
-                                    <li>Reporting critical results </li> 
-                                    <li>Unit KPI </li> 
-                                    <li>Informed consent</li> 
-                                    <li>Antibiotic stewardship</li> 
-                                    <li>Adverse and sentinel event </li> 
-                                    <li>Reporting system Risk management plan</li> 
+                                    <li>Patient rights and responsibilities</li>
+                                    <li>Ethics and professional conduct </li>
+                                    <li>Patient safety concept </li>
+                                    <li>Reporting critical results </li>
+                                    <li>Unit KPI </li>
+                                    <li>Informed consent</li>
+                                    <li>Antibiotic stewardship</li>
+                                    <li>Adverse and sentinel event </li>
+                                    <li>Reporting system Risk management plan</li>
                                 </ul>
                         </td>
                         <td class="">
@@ -609,7 +609,7 @@
 
 
             <p class="terms my-4">
-                I have been oriented to the Tawazun home health care and have been given the opportunity to ask questions on the above material. I understand the material presented to me. 
+                I have been oriented to the Tawazun home health care and have been given the opportunity to ask questions on the above material. I understand the material presented to me.
             </p>
 
 
@@ -623,7 +623,7 @@
                         </div>
                         <button class="btn btn-danger" onclick="firstSignaturePad.clear()">Clear</button>
                     </div>
-                    
+
                 </div>
                 <div class="col-4 row align-items-center">
                     <div class="col-3">Date:</div>
@@ -688,7 +688,7 @@
         </div>
 
 
-        
+
         <div class="my-3">
             <button class="btn btn-primary" onclick="toPDF()">PDF</button>
         </div>
@@ -701,13 +701,13 @@
     <script src="https://cdn.jsdelivr.net/npm/signature_pad@4.0.0/dist/signature_pad.umd.min.js"></script>
 
     <script>
-        
+
         function toPDF() {
             const { jsPDF } = window.jspdf;
-            
+
             const reportHeader=document.getElementById("reportHeader");
             const reportBody=document.getElementById("reportContent");
-            
+
             const doc=new jsPDF('p', 'px', [reportBody.offsetWidth+50,(reportBody.offsetHeight/reportBody.offsetWidth)+(reportBody.offsetWidth/2.16)]);
 
             doc.html(reportHeader,{
@@ -770,7 +770,7 @@
 
     </script>
 
-    
+
 
     <script>
 
@@ -782,8 +782,8 @@
             document.querySelector("#second-signature-pad"),{
                 backgroundColor: "#e5e5e5",
             });
-        
-      
+
+
     </script>
 
 @yield('script')
