@@ -1,8 +1,5 @@
-<html xmlns:v="urn:schemas-microsoft-com:vml"
-xmlns:o="urn:schemas-microsoft-com:office:office"
-xmlns:x="urn:schemas-microsoft-com:office:excel"
-xmlns="http://www.w3.org/TR/REC-html40">
-
+<!DOCTYPE html>
+<html lang="en">
 <head>
 <meta name="Excel Workbook Frameset">
 <meta http-equiv=Content-Type content="text/html; charset=windows-1252">
@@ -10,13 +7,13 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=Generator content="Microsoft Excel 15">
 <link rel=File-List
 href="F033-THHC%20Nursing%20Care%20Plan%20Form.files/filelist.xml">
-<![if !supportTabStrip]>
 <link id="shLink" href="F033-THHC%20Nursing%20Care%20Plan%20Form.files/sheet001.htm">
 
 <link id="shLink">
+<title>F033-THHC Nursing Care Plan Form| @yield('title')</title>
 
 <script language="JavaScript">
-<!--
+
  var c_lTabs=1;
 
  var c_rgszSh=new Array(c_lTabs);
@@ -294,25 +291,8 @@ function fnSetActiveSheet(iSh)
   fnBuildFrameset();
 //-->
 </script>
-<![endif]><!--[if gte mso 9]><xml>
- <x:ExcelWorkbook>
-  <x:ExcelWorksheets>
-   <x:ExcelWorksheet>
-    <x:Name>Sheet1</x:Name>
-    <x:WorksheetSource
-     HRef="F033-THHC%20Nursing%20Care%20Plan%20Form.files/sheet001.htm"/>
-   </x:ExcelWorksheet>
-  </x:ExcelWorksheets>
-  <x:Stylesheet
-   HRef="F033-THHC%20Nursing%20Care%20Plan%20Form.files/stylesheet.css"/>
-  <x:WindowHeight>8880</x:WindowHeight>
-  <x:WindowWidth>23040</x:WindowWidth>
-  <x:WindowTopX>32767</x:WindowTopX>
-  <x:WindowTopY>32767</x:WindowTopY>
-  <x:ProtectStructure>False</x:ProtectStructure>
-  <x:ProtectWindows>False</x:ProtectWindows>
- </x:ExcelWorkbook>
-</xml><![endif]-->
+@yield('script')
+
 </head>
 
 <frameset rows="*,39" border=0 width=0 frameborder=no framespacing=0>

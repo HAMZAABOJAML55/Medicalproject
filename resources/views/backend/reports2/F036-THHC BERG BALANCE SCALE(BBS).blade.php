@@ -1,10 +1,5 @@
-<html xmlns:v="urn:schemas-microsoft-com:vml"
-xmlns:o="urn:schemas-microsoft-com:office:office"
-xmlns:w="urn:schemas-microsoft-com:office:word"
-xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
-xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
-xmlns="http://www.w3.org/TR/REC-html40">
-
+<!DOCTYPE html>
+<html lang="en">
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=windows-1252">
 <meta name=ProgId content=Word.Document>
@@ -14,669 +9,8 @@ xmlns="http://www.w3.org/TR/REC-html40">
 href="F036-THHC%20BERG%20BALANCE%20SCALE(BBS).files/filelist.xml">
 <link rel=Edit-Time-Data
 href="F036-THHC%20BERG%20BALANCE%20SCALE(BBS).files/editdata.mso">
-<!--[if !mso]>
-<style>
-v\:* {behavior:url(#default#VML);}
-o\:* {behavior:url(#default#VML);}
-w\:* {behavior:url(#default#VML);}
-.shape {behavior:url(#default#VML);}
-</style>
-<![endif]--><!--[if gte mso 9]><xml>
- <o:DocumentProperties>
-  <o:Author>Ramil</o:Author>
-  <o:LastAuthor>HAMZA AL HELOU</o:LastAuthor>
-  <o:Revision>2</o:Revision>
-  <o:TotalTime>25</o:TotalTime>
-  <o:Created>2023-07-17T13:59:00Z</o:Created>
-  <o:LastSaved>2023-07-17T13:59:00Z</o:LastSaved>
-  <o:Pages>1</o:Pages>
-  <o:Words>735</o:Words>
-  <o:Characters>4195</o:Characters>
-  <o:Lines>34</o:Lines>
-  <o:Paragraphs>9</o:Paragraphs>
-  <o:CharactersWithSpaces>4921</o:CharactersWithSpaces>
-  <o:Version>16.00</o:Version>
- </o:DocumentProperties>
- <o:CustomDocumentProperties>
-  <o:Created dt:dt="date">2019-11-27</o:Created>
-  <o:Creator dt:dt="string">Microsoft® Word for Office 365</o:Creator>
-  <o:LastSaved dt:dt="date">2020-02-17</o:LastSaved>
- </o:CustomDocumentProperties>
- <o:OfficeDocumentSettings>
-  <o:RelyOnVML/>
-  <o:AllowPNG/>
- </o:OfficeDocumentSettings>
-</xml><![endif]-->
-<link rel=dataStoreItem
-href="F036-THHC%20BERG%20BALANCE%20SCALE(BBS).files/item0001.xml"
-target="F036-THHC%20BERG%20BALANCE%20SCALE(BBS).files/props002.xml">
-<link rel=themeData
-href="F036-THHC%20BERG%20BALANCE%20SCALE(BBS).files/themedata.thmx">
-<link rel=colorSchemeMapping
-href="F036-THHC%20BERG%20BALANCE%20SCALE(BBS).files/colorschememapping.xml">
-<!--[if gte mso 9]><xml>
- <w:WordDocument>
-  <w:SpellingState>Clean</w:SpellingState>
-  <w:GrammarState>Clean</w:GrammarState>
-  <w:TrackMoves>false</w:TrackMoves>
-  <w:TrackFormatting/>
-  <w:PunctuationKerning/>
-  <w:DrawingGridHorizontalSpacing>5.5 &#1606;&#1602;&#1591;&#1577;</w:DrawingGridHorizontalSpacing>
-  <w:DisplayHorizontalDrawingGridEvery>2</w:DisplayHorizontalDrawingGridEvery>
-  <w:ValidateAgainstSchemas/>
-  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
-  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
-  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
-  <w:DoNotPromoteQF/>
-  <w:LidThemeOther>EN-US</w:LidThemeOther>
-  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
-  <w:LidThemeComplexScript>AR-SA</w:LidThemeComplexScript>
-  <w:Compatibility>
-   <w:ULTrailSpace/>
-   <w:BreakWrappedTables/>
-   <w:SnapToGridInCell/>
-   <w:WrapTextWithPunct/>
-   <w:UseAsianBreakRules/>
-   <w:DontGrowAutofit/>
-   <w:SplitPgBreakAndParaMark/>
-   <w:EnableOpenTypeKerning/>
-   <w:DontFlipMirrorIndents/>
-   <w:OverrideTableStyleHps/>
-  </w:Compatibility>
-  <w:DoNotOptimizeForBrowser/>
-  <m:mathPr>
-   <m:mathFont m:val="Cambria Math"/>
-   <m:brkBin m:val="before"/>
-   <m:brkBinSub m:val="&#45;-"/>
-   <m:smallFrac/>
-   <m:dispDef/>
-   <m:lMargin m:val="0"/>
-   <m:rMargin m:val="0"/>
-   <m:defJc m:val="centerGroup"/>
-   <m:wrapIndent m:val="1440"/>
-   <m:intLim m:val="subSup"/>
-   <m:naryLim m:val="undOvr"/>
-  </m:mathPr></w:WordDocument>
-</xml><![endif]--><!--[if gte mso 9]><xml>
- <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
-  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
-  LatentStyleCount="376">
-  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 2"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 3"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 5"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 6"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 8"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 6"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 7"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 8"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 9"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 1"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 2"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 3"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 4"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 5"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 6"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 7"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 8"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 9"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Normal Indent"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="footnote text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="annotation text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="header"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="footer"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index heading"/>
-  <w:LsdException Locked="false" Priority="35" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="caption"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="table of figures"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="envelope address"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="envelope return"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="footnote reference"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="annotation reference"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="line number"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="page number"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="endnote reference"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="endnote text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="table of authorities"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="macro"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="toa heading"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number 5"/>
-  <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Closing"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Signature"/>
-  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
-   UnhideWhenUsed="true" Name="Default Paragraph Font"/>
-  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="Body Text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text Indent"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Message Header"/>
-  <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Salutation"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Date"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text First Indent"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text First Indent 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Note Heading"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text Indent 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text Indent 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Block Text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Hyperlink"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="FollowedHyperlink"/>
-  <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
-  <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Document Map"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Plain Text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="E-mail Signature"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Top of Form"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Bottom of Form"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Normal (Web)"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Acronym"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Address"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Cite"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Code"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Definition"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Keyboard"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Preformatted"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Sample"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Typewriter"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Variable"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Normal Table"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="annotation subject"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="No List"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Outline List 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Outline List 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Outline List 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Simple 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Simple 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Simple 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Classic 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Classic 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Classic 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Classic 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Colorful 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Colorful 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Colorful 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 6"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 7"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 8"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 6"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 7"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 8"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table 3D effects 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table 3D effects 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table 3D effects 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Contemporary"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Elegant"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Professional"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Subtle 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Subtle 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Web 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Web 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Web 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Balloon Text"/>
-  <w:LsdException Locked="false" Priority="39" Name="Table Grid"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Theme"/>
-  <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
-  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" Name="Revision"/>
-  <w:LsdException Locked="false" Priority="34" QFormat="true"
-   Name="List Paragraph"/>
-  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
-  <w:LsdException Locked="false" Priority="30" QFormat="true"
-   Name="Intense Quote"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
-  <w:LsdException Locked="false" Priority="19" QFormat="true"
-   Name="Subtle Emphasis"/>
-  <w:LsdException Locked="false" Priority="21" QFormat="true"
-   Name="Intense Emphasis"/>
-  <w:LsdException Locked="false" Priority="31" QFormat="true"
-   Name="Subtle Reference"/>
-  <w:LsdException Locked="false" Priority="32" QFormat="true"
-   Name="Intense Reference"/>
-  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
-  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
-   UnhideWhenUsed="true" Name="Bibliography"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
-  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
-  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
-  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
-  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
-  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
-  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
-  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
-  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
-  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 1"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 1"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 1"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 2"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 2"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 2"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 3"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 3"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 3"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 4"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 4"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 4"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 5"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 5"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 5"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 6"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 6"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 6"/>
-  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
-  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
-  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 1"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 1"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 1"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 2"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 2"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 2"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 3"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 3"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 3"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 4"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 4"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 4"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 5"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 5"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 5"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 6"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 6"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 6"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Mention"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Smart Hyperlink"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Hashtag"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Unresolved Mention"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Smart Link"/>
- </w:LatentStyles>
-</xml><![endif]-->
+<title>F036-THHC BERG BALANCE SCALE(BBS)| @yield('title')</title>
+
 <style>
 <!--
  /* Font Definitions */
@@ -1384,12 +718,8 @@ table.MsoTableGrid
 	mso-ansi-language:EN-US;
 	mso-fareast-language:EN-US;}
 </style>
-<![endif]--><!--[if gte mso 9]><xml>
- <o:shapedefaults v:ext="edit" spidmax="2051"/>
-</xml><![endif]--><!--[if gte mso 9]><xml>
- <o:shapelayout v:ext="edit">
-  <o:idmap v:ext="edit" data="1"/>
- </o:shapelayout></xml><![endif]-->
+@yield('styles')
+
 </head>
 
 <body lang=EN-GB style='tab-interval:36.0pt'>
@@ -1459,7 +789,7 @@ record the lowest response category that applies for each item. <o:p></o:p></spa
   <p class=MsoNormal style='margin-right:191.0pt;mso-line-height-alt:0pt'><span
   lang=EN-US style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:
   "Arial Narrow";mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
-  major-bidi'><span style='mso-spacerun:yes'>   </span>4 - able to sit safely
+  major-bidi'><span style='mso-spacerun:yes'>ï¿½ï¿½ </span>4 - able to sit safely
   and securely 2 minutes<o:p></o:p></span></p>
   <p class=MsoNormal style='line-height:.05pt;mso-line-height-rule:exactly'><b
   style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:10.0pt;
@@ -1468,7 +798,7 @@ record the lowest response category that applies for each item. <o:p></o:p></spa
   <p class=MsoNormal style='mso-line-height-alt:0pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>3 - able to sit 2 minutes under
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>3 - able to sit 2 minutes under
   supervision<o:p></o:p></span></p>
   <p class=MsoNormal style='line-height:.1pt;mso-line-height-rule:exactly'><b
   style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:10.0pt;
@@ -1477,15 +807,15 @@ record the lowest response category that applies for each item. <o:p></o:p></spa
   <p class=MsoNormal style='line-height:99%'><span lang=EN-US style='font-size:
   10.0pt;line-height:99%;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>2 - able to sit 30 seconds<o:p></o:p></span></p>
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>2 - able to sit 30 seconds<o:p></o:p></span></p>
   <p class=MsoNormal style='line-height:99%'><span lang=EN-US style='font-size:
   10.0pt;line-height:99%;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>1 - able to sit 10 seconds<o:p></o:p></span></p>
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>1 - able to sit 10 seconds<o:p></o:p></span></p>
   <p class=MsoNormal style='mso-line-height-alt:0pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>0 - unable to sit without support 10 seconds<o:p></o:p></span></p>
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>0 - unable to sit without support 10 seconds<o:p></o:p></span></p>
   </td>
   <td width=84 valign=bottom style='width:63.15pt;padding:0cm 0cm 0cm 0cm;
   height:31.6pt'>
@@ -1518,7 +848,7 @@ record the lowest response category that applies for each item. <o:p></o:p></spa
   tab-stops:14.2pt;text-autospace:ideograph-numeric ideograph-other'><span
   lang=EN-US style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
-  major-bidi'><span style='mso-spacerun:yes'>   </span>4 - able to stand
+  major-bidi'><span style='mso-spacerun:yes'>ï¿½ï¿½ </span>4 - able to stand
   without using hands and stabilize independently<o:p></o:p></span></p>
   <p class=MsoNormal style='line-height:.05pt;mso-line-height-rule:exactly'><span
   lang=EN-US style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:
@@ -1528,7 +858,7 @@ record the lowest response category that applies for each item. <o:p></o:p></spa
   tab-stops:14.2pt;text-autospace:ideograph-numeric ideograph-other'><span
   lang=EN-US style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
-  major-bidi'><span style='mso-spacerun:yes'>   </span>3 - able to stand
+  major-bidi'><span style='mso-spacerun:yes'>ï¿½ï¿½ </span>3 - able to stand
   independently using hands<o:p></o:p></span></p>
   <p class=MsoNormal style='line-height:.05pt;mso-line-height-rule:exactly'><span
   lang=EN-US style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:
@@ -1538,7 +868,7 @@ record the lowest response category that applies for each item. <o:p></o:p></spa
   tab-stops:14.2pt;text-autospace:ideograph-numeric ideograph-other'><span
   lang=EN-US style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
-  major-bidi'><span style='mso-spacerun:yes'>   </span>2 - able to stand using
+  major-bidi'><span style='mso-spacerun:yes'>ï¿½ï¿½ </span>2 - able to stand using
   hands after several tries<o:p></o:p></span></p>
   <p class=MsoNormal style='line-height:.05pt;mso-line-height-rule:exactly'><span
   lang=EN-US style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:
@@ -1548,7 +878,7 @@ record the lowest response category that applies for each item. <o:p></o:p></spa
   tab-stops:14.2pt;text-autospace:ideograph-numeric ideograph-other'><span
   lang=EN-US style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
-  major-bidi'><span style='mso-spacerun:yes'>   </span>1 - needs minimal aid to
+  major-bidi'><span style='mso-spacerun:yes'>ï¿½ï¿½ </span>1 - needs minimal aid to
   stand or stabilize<o:p></o:p></span></p>
   <p class=MsoNormal style='line-height:.05pt;mso-line-height-rule:exactly'><span
   lang=EN-US style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:
@@ -1558,7 +888,7 @@ record the lowest response category that applies for each item. <o:p></o:p></spa
   tab-stops:14.2pt;text-autospace:ideograph-numeric ideograph-other'><span
   lang=EN-US style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
-  major-bidi'><span style='mso-spacerun:yes'>   </span>0 - needs moderate or
+  major-bidi'><span style='mso-spacerun:yes'>ï¿½ï¿½ </span>0 - needs moderate or
   maximal assist to stand<o:p></o:p></span></p>
   </td>
   <td width=84 valign=bottom style='width:63.15pt;padding:0cm 0cm 0cm 0cm;
@@ -1591,7 +921,7 @@ record the lowest response category that applies for each item. <o:p></o:p></spa
   <p class=MsoNormal style='mso-line-height-alt:0pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>4 - able to stand safely 2 minutes<o:p></o:p></span></p>
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>4 - able to stand safely 2 minutes<o:p></o:p></span></p>
   <p class=MsoNormal style='line-height:.05pt;mso-line-height-rule:exactly'><span
   lang=EN-US style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
@@ -1599,16 +929,16 @@ record the lowest response category that applies for each item. <o:p></o:p></spa
   <p class=MsoNormal style='mso-line-height-alt:0pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>3 - able to stand 2 minutes with
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>3 - able to stand 2 minutes with
   supervision<o:p></o:p></span></p>
   <p class=MsoNormal style='line-height:99%'><span lang=EN-US style='font-size:
   10.0pt;line-height:99%;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>2 - able to stand 30 seconds unsupported<o:p></o:p></span></p>
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>2 - able to stand 30 seconds unsupported<o:p></o:p></span></p>
   <p class=MsoNormal style='mso-line-height-alt:0pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>1 - needs several tries to stand 30
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>1 - needs several tries to stand 30
   seconds unsupported<o:p></o:p></span></p>
   <p class=MsoNormal style='line-height:.05pt;mso-line-height-rule:exactly'><span
   lang=EN-US style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:
@@ -1617,7 +947,7 @@ record the lowest response category that applies for each item. <o:p></o:p></spa
   <p class=MsoNormal style='mso-line-height-alt:0pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>0 - unable to stand 30 seconds unassisted<o:p></o:p></span></p>
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>0 - unable to stand 30 seconds unassisted<o:p></o:p></span></p>
   </td>
   <td width=84 valign=bottom style='width:63.15pt;padding:0cm 0cm 0cm 0cm;
   height:17.5pt'>
@@ -1649,11 +979,11 @@ record the lowest response category that applies for each item. <o:p></o:p></spa
   <p class=MsoNormal style='mso-line-height-alt:0pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>4 - sits safely with minimal use of hands<o:p></o:p></span></p>
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>4 - sits safely with minimal use of hands<o:p></o:p></span></p>
   <p class=MsoNormal style='mso-line-height-alt:0pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>3 - controls descent by using hands<o:p></o:p></span></p>
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>3 - controls descent by using hands<o:p></o:p></span></p>
   <p class=MsoNormal style='line-height:.05pt;mso-line-height-rule:exactly'><span
   lang=EN-US style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
@@ -1661,17 +991,17 @@ record the lowest response category that applies for each item. <o:p></o:p></spa
   <p class=MsoNormal style='mso-line-height-alt:0pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>2 - uses back of legs against chair to control
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>2 - uses back of legs against chair to control
   descent<o:p></o:p></span></p>
   <p class=MsoNormal style='line-height:99%'><span lang=EN-US style='font-size:
   10.0pt;line-height:99%;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>1 - sits independently but has
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>1 - sits independently but has
   uncontrolled descent<o:p></o:p></span></p>
   <p class=MsoNormal style='mso-line-height-alt:0pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>0 needs assistance to sit<o:p></o:p></span></p>
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>0 needs assistance to sit<o:p></o:p></span></p>
   </td>
   <td width=84 valign=bottom style='width:63.15pt;padding:0cm 0cm 0cm 0cm;
   height:17.5pt'>
@@ -1703,12 +1033,12 @@ record the lowest response category that applies for each item. <o:p></o:p></spa
   <p class=MsoNormal style='line-height:99%'><span lang=EN-US style='font-size:
   10.0pt;line-height:99%;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>4 - able to transfer safely with minor use
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>4 - able to transfer safely with minor use
   of hands<o:p></o:p></span></p>
   <p class=MsoNormal style='line-height:99%'><span lang=EN-US style='font-size:
   10.0pt;line-height:99%;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>3 - able to transfer safely definite need
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>3 - able to transfer safely definite need
   of hands<o:p></o:p></span></p>
   <p class=MsoNormal style='line-height:.05pt;mso-line-height-rule:exactly'><span
   lang=EN-US style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:
@@ -1717,7 +1047,7 @@ record the lowest response category that applies for each item. <o:p></o:p></spa
   <p class=MsoNormal style='mso-line-height-alt:0pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>2 - able to transfer with verbal cueing
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>2 - able to transfer with verbal cueing
   and/or supervision<o:p></o:p></span></p>
   <p class=MsoNormal style='line-height:.05pt;mso-line-height-rule:exactly'><span
   lang=EN-US style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:
@@ -1726,11 +1056,11 @@ record the lowest response category that applies for each item. <o:p></o:p></spa
   <p class=MsoNormal style='mso-line-height-alt:0pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>1 - needs one person to assist<o:p></o:p></span></p>
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>1 - needs one person to assist<o:p></o:p></span></p>
   <p class=MsoNormal style='line-height:99%'><span lang=EN-US style='font-size:
   10.0pt;line-height:99%;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>0 - needs two people to assist or
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>0 - needs two people to assist or
   supervise to be safe<o:p></o:p></span></p>
   </td>
   <td width=84 valign=bottom style='width:63.15pt;padding:0cm 0cm 0cm 0cm;
@@ -1770,17 +1100,17 @@ record the lowest response category that applies for each item. <o:p></o:p></spa
   widow-orphan;tab-stops:28.65pt;text-autospace:ideograph-numeric ideograph-other'><span
   lang=EN-US style='font-size:10.0pt;line-height:107%;font-family:Montserrat;
   mso-fareast-font-family:"Arial Narrow";mso-bidi-font-family:"Times New Roman";
-  mso-bidi-theme-font:major-bidi'><span style='mso-spacerun:yes'>   </span>4 - able
+  mso-bidi-theme-font:major-bidi'><span style='mso-spacerun:yes'>ï¿½ï¿½ </span>4 - able
   to stand 10 seconds safely<b style='mso-bidi-font-weight:normal'><o:p></o:p></b></span></p>
   <p class=MsoNormal style='line-height:99%'><span lang=EN-US style='font-size:
   10.0pt;line-height:99%;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>3 - able to stand 10 seconds with
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>3 - able to stand 10 seconds with
   supervision<o:p></o:p></span></p>
   <p class=MsoNormal style='mso-line-height-alt:0pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>2 - able to stand 3 seconds<o:p></o:p></span></p>
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>2 - able to stand 3 seconds<o:p></o:p></span></p>
   <p class=MsoNormal style='line-height:.1pt;mso-line-height-rule:exactly'><b
   style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:10.0pt;
   font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";mso-bidi-font-family:
@@ -1788,12 +1118,12 @@ record the lowest response category that applies for each item. <o:p></o:p></spa
   <p class=MsoNormal style='line-height:99%'><span lang=EN-US style='font-size:
   10.0pt;line-height:99%;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>1 - unable to keep eyes closed 3 seconds
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>1 - unable to keep eyes closed 3 seconds
   but stays steady<o:p></o:p></span></p>
   <p class=MsoNormal style='line-height:99%'><span lang=EN-US style='font-size:
   10.0pt;line-height:99%;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>0 - needs help to keep from falling<o:p></o:p></span></p>
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>0 - needs help to keep from falling<o:p></o:p></span></p>
   </td>
   <td width=84 valign=bottom style='width:63.15pt;padding:0cm 0cm 0cm 0cm;
   height:17.5pt'>
@@ -1831,17 +1161,17 @@ record the lowest response category that applies for each item. <o:p></o:p></spa
   <p class=MsoNormal style='line-height:99%'><span lang=EN-US style='font-size:
   10.0pt;line-height:99%;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>4 - able to place feet together independently
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>4 - able to place feet together independently
   and stand 1 minute safely<o:p></o:p></span></p>
   <p class=MsoNormal style='line-height:99%'><span lang=EN-US style='font-size:
   10.0pt;line-height:99%;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>3 - able to place feet together
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>3 - able to place feet together
   independently and stand for 1 minute with supervision<o:p></o:p></span></p>
   <p class=MsoNormal style='mso-line-height-alt:0pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>2 - able to place feet together
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>2 - able to place feet together
   independently but unable to hold for 30 seconds<o:p></o:p></span></p>
   <p class=MsoNormal style='line-height:.1pt;mso-line-height-rule:exactly'><b
   style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:10.0pt;
@@ -1850,12 +1180,12 @@ record the lowest response category that applies for each item. <o:p></o:p></spa
   <p class=MsoNormal style='line-height:99%'><span lang=EN-US style='font-size:
   10.0pt;line-height:99%;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>1 - needs help to attain position but able
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>1 - needs help to attain position but able
   to stand 15 seconds with feet together<o:p></o:p></span></p>
   <p class=MsoNormal style='line-height:99%'><span lang=EN-US style='font-size:
   10.0pt;line-height:99%;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>0 - needs help to attain position and
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>0 - needs help to attain position and
   unable to hold for 15 seconds<o:p></o:p></span></p>
   </td>
   <td width=84 valign=bottom style='width:63.15pt;padding:0cm 0cm 0cm 0cm;
@@ -1888,7 +1218,7 @@ record the lowest response category that applies for each item. <o:p></o:p></spa
   <p class=MsoNormal style='mso-line-height-alt:0pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>4 - able to place foot tandem
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>4 - able to place foot tandem
   independently and hold 30 seconds<o:p></o:p></span></p>
   <p class=MsoNormal style='line-height:.15pt;mso-line-height-rule:exactly'><span
   lang=EN-US style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:
@@ -1897,17 +1227,17 @@ record the lowest response category that applies for each item. <o:p></o:p></spa
   <p class=MsoNormal style='margin-right:9.0pt;line-height:99%'><span
   lang=EN-US style='font-size:10.0pt;line-height:99%;font-family:Montserrat;
   mso-fareast-font-family:"Arial Narrow";mso-bidi-font-family:"Times New Roman";
-  mso-bidi-theme-font:major-bidi'><span style='mso-spacerun:yes'>   </span>3 - able
+  mso-bidi-theme-font:major-bidi'><span style='mso-spacerun:yes'>ï¿½ï¿½ </span>3 - able
   to place foot ahead of other independently and hold 30 seconds <o:p></o:p></span></p>
   <p class=MsoNormal style='margin-right:58.5pt;line-height:99%'><span
   lang=EN-US style='font-size:10.0pt;line-height:99%;font-family:Montserrat;
   mso-fareast-font-family:"Arial Narrow";mso-bidi-font-family:"Times New Roman";
-  mso-bidi-theme-font:major-bidi'><span style='mso-spacerun:yes'>   </span>2 - able
+  mso-bidi-theme-font:major-bidi'><span style='mso-spacerun:yes'>ï¿½ï¿½ </span>2 - able
   to take small step independently and hold 30 seconds<o:p></o:p></span></p>
   <p class=MsoNormal style='mso-line-height-alt:0pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>1 - needs help to step but can hold 15
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>1 - needs help to step but can hold 15
   seconds<o:p></o:p></span></p>
   <p class=MsoNormal style='line-height:.05pt;mso-line-height-rule:exactly'><span
   lang=EN-US style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:
@@ -1916,7 +1246,7 @@ record the lowest response category that applies for each item. <o:p></o:p></spa
   <p class=MsoNormal style='mso-line-height-alt:0pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>0 - loses balance while stepping or
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>0 - loses balance while stepping or
   standing</span><b style='mso-bidi-font-weight:normal'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:"Times New Roman";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><o:p></o:p></span></b></p>
@@ -1951,7 +1281,7 @@ record the lowest response category that applies for each item. <o:p></o:p></spa
   <p class=MsoNormal style='mso-line-height-alt:0pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>4 - able to lift leg independently and
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>4 - able to lift leg independently and
   hold &gt;10 seconds</span><b style='mso-bidi-font-weight:normal'><span
   lang=EN-US style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
@@ -1963,17 +1293,17 @@ record the lowest response category that applies for each item. <o:p></o:p></spa
   <p class=MsoNormal style='mso-line-height-alt:0pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>3 - able to lift leg independently and
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>3 - able to lift leg independently and
   hold 5-10 seconds<o:p></o:p></span></p>
   <p class=MsoNormal style='line-height:99%'><span lang=EN-US style='font-size:
   10.0pt;line-height:99%;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>2 - able to lift leg independently and
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>2 - able to lift leg independently and
   hold = or &gt;3 seconds<o:p></o:p></span></p>
   <p class=MsoNormal style='mso-line-height-alt:0pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>1 - tries to lift leg unable to hold 3
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>1 - tries to lift leg unable to hold 3
   seconds but remains standing independently<o:p></o:p></span></p>
   <p class=MsoNormal style='line-height:.05pt;mso-line-height-rule:exactly'><span
   lang=EN-US style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:
@@ -1982,7 +1312,7 @@ record the lowest response category that applies for each item. <o:p></o:p></spa
   <p class=MsoNormal style='mso-line-height-alt:0pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>0 - unable to try or needs assist to
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>0 - unable to try or needs assist to
   prevent fall<o:p></o:p></span></p>
   </td>
   <td width=84 valign=bottom style='width:63.15pt;padding:0cm 0cm 0cm 0cm;
@@ -2016,18 +1346,18 @@ record the lowest response category that applies for each item. <o:p></o:p></spa
   105%;mso-pagination:widow-orphan;tab-stops:34.3pt;text-autospace:ideograph-numeric ideograph-other'><span
   lang=EN-US style='font-size:10.0pt;line-height:105%;font-family:Montserrat;
   mso-fareast-font-family:"Arial Narrow";mso-bidi-font-family:"Times New Roman";
-  mso-bidi-theme-font:major-bidi'><span style='mso-spacerun:yes'>   </span>4 - looks
+  mso-bidi-theme-font:major-bidi'><span style='mso-spacerun:yes'>ï¿½ï¿½ </span>4 - looks
   behind from both sides and weight shifts well<b style='mso-bidi-font-weight:
   normal'><o:p></o:p></b></span></p>
   <p class=MsoNormal style='line-height:99%'><span lang=EN-US style='font-size:
   10.0pt;line-height:99%;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>3 - looks behind one side only other side
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>3 - looks behind one side only other side
   shows less weight shift<o:p></o:p></span></p>
   <p class=MsoNormal style='mso-line-height-alt:0pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>2 - turns sideways only but maintains
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>2 - turns sideways only but maintains
   balance<o:p></o:p></span></p>
   <p class=MsoNormal style='line-height:.1pt;mso-line-height-rule:exactly'><b
   style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:10.0pt;
@@ -2036,11 +1366,11 @@ record the lowest response category that applies for each item. <o:p></o:p></spa
   <p class=MsoNormal style='line-height:99%'><span lang=EN-US style='font-size:
   10.0pt;line-height:99%;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>1 - needs supervision when turning<o:p></o:p></span></p>
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>1 - needs supervision when turning<o:p></o:p></span></p>
   <p class=MsoNormal style='line-height:99%'><span lang=EN-US style='font-size:
   10.0pt;line-height:99%;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>0 - needs assist to keep from losing
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>0 - needs assist to keep from losing
   balance or falling<o:p></o:p></span></p>
   </td>
   <td width=84 valign=bottom style='width:63.15pt;padding:0cm 0cm 0cm 0cm;
@@ -2073,12 +1403,12 @@ record the lowest response category that applies for each item. <o:p></o:p></spa
   <p class=MsoNormal style='mso-line-height-alt:0pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>4 - able to pick up slipper safely and
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>4 - able to pick up slipper safely and
   easily<o:p></o:p></span></p>
   <p class=MsoNormal style='mso-line-height-alt:0pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>3 - able to pick up slipper but needs
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>3 - able to pick up slipper but needs
   supervision<o:p></o:p></span></p>
   <p class=MsoNormal style='line-height:.15pt;mso-line-height-rule:exactly'><span
   lang=EN-US style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:
@@ -2087,7 +1417,7 @@ record the lowest response category that applies for each item. <o:p></o:p></spa
   <p class=MsoNormal style='margin-right:9.0pt;line-height:99%'><span
   lang=EN-US style='font-size:10.0pt;line-height:99%;font-family:Montserrat;
   mso-fareast-font-family:"Arial Narrow";mso-bidi-font-family:"Times New Roman";
-  mso-bidi-theme-font:major-bidi'><span style='mso-spacerun:yes'>   </span>2 - unable
+  mso-bidi-theme-font:major-bidi'><span style='mso-spacerun:yes'>ï¿½ï¿½ </span>2 - unable
   to pick up but reaches 1-2 inches from slipper and keeps balance
   independently<o:p></o:p></span></p>
   <p class=MsoNormal style='line-height:.05pt;mso-line-height-rule:exactly'><span
@@ -2097,7 +1427,7 @@ record the lowest response category that applies for each item. <o:p></o:p></spa
   <p class=MsoNormal style='mso-line-height-alt:0pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>1 - unable to pick up and needs
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>1 - unable to pick up and needs
   supervision while trying<o:p></o:p></span></p>
   <p class=MsoNormal style='line-height:.05pt;mso-line-height-rule:exactly'><span
   lang=EN-US style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:
@@ -2106,7 +1436,7 @@ record the lowest response category that applies for each item. <o:p></o:p></spa
   <p class=MsoNormal style='mso-line-height-alt:0pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>0 - unable to try/needs assist to keep
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>0 - unable to try/needs assist to keep
   from losing balance or falling<o:p></o:p></span></p>
   </td>
   <td width=84 valign=bottom style='width:63.15pt;padding:0cm 0cm 0cm 0cm;
@@ -2139,12 +1469,12 @@ record the lowest response category that applies for each item. <o:p></o:p></spa
   <p class=MsoNormal style='line-height:99%'><span lang=EN-US style='font-size:
   10.0pt;line-height:99%;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>4 - can reach forward confidently &gt;25
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>4 - can reach forward confidently &gt;25
   cm (10 inches)<o:p></o:p></span></p>
   <p class=MsoNormal style='mso-line-height-alt:0pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>3 - can reach forward &gt;12 cm safely (5
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>3 - can reach forward &gt;12 cm safely (5
   inches)<o:p></o:p></span></p>
   <p class=MsoNormal style='line-height:.1pt;mso-line-height-rule:exactly'><b
   style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:10.0pt;
@@ -2153,16 +1483,16 @@ record the lowest response category that applies for each item. <o:p></o:p></spa
   <p class=MsoNormal style='line-height:99%'><span lang=EN-US style='font-size:
   10.0pt;line-height:99%;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>2 - can reach forward &gt;5 cm safely (2
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>2 - can reach forward &gt;5 cm safely (2
   inches)<o:p></o:p></span></p>
   <p class=MsoNormal style='line-height:99%'><span lang=EN-US style='font-size:
   10.0pt;line-height:99%;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>1 - reaches forward but needs supervision<o:p></o:p></span></p>
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>1 - reaches forward but needs supervision<o:p></o:p></span></p>
   <p class=MsoNormal style='mso-line-height-alt:0pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>0 - loses balance while trying/requires
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>0 - loses balance while trying/requires
   external support<o:p></o:p></span></p>
   </td>
   <td width=84 valign=bottom style='width:63.15pt;padding:0cm 0cm 0cm 0cm;
@@ -2195,12 +1525,12 @@ record the lowest response category that applies for each item. <o:p></o:p></spa
   <p class=MsoNormal style='mso-line-height-alt:0pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>4 - able to turn 360 degrees safely in 4
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>4 - able to turn 360 degrees safely in 4
   seconds or less<o:p></o:p></span></p>
   <p class=MsoNormal style='mso-line-height-alt:0pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>3 - able to turn 360 degrees safely one
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>3 - able to turn 360 degrees safely one
   side only in 4 seconds or less<o:p></o:p></span></p>
   <p class=MsoNormal style='line-height:.05pt;mso-line-height-rule:exactly'><span
   lang=EN-US style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:
@@ -2209,17 +1539,17 @@ record the lowest response category that applies for each item. <o:p></o:p></spa
   <p class=MsoNormal style='mso-line-height-alt:0pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>2 - able to turn 360 degrees safely but
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>2 - able to turn 360 degrees safely but
   slowly<o:p></o:p></span></p>
   <p class=MsoNormal style='line-height:99%'><span lang=EN-US style='font-size:
   10.0pt;line-height:99%;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>1 - needs close supervision or verbal
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>1 - needs close supervision or verbal
   cueing<o:p></o:p></span></p>
   <p class=MsoNormal style='mso-line-height-alt:0pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>0 - needs assistance while turning<o:p></o:p></span></p>
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>0 - needs assistance while turning<o:p></o:p></span></p>
   </td>
   <td width=84 valign=bottom style='width:63.15pt;padding:0cm 0cm 0cm 0cm;
   height:17.45pt'>
@@ -2257,7 +1587,7 @@ record the lowest response category that applies for each item. <o:p></o:p></spa
   <p class=MsoNormal style='mso-line-height-alt:0pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>4 - able to stand independently and safely
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>4 - able to stand independently and safely
   and complete 8 steps in 20 seconds<o:p></o:p></span></p>
   <p class=MsoNormal style='line-height:.1pt;mso-line-height-rule:exactly'><b
   style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:10.0pt;
@@ -2266,17 +1596,17 @@ record the lowest response category that applies for each item. <o:p></o:p></spa
   <p class=MsoNormal style='line-height:99%'><span lang=EN-US style='font-size:
   10.0pt;line-height:99%;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>3 - able to stand independently and
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>3 - able to stand independently and
   complete 8 steps in &gt;20 seconds<o:p></o:p></span></p>
   <p class=MsoNormal style='line-height:99%'><span lang=EN-US style='font-size:
   10.0pt;line-height:99%;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>2 - able to complete 4 steps without aid
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>2 - able to complete 4 steps without aid
   with supervision<o:p></o:p></span></p>
   <p class=MsoNormal style='mso-line-height-alt:0pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>1 - able to complete &gt;2 steps need
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>1 - able to complete &gt;2 steps need
   minimal assist<o:p></o:p></span></p>
   <p class=MsoNormal style='line-height:.1pt;mso-line-height-rule:exactly'><b
   style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:10.0pt;
@@ -2285,7 +1615,7 @@ record the lowest response category that applies for each item. <o:p></o:p></spa
   <p class=MsoNormal style='line-height:99%'><span lang=EN-US style='font-size:
   10.0pt;line-height:99%;font-family:Montserrat;mso-fareast-font-family:"Arial Narrow";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'>   </span>0 - needs assistance to keep from
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>0 - needs assistance to keep from
   falling/unable to try<o:p></o:p></span></p>
   </td>
   <td width=84 valign=bottom style='width:63.15pt;padding:0cm 0cm 0cm 0cm;
@@ -2310,32 +1640,32 @@ major-bidi;mso-bidi-font-weight:bold'>Interpretation </span><b
 style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-bidi-font-size:
 10.0pt;font-family:Montserrat;mso-fareast-font-family:"Times New Roman";
 mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-style='mso-tab-count:4'>                                                  </span><span
-style='mso-spacerun:yes'>                 </span><span
-style='mso-spacerun:yes'>                                     </span><span
-style='mso-spacerun:yes'> </span></span></b><span lang=EN-US style='font-size:
+style='mso-tab-count:4'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span><span
+style='mso-spacerun:yes'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</span><span
+style='mso-spacerun:yes'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</span><span
+style='mso-spacerun:yes'>ï¿½</span></span></b><span lang=EN-US style='font-size:
 10.0pt;font-family:"Montserrat SemiBold";mso-fareast-font-family:"Times New Roman";
 mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi;
-mso-bidi-font-weight:bold'>TOTAL (56):<span style='mso-spacerun:yes'>  
+mso-bidi-font-weight:bold'>TOTAL (56):<span style='mso-spacerun:yes'>ï¿½ï¿½
 </span>__________</span><b style='mso-bidi-font-weight:normal'><span
 lang=EN-US style='mso-bidi-font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:
 "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
-major-bidi'><span style='mso-spacerun:yes'>  </span><o:p></o:p></span></b></p>
+major-bidi'><span style='mso-spacerun:yes'>ï¿½ </span><o:p></o:p></span></b></p>
 
 <p class=MsoListParagraph style='margin-left:40.5pt;text-indent:-18.0pt;
 mso-line-height-alt:0pt;mso-list:l5 level1 lfo1'><![if !supportLists]><span
 lang=EN-US style='font-size:10.0pt;font-family:Wingdings;mso-fareast-font-family:
-Wingdings;mso-bidi-font-family:Wingdings'><span style='mso-list:Ignore'>Ø<span
+Wingdings;mso-bidi-font-family:Wingdings'><span style='mso-list:Ignore'>ï¿½<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
 dir=LTR></span><span lang=EN-US style='font-size:10.0pt;font-family:Montserrat;
 mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
-mso-bidi-theme-font:major-bidi'>0 – 20<span style='mso-tab-count:1'>   </span>Wheelchair
+mso-bidi-theme-font:major-bidi'>0 ï¿½ 20<span style='mso-tab-count:1'>ï¿½ï¿½ </span>Wheelchair
 bound<o:p></o:p></span></p>
 
 <p class=MsoListParagraph style='margin-left:40.5pt;text-indent:-18.0pt;
 mso-line-height-alt:0pt;mso-list:l5 level1 lfo1'><![if !supportLists]><span
 lang=EN-US style='font-size:10.0pt;font-family:Wingdings;mso-fareast-font-family:
-Wingdings;mso-bidi-font-family:Wingdings'><span style='mso-list:Ignore'>Ø<span
+Wingdings;mso-bidi-font-family:Wingdings'><span style='mso-list:Ignore'>ï¿½<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
 dir=LTR></span><span lang=EN-US style='font-size:10.0pt;font-family:Montserrat;
 mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
@@ -2345,7 +1675,7 @@ with assistance<o:p></o:p></span></p>
 <p class=MsoListParagraph style='margin-left:40.5pt;text-indent:-18.0pt;
 mso-line-height-alt:0pt;mso-list:l5 level1 lfo1'><![if !supportLists]><span
 lang=EN-US style='font-size:10.0pt;font-family:Wingdings;mso-fareast-font-family:
-Wingdings;mso-bidi-font-family:Wingdings'><span style='mso-list:Ignore'>Ø<span
+Wingdings;mso-bidi-font-family:Wingdings'><span style='mso-list:Ignore'>ï¿½<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
 dir=LTR></span><span lang=EN-US style='font-size:10.0pt;font-family:Montserrat;
 mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
@@ -2360,7 +1690,7 @@ major-bidi'><o:p>&nbsp;</o:p></span></p>
 lang=EN-US style='font-size:9.0pt;mso-bidi-font-size:10.0pt;font-family:Montserrat;
 mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi;
 position:relative;top:-15.5pt;mso-text-raise:15.5pt'><span style='mso-tab-count:
-1'>                                                                                                                                                                                                                              </span><o:p></o:p></span></p>
+1'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:9.0pt;mso-bidi-font-size:
 10.0pt;font-family:Montserrat;mso-bidi-font-family:"Times New Roman";

@@ -259,19 +259,22 @@
                     </tr>
                     <tr>
                         <td><canvas id="signature-canvas" width="500" height="200" style="border:1px solid #000000;"></canvas></td>
+                        <div class="row d-flex justify-content-end mt-3">
+                            <button type="submit" id="printPageButton" class="btn btn-primary">Submit</button>
+                            </div>
                         <script>
                             var canvas = document.getElementById("signature-canvas");
                             var ctx = canvas.getContext("2d");
                             var isDrawing = false;
                             var lastX = 0;
                             var lastY = 0;
-                            
+
                             canvas.addEventListener("mousedown", function(event) {
                               isDrawing = true;
                               lastX = event.offsetX;
                               lastY = event.offsetY;
                             });
-                            
+
                             canvas.addEventListener("mousemove", function(event) {
                               if (isDrawing) {
                                 ctx.beginPath();
@@ -282,7 +285,7 @@
                                 lastY = event.offsetY;
                               }
                             });
-                            
+
                             canvas.addEventListener("mouseup", function(event) {
                               isDrawing = false;
                             });

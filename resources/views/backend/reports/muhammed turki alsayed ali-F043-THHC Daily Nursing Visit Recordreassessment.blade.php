@@ -4,7 +4,7 @@
     <title>Daily Nursing Visit Record/Reassessment |             @yield('title')
     </title>
     <style>
-     
+
         body.page1 {
             background-color: green;
         }
@@ -203,7 +203,7 @@
         </tr>
     </table>
 
- 
+
 
     <script>
 
@@ -214,7 +214,7 @@
 
 
 
- 
+
 
 <script>
 
@@ -450,6 +450,8 @@
             @yield('content')
 
 <p class="footer">Page 2 of 2 | F043-THHC Daily Nursing Visit Record/Reassessment</p>
-
+<div class="row d-flex justify-content-end mt-3">
+    <button type="submit" id="printPageButton" class="btn btn-primary">Submit</button>
+    </div>
 </body>
 </html>

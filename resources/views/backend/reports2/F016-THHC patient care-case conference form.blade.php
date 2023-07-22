@@ -1,9 +1,5 @@
-<html xmlns:v="urn:schemas-microsoft-com:vml"
-xmlns:o="urn:schemas-microsoft-com:office:office"
-xmlns:w="urn:schemas-microsoft-com:office:word"
-xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
-xmlns="http://www.w3.org/TR/REC-html40">
-
+<!DOCTYPE html>
+<html lang="en">
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=windows-1252">
 <meta name=ProgId content=Word.Document>
@@ -13,412 +9,10 @@ xmlns="http://www.w3.org/TR/REC-html40">
 href="F016-THHC%20patient%20care-case%20conference%20form.files/filelist.xml">
 <link rel=Edit-Time-Data
 href="F016-THHC%20patient%20care-case%20conference%20form.files/editdata.mso">
-<!--[if !mso]>
+<title>F016-THHC patient care-case conference form| @yield('title')</title>
+
 <style>
-v\:* {behavior:url(#default#VML);}
-o\:* {behavior:url(#default#VML);}
-w\:* {behavior:url(#default#VML);}
-.shape {behavior:url(#default#VML);}
-</style>
-<![endif]--><!--[if gte mso 9]><xml>
- <o:DocumentProperties>
-  <o:Author>HawamdehM</o:Author>
-  <o:LastAuthor>HAMZA AL HELOU</o:LastAuthor>
-  <o:Revision>2</o:Revision>
-  <o:TotalTime>62</o:TotalTime>
-  <o:Created>2023-07-17T13:43:00Z</o:Created>
-  <o:LastSaved>2023-07-17T13:43:00Z</o:LastSaved>
-  <o:Pages>1</o:Pages>
-  <o:Words>2264</o:Words>
-  <o:Characters>12909</o:Characters>
-  <o:Company>Grizli777</o:Company>
-  <o:Lines>107</o:Lines>
-  <o:Paragraphs>30</o:Paragraphs>
-  <o:CharactersWithSpaces>15143</o:CharactersWithSpaces>
-  <o:Version>16.00</o:Version>
- </o:DocumentProperties>
- <o:OfficeDocumentSettings>
-  <o:AllowPNG/>
-  <o:PixelsPerInch>120</o:PixelsPerInch>
- </o:OfficeDocumentSettings>
-</xml><![endif]-->
-<link rel=themeData
-href="F016-THHC%20patient%20care-case%20conference%20form.files/themedata.thmx">
-<link rel=colorSchemeMapping
-href="F016-THHC%20patient%20care-case%20conference%20form.files/colorschememapping.xml">
-<!--[if gte mso 9]><xml>
- <w:WordDocument>
-  <w:TrackMoves>false</w:TrackMoves>
-  <w:TrackFormatting/>
-  <w:PunctuationKerning/>
-  <w:ValidateAgainstSchemas/>
-  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
-  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
-  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
-  <w:DoNotPromoteQF/>
-  <w:LidThemeOther>EN-US</w:LidThemeOther>
-  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
-  <w:LidThemeComplexScript>AR-SA</w:LidThemeComplexScript>
-  <w:Compatibility>
-   <w:BreakWrappedTables/>
-   <w:SnapToGridInCell/>
-   <w:WrapTextWithPunct/>
-   <w:UseAsianBreakRules/>
-   <w:UseWord2010TableStyleRules/>
-   <w:DontGrowAutofit/>
-   <w:SplitPgBreakAndParaMark/>
-  </w:Compatibility>
-  <m:mathPr>
-   <m:mathFont m:val="Cambria Math"/>
-   <m:brkBin m:val="before"/>
-   <m:brkBinSub m:val="&#45;-"/>
-   <m:smallFrac m:val="off"/>
-   <m:dispDef/>
-   <m:lMargin m:val="0"/>
-   <m:rMargin m:val="0"/>
-   <m:defJc m:val="centerGroup"/>
-   <m:wrapIndent m:val="1440"/>
-   <m:intLim m:val="subSup"/>
-   <m:naryLim m:val="undOvr"/>
-  </m:mathPr></w:WordDocument>
-</xml><![endif]--><!--[if gte mso 9]><xml>
- <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
-  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
-  LatentStyleCount="376">
-  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 2"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 3"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 5"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 6"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 8"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 1"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 2"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 3"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 4"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 5"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 6"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 7"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 8"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 9"/>
-  <w:LsdException Locked="false" Priority="35" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="caption"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="table of authorities"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet"/>
-  <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/>
-  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
-   UnhideWhenUsed="true" Name="Default Paragraph Font"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 5"/>
-  <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>
-  <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
-  <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Balloon Text"/>
-  <w:LsdException Locked="false" Priority="59" Name="Table Grid"/>
-  <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
-  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" Name="Revision"/>
-  <w:LsdException Locked="false" Priority="34" QFormat="true"
-   Name="List Paragraph"/>
-  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
-  <w:LsdException Locked="false" Priority="30" QFormat="true"
-   Name="Intense Quote"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
-  <w:LsdException Locked="false" Priority="19" QFormat="true"
-   Name="Subtle Emphasis"/>
-  <w:LsdException Locked="false" Priority="21" QFormat="true"
-   Name="Intense Emphasis"/>
-  <w:LsdException Locked="false" Priority="31" QFormat="true"
-   Name="Subtle Reference"/>
-  <w:LsdException Locked="false" Priority="32" QFormat="true"
-   Name="Intense Reference"/>
-  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
-  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
-   UnhideWhenUsed="true" Name="Bibliography"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
-  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
-  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
-  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
-  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
-  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
-  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
-  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
-  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
-  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 1"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 1"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 1"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 2"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 2"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 2"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 3"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 3"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 3"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 4"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 4"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 4"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 5"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 5"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 5"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 6"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 6"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 6"/>
-  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
-  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
-  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 1"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 1"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 1"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 2"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 2"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 2"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 3"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 3"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 3"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 4"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 4"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 4"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 5"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 5"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 5"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 6"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 6"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 6"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Mention"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Smart Hyperlink"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Hashtag"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Unresolved Mention"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Smart Link"/>
- </w:LatentStyles>
-</xml><![endif]-->
-<style>
-<!--
+
  /* Font Definitions */
  @font-face
 	{font-family:"Cambria Math";
@@ -883,9 +477,9 @@ ol
 	{margin-bottom:0cm;}
 ul
 	{margin-bottom:0cm;}
--->
+
 </style>
-<!--[if gte mso 10]>
+@yield('styles')
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -938,12 +532,7 @@ table.MsoTableGrid
 	mso-ansi-language:EN-US;
 	mso-fareast-language:EN-US;}
 </style>
-<![endif]--><!--[if gte mso 9]><xml>
- <o:shapedefaults v:ext="edit" spidmax="2051"/>
-</xml><![endif]--><!--[if gte mso 9]><xml>
- <o:shapelayout v:ext="edit">
-  <o:idmap v:ext="edit" data="1"/>
- </o:shapelayout></xml><![endif]-->
+@yield('styles')
 </head>
 
 <body lang=EN-GB style='tab-interval:36.0pt'>
@@ -955,7 +544,7 @@ lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman"'
 
 <p class=MsoNormal align=center style='text-align:center'><b><span lang=EN-US
 style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman"'><span
-style='mso-spacerun:yes'>                      </span></span></b><b><u><span
+style='mso-spacerun:yes'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span></span></b><b><u><span
 lang=AR-SA dir=RTL style='font-family:"Times New Roman",serif;mso-ascii-font-family:
 Montserrat;mso-hansi-font-family:Montserrat'><o:p></o:p></span></u></b></p>
 
@@ -1169,7 +758,7 @@ mso-ascii-font-family:Montserrat;mso-hansi-font-family:Montserrat'><o:p><span
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal'><span lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:
-"Times New Roman";mso-bidi-language:HE'>Physician’s Care Plan</span><span
+"Times New Roman";mso-bidi-language:HE'>Physicianï¿½s Care Plan</span><span
 lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman"'>:</span><span
 dir=RTL></span><span lang=EN-US dir=RTL style='font-family:"Times New Roman",serif;
 mso-ascii-font-family:Montserrat;mso-hansi-font-family:Montserrat'><span
@@ -1270,7 +859,7 @@ style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman"'>:<o:p></o:
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal'><span dir=RTL></span><span lang=EN-US dir=RTL style='font-family:"Times New Roman",serif;
 mso-ascii-font-family:Montserrat;mso-hansi-font-family:Montserrat'><span
-dir=RTL></span><span style='mso-spacerun:yes'> </span></span><span lang=AR-SA
+dir=RTL></span><span style='mso-spacerun:yes'>ï¿½</span></span><span lang=AR-SA
 dir=RTL style='font-family:"Times New Roman",serif;mso-ascii-font-family:Montserrat;
 mso-hansi-font-family:Montserrat'>&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;&#1600;</span><span
 lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman"'><o:p></o:p></span></p>
@@ -1367,7 +956,7 @@ normal'><span lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal'><span lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:
-"Times New Roman";mso-bidi-language:HE'>Physician’s Comments</span><span
+"Times New Roman";mso-bidi-language:HE'>Physicianï¿½s Comments</span><span
 lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman"'>:<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
@@ -1474,7 +1063,7 @@ lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman"'
 margin-left:41.5pt;margin-bottom:.0001pt;line-height:14.6pt;mso-line-height-rule:
 exactly'><b><span lang=EN-US style='font-size:11.0pt;font-family:Montserrat;
 mso-bidi-font-family:"Times New Roman";color:#111111;mso-bidi-language:HE'><span
-style='mso-spacerun:yes'>       </span><o:p></o:p></span></b></p>
+style='mso-spacerun:yes'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span><o:p></o:p></span></b></p>
 
 <p class=Style style='margin-top:0cm;margin-right:2.4pt;margin-bottom:0cm;
 margin-left:41.5pt;margin-bottom:.0001pt;line-height:14.6pt;mso-line-height-rule:
@@ -1498,7 +1087,7 @@ mso-bidi-font-family:"Times New Roman";color:#111111;mso-bidi-language:HE'><o:p>
 margin-left:41.5pt;margin-bottom:.0001pt;line-height:14.6pt;mso-line-height-rule:
 exactly'><b><span lang=EN-US style='font-size:11.0pt;font-family:Montserrat;
 mso-bidi-font-family:"Times New Roman";color:#111111;mso-bidi-language:HE'><span
-style='mso-spacerun:yes'> </span></span></b><span lang=EN-US style='font-size:
+style='mso-spacerun:yes'>ï¿½</span></span></b><span lang=EN-US style='font-size:
 11.0pt;font-family:"Montserrat SemiBold";mso-bidi-font-family:"Times New Roman";
 color:#111111;mso-bidi-language:HE'>Guidelines for </span><span lang=EN-US
 style='font-size:11.0pt;font-family:"Montserrat SemiBold";mso-bidi-font-family:
@@ -1556,7 +1145,7 @@ style='mso-list:Ignore'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp
 </span></span></span><![endif]><span dir=LTR></span><span lang=EN-US
 style='font-size:11.0pt;line-height:150%;font-family:Montserrat;mso-bidi-font-family:
 "Times New Roman";mso-bidi-language:HE'>Stamp the form in the upper right-hand
-corner with the patient’s addressograph card <o:p></o:p></span></p>
+corner with the patientï¿½s addressograph card <o:p></o:p></span></p>
 
 <p class=Style style='margin-top:0cm;margin-right:6.45pt;margin-bottom:0cm;
 margin-left:35.95pt;margin-bottom:.0001pt;text-indent:-17.75pt;line-height:
@@ -1572,7 +1161,7 @@ last review date, admission date, and team leader. <o:p></o:p></span></p>
 <p class=Style style='margin-top:0cm;margin-right:2.4pt;margin-bottom:0cm;
 margin-left:18.45pt;margin-bottom:.0001pt;line-height:150%'><span lang=EN-US
 style='font-size:11.0pt;line-height:150%;font-family:Montserrat;mso-bidi-font-family:
-"Times New Roman";mso-bidi-language:HE'>3. Complete the patient’s medical
+"Times New Roman";mso-bidi-language:HE'>3. Complete the patientï¿½s medical
 record number, name and date of birth. <o:p></o:p></span></p>
 
 <p class=Style style='margin-top:0cm;margin-right:2.4pt;margin-bottom:0cm;
@@ -1597,7 +1186,7 @@ diagnosis for which the patient is being treated <o:p></o:p></span></p>
 margin-left:18.95pt;margin-bottom:.0001pt;line-height:150%'><span lang=EN-US
 style='font-size:11.0pt;line-height:150%;font-family:Montserrat;mso-bidi-font-family:
 "Times New Roman";mso-bidi-language:HE'>6. Past Medical History- list pertinent
-information relevant to the patient’s care <o:p></o:p></span></p>
+information relevant to the patientï¿½s care <o:p></o:p></span></p>
 
 <p class=Style style='margin-top:0cm;margin-right:2.4pt;margin-bottom:0cm;
 margin-left:19.2pt;margin-bottom:.0001pt;line-height:150%'><span lang=EN-US
@@ -1608,7 +1197,7 @@ provided to the patient <o:p></o:p></span></p>
 <p class=Style style='margin-right:2.4pt;line-height:5.5pt;mso-line-height-rule:
 exactly;tab-stops:128.85pt 302.85pt'><span lang=EN-US style='font-size:11.0pt;
 font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-language:
-HE'><span style='mso-tab-count:1'>                                                      </span><o:p></o:p></span></p>
+HE'><span style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span><o:p></o:p></span></p>
 
 <p class=Style style='margin-top:3.1pt;margin-right:2.4pt;margin-bottom:0cm;
 margin-left:54.95pt;margin-bottom:.0001pt;line-height:14.6pt;mso-line-height-rule:
@@ -1641,7 +1230,7 @@ mso-fareast-font-family:"Times New Roman";color:#111111;mso-bidi-language:HE'><s
 style='mso-list:Ignore'>8.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span dir=LTR></span><span lang=EN-US
 style='font-size:11.0pt;line-height:115%;font-family:Montserrat;mso-bidi-font-family:
-"Times New Roman";mso-bidi-language:HE'>Physician’s Care Plan- this section
+"Times New Roman";mso-bidi-language:HE'>Physicianï¿½s Care Plan- this section
 indicates current orders covering the skilled services provided to the patient.This
 section needs to be plainly written so another person can easily pick up the
 chart and know what care is provided. <o:p></o:p></span></p>
@@ -1654,8 +1243,8 @@ mso-fareast-font-family:"Times New Roman";color:#292829;mso-bidi-language:HE'><s
 style='mso-list:Ignore'>9.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span dir=LTR></span><span lang=EN-US
 style='font-size:11.0pt;line-height:115%;font-family:Montserrat;mso-bidi-font-family:
-"Times New Roman";mso-bidi-language:HE'>Medications- list the patient’s current
-medications. This is to give disciplines a clear understanding of patient’s
+"Times New Roman";mso-bidi-language:HE'>Medications- list the patientï¿½s current
+medications. This is to give disciplines a clear understanding of patientï¿½s
 current medications Include any over the counter medications. May include a
 copy of the medication review sheet if done within 2 weeks of conference. <o:p></o:p></span></p>
 
@@ -1668,7 +1257,7 @@ HE'><span style='mso-list:Ignore'>10.<span style='font:7.0pt "Times New Roman"'>
 </span></span></span><![endif]><span dir=LTR></span><span lang=EN-US
 style='font-size:11.0pt;line-height:115%;font-family:Montserrat;mso-bidi-font-family:
 "Times New Roman";mso-bidi-language:HE'>Functional Status- indicates what the
-patient’s level of functioning is. Other can include use of hearing aids, casts,
+patientï¿½s level of functioning is. Other can include use of hearing aids, casts,
 braces, etc.<o:p></o:p></span></p>
 
 <p class=Style style='margin-top:8.85pt;margin-right:1.9pt;margin-bottom:0cm;
@@ -1726,8 +1315,8 @@ HE'><span style='mso-list:Ignore'>15.<span style='font:7.0pt "Times New Roman"'>
 </span></span></span><![endif]><span dir=LTR></span><span lang=EN-US
 style='font-size:11.0pt;line-height:115%;font-family:Montserrat;mso-bidi-font-family:
 "Times New Roman";mso-bidi-language:HE'><span
-style='mso-spacerun:yes'> </span>Patient Summary- a brief description of the
-patient’s progress. Documentation should be brief details as to the progression
+style='mso-spacerun:yes'>ï¿½</span>Patient Summary- a brief description of the
+patientï¿½s progress. Documentation should be brief details as to the progression
 of care and/ or problems &quot; encountered.<o:p></o:p></span></p>
 
 <p class=Style style='margin-top:8.85pt;margin-right:1.9pt;margin-bottom:0cm;
@@ -1739,7 +1328,7 @@ HE'><span style='mso-list:Ignore'>16.<span style='font:7.0pt "Times New Roman"'>
 </span></span></span><![endif]><span dir=LTR></span><span lang=EN-US
 style='font-size:11.0pt;line-height:115%;font-family:Montserrat;mso-bidi-font-family:
 "Times New Roman";mso-bidi-language:HE'>Plan of Care- each discipline involved
-in the care of the patient will do a thorough assessment of patient’s problems
+in the care of the patient will do a thorough assessment of patientï¿½s problems
 or concerns. The proposed plan of care will be defined in the scheduled
 conference. <o:p></o:p></span></p>
 
@@ -1751,7 +1340,7 @@ HE'><span style='mso-list:Ignore'>a)<span style='font:7.0pt "Times New Roman"'>&
 </span></span></span><![endif]><span dir=LTR></span><span lang=EN-US
 style='font-size:11.0pt;font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
 mso-bidi-language:HE'>Each discipline will document its assessment of the
-patient’s care. <o:p></o:p></span></p>
+patientï¿½s care. <o:p></o:p></span></p>
 
 <p class=Style style='margin-top:0cm;margin-right:5.75pt;margin-bottom:0cm;
 margin-left:53.05pt;margin-bottom:.0001pt;text-indent:-17.5pt;mso-list:l8 level1 lfo11'><![if !supportLists]><span
@@ -1812,7 +1401,7 @@ Montserrat;mso-bidi-font-family:Montserrat;color:#292829;mso-bidi-language:
 HE'><span style='mso-list:Ignore'>18.<span style='font:7.0pt "Times New Roman"'>&nbsp;
 </span></span></span><![endif]><span dir=LTR></span><span lang=EN-US
 style='font-size:11.0pt;line-height:115%;font-family:Montserrat;mso-bidi-font-family:
-"Times New Roman";mso-bidi-language:HE'>Physician’s Comments- If the physician
+"Times New Roman";mso-bidi-language:HE'>Physicianï¿½s Comments- If the physician
 has any comments regarding the care of the patient, he or she will indicate so
 in this section. <o:p></o:p></span></p>
 
@@ -1836,8 +1425,8 @@ HE'><span style='mso-list:Ignore'>20.<span style='font:7.0pt "Times New Roman"'>
 </span></span></span><![endif]><span dir=LTR></span><span lang=EN-US
 style='font-size:11.0pt;line-height:115%;font-family:Montserrat;mso-bidi-font-family:
 "Times New Roman";mso-bidi-language:HE'><span
-style='mso-spacerun:yes'> </span>Team Leader’s Signature- the person completing
-the plan of care will sign the form. Team Leader’s signature, the badge number
+style='mso-spacerun:yes'>ï¿½</span>Team Leaderï¿½s Signature- the person completing
+the plan of care will sign the form. Team Leaderï¿½s signature, the badge number
 and date are documented. <o:p></o:p></span></p>
 
 <p class=Style style='margin-top:20.15pt;line-height:115%'><span lang=EN-US

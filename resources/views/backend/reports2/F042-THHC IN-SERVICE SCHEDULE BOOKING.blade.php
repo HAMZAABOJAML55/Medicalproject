@@ -1,10 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
 <html>
-
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=windows-1252">
 <meta name=Generator content="Microsoft Word 15 (filtered)">
+<title>F042-THHC IN-SERVICE SCHEDULE BOOKING| @yield('title')</title>
+
 <style>
-<!--
+
  /* Font Definitions */
  @font-face
 	{font-family:"Cambria Math";
@@ -60,6 +63,7 @@ div.WordSection1
 	{page:WordSection1;}
 -->
 </style>
+@yield('styles')
 
 </head>
 

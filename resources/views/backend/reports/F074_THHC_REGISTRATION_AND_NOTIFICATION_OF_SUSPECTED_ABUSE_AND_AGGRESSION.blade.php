@@ -30,7 +30,7 @@
 
 </head>
 <body>
-  
+
 
   <button onclick='myfanction()' class='btn-secondary'>طباعة الملف</button><br>
   <a href="{{ route('print-pdf') }}" target="_blank">طباعة كـ PDF</a>
@@ -121,6 +121,10 @@
     <p>فريض ملف 966114721854+ فكس: 966112127742</p>
     <p>الكتروني: 12 SENOMEMISDA</p>
   </div>
+
+  <div class="row d-flex justify-content-end mt-3">
+    <button type="submit" id="printPageButton" class="btn btn-primary">Submit</button>
+    </div>
   @yield('content')
 
 </body>

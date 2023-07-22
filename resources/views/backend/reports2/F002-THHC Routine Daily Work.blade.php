@@ -1,330 +1,703 @@
-<html xmlns:v="urn:schemas-microsoft-com:vml"
-xmlns:o="urn:schemas-microsoft-com:office:office"
-xmlns:x="urn:schemas-microsoft-com:office:excel"
-xmlns="http://www.w3.org/TR/REC-html40">
-
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<meta name="Excel Workbook Frameset">
-<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
-<meta name=ProgId content=Excel.Sheet>
-<meta name=Generator content="Microsoft Excel 15">
-<link rel=File-List href="F002-THHC%20Routine%20Daily%20Work.files/filelist.xml">
-<link id="shLink" href="F002-THHC%20Routine%20Daily%20Work.files/sheet001.htm">
-<link id="shLink" hrefz="F002-THHC%20Routine%20Daily%20Work.files/sheet002.htm">
-
-<link id="shLink"> 
-
-<script language="JavaScript">
- var c_lTabs=2;
-
- var c_rgszSh=new Array(c_lTabs);
- c_rgszSh[0] = "Sheet1�(2)";
- c_rgszSh[1] = "Sheet1";
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>F002-THHC Routine Daily | @yield('title')</title>
+<style id="F002-THHC Routine Daily Work_31001_Styles">
 
 
-
- var c_rgszClr=new Array(8);
- c_rgszClr[0]="window";
- c_rgszClr[1]="buttonface";
- c_rgszClr[2]="windowframe";
- c_rgszClr[3]="windowtext";
- c_rgszClr[4]="threedlightshadow";
- c_rgszClr[5]="threedhighlight";
- c_rgszClr[6]="threeddarkshadow";
- c_rgszClr[7]="threedshadow";
-
- var g_iShCur;
- var g_rglTabX=new Array(c_lTabs);
-
-function fnGetIEVer()
-{
- var ua=window.navigator.userAgent
- var msie=ua.indexOf("MSIE")
- if (msie>0 && window.navigator.platform=="Win32")
-  return parseInt(ua.substring(msie+5,ua.indexOf(".", msie)));
- else
-  return 0;
-}
-
-function fnBuildFrameset()
-{
- var szHTML="<frameset rows=\"*,18\" border=0 width=0 frameborder=no framespacing=0>"+
-  "<frame src=\""+document.all.item("shLink")[0].href+"\" name=\"frSheet\" noresize>"+
-  "<frameset cols=\"54,*\" border=0 width=0 frameborder=no framespacing=0>"+
-  "<frame src=\"\" name=\"frScroll\" marginwidth=0 marginheight=0 scrolling=no>"+
-  "<frame src=\"\" name=\"frTabs\" marginwidth=0 marginheight=0 scrolling=no>"+
-  "</frameset></frameset><plaintext>";
-
- with (document) {
-  open("text/html","replace");
-  write(szHTML);
-  close();
- }
-
- fnBuildTabStrip();
-}
-
-function fnBuildTabStrip()
-{
- var szHTML=
-  "<html><head><style>.clScroll {font:8pt Courier New;color:"+c_rgszClr[6]+";cursor:default;line-height:10pt;}"+
-  ".clScroll2 {font:10pt Arial;color:"+c_rgszClr[6]+";cursor:default;line-height:11pt;}</style></head>"+
-  "<body onclick=\"event.returnValue=false;\" ondragstart=\"event.returnValue=false;\" onselectstart=\"event.returnValue=false;\" bgcolor="+c_rgszClr[4]+" topmargin=0 leftmargin=0><table cellpadding=0 cellspacing=0 width=100%>"+
-  "<tr><td colspan=6 height=1 bgcolor="+c_rgszClr[2]+"></td></tr>"+
-  "<tr><td style=\"font:1pt\">&nbsp;<td>"+
-  "<td valign=top id=tdScroll class=\"clScroll\" onclick=\"parent.fnFastScrollTabs(0);\" onmouseover=\"parent.fnMouseOverScroll(0);\" onmouseout=\"parent.fnMouseOutScroll(0);\"><a>&#171;</a></td>"+
-  "<td valign=top id=tdScroll class=\"clScroll2\" onclick=\"parent.fnScrollTabs(0);\" ondblclick=\"parent.fnScrollTabs(0);\" onmouseover=\"parent.fnMouseOverScroll(1);\" onmouseout=\"parent.fnMouseOutScroll(1);\"><a>&lt</a></td>"+
-  "<td valign=top id=tdScroll class=\"clScroll2\" onclick=\"parent.fnScrollTabs(1);\" ondblclick=\"parent.fnScrollTabs(1);\" onmouseover=\"parent.fnMouseOverScroll(2);\" onmouseout=\"parent.fnMouseOutScroll(2);\"><a>&gt</a></td>"+
-  "<td valign=top id=tdScroll class=\"clScroll\" onclick=\"parent.fnFastScrollTabs(1);\" onmouseover=\"parent.fnMouseOverScroll(3);\" onmouseout=\"parent.fnMouseOutScroll(3);\"><a>&#187;</a></td>"+
-  "<td style=\"font:1pt\">&nbsp;<td></tr></table></body></html>";
-
- with (frames['frScroll'].document) {
-  open("text/html","replace");
-  write(szHTML);
-  close();
- }
-
- szHTML =
-  "<html><head>"+
-  "<style>A:link,A:visited,A:active {text-decoration:none;"+"color:"+c_rgszClr[3]+";}"+
-  ".clTab {cursor:hand;background:"+c_rgszClr[1]+";font:9pt Arial;padding-left:3px;padding-right:3px;text-align:center;}"+
-  ".clBorder {background:"+c_rgszClr[2]+";font:1pt;}"+
-  "</style></head><body onload=\"parent.fnInit();\" onselectstart=\"event.returnValue=false;\" ondragstart=\"event.returnValue=false;\" bgcolor="+c_rgszClr[4]+
-  " topmargin=0 leftmargin=0><table id=tbTabs cellpadding=0 cellspacing=0>";
-
- var iCellCount=(c_lTabs+1)*2;
-
- var i;
- for (i=0;i<iCellCount;i+=2)
-  szHTML+="<col width=1><col>";
-
- var iRow;
- for (iRow=0;iRow<6;iRow++) {
-
-  szHTML+="<tr>";
-
-  if (iRow==5)
-   szHTML+="<td colspan="+iCellCount+"></td>";
-  else {
-   if (iRow==0) {
-    for(i=0;i<iCellCount;i++)
-     szHTML+="<td height=1 class=\"clBorder\"></td>";
-   } else if (iRow==1) {
-    for(i=0;i<c_lTabs;i++) {
-     szHTML+="<td height=1 nowrap class=\"clBorder\">&nbsp;</td>";
-     szHTML+=
-      "<td id=tdTab height=1 nowrap class=\"clTab\" onmouseover=\"parent.fnMouseOverTab("+i+");\" onmouseout=\"parent.fnMouseOutTab("+i+");\">"+
-      "<a href=\""+document.all.item("shLink")[i].href+"\" target=\"frSheet\" id=aTab>&nbsp;"+c_rgszSh[i]+"&nbsp;</a></td>";
-    }
-    szHTML+="<td id=tdTab height=1 nowrap class=\"clBorder\"><a id=aTab>&nbsp;</a></td><td width=100%></td>";
-   } else if (iRow==2) {
-    for (i=0;i<c_lTabs;i++)
-     szHTML+="<td height=1></td><td height=1 class=\"clBorder\"></td>";
-    szHTML+="<td height=1></td><td height=1></td>";
-   } else if (iRow==3) {
-    for (i=0;i<iCellCount;i++)
-     szHTML+="<td height=1></td>";
-   } else if (iRow==4) {
-    for (i=0;i<c_lTabs;i++)
-     szHTML+="<td height=1 width=1></td><td height=1></td>";
-    szHTML+="<td height=1 width=1></td><td></td>";
-   }
-  }
-  szHTML+="</tr>";
- }
-
- szHTML+="</table></body></html>";
- with (frames['frTabs'].document) {
-  open("text/html","replace");
-  charset=document.charset;
-  write(szHTML);
-  close();
- }
-}
-
-function fnInit()
-{
- g_rglTabX[0]=0;
- var i;
- for (i=1;i<=c_lTabs;i++)
-  with (frames['frTabs'].document.all.tbTabs.rows[1].cells[fnTabToCol(i-1)])
-   g_rglTabX[i]=offsetLeft+offsetWidth-6;
-}
-
-function fnTabToCol(iTab)
-{
- return 2*iTab+1;
-}
-
-function fnNextTab(fDir)
-{
- var iNextTab=-1;
- var i;
-
- with (frames['frTabs'].document.body) {
-  if (fDir==0) {
-   if (scrollLeft>0) {
-    for (i=0;i<c_lTabs&&g_rglTabX[i]<scrollLeft;i++);
-    if (i<c_lTabs)
-     iNextTab=i-1;
-   }
-  } else {
-   if (g_rglTabX[c_lTabs]+6>offsetWidth+scrollLeft) {
-    for (i=0;i<c_lTabs&&g_rglTabX[i]<=scrollLeft;i++);
-    if (i<c_lTabs)
-     iNextTab=i;
-   }
-  }
- }
- return iNextTab;
-}
-
-function fnScrollTabs(fDir)
-{
- var iNextTab=fnNextTab(fDir);
-
- if (iNextTab>=0) {
-  frames['frTabs'].scroll(g_rglTabX[iNextTab],0);
-  return true;
- } else
-  return false;
-}
-
-function fnFastScrollTabs(fDir)
-{
- if (c_lTabs>16)
-  frames['frTabs'].scroll(g_rglTabX[fDir?c_lTabs-1:0],0);
- else
-  if (fnScrollTabs(fDir)>0) window.setTimeout("fnFastScrollTabs("+fDir+");",5);
-}
-
-function fnSetTabProps(iTab,fActive)
-{
- var iCol=fnTabToCol(iTab);
- var i;
-
- if (iTab>=0) {
-  with (frames['frTabs'].document.all) {
-   with (tbTabs) {
-    for (i=0;i<=4;i++) {
-     with (rows[i]) {
-      if (i==0)
-       cells[iCol].style.background=c_rgszClr[fActive?0:2];
-      else if (i>0 && i<4) {
-       if (fActive) {
-        cells[iCol-1].style.background=c_rgszClr[2];
-        cells[iCol].style.background=c_rgszClr[0];
-        cells[iCol+1].style.background=c_rgszClr[2];
-       } else {
-        if (i==1) {
-         cells[iCol-1].style.background=c_rgszClr[2];
-         cells[iCol].style.background=c_rgszClr[1];
-         cells[iCol+1].style.background=c_rgszClr[2];
-        } else {
-         cells[iCol-1].style.background=c_rgszClr[4];
-         cells[iCol].style.background=c_rgszClr[(i==2)?2:4];
-         cells[iCol+1].style.background=c_rgszClr[4];
-        }
-       }
-      } else
-       cells[iCol].style.background=c_rgszClr[fActive?2:4];
-     }
-    }
-   }
-   with (aTab[iTab].style) {
-    cursor=(fActive?"default":"hand");
-    color=c_rgszClr[3];
-   }
-  }
- }
-}
-
-function fnMouseOverScroll(iCtl)
-{
- frames['frScroll'].document.all.tdScroll[iCtl].style.color=c_rgszClr[7];
-}
-
-function fnMouseOutScroll(iCtl)
-{
- frames['frScroll'].document.all.tdScroll[iCtl].style.color=c_rgszClr[6];
-}
-
-function fnMouseOverTab(iTab)
-{
- if (iTab!=g_iShCur) {
-  var iCol=fnTabToCol(iTab);
-  with (frames['frTabs'].document.all) {
-   tdTab[iTab].style.background=c_rgszClr[5];
-  }
- }
-}
-
-function fnMouseOutTab(iTab)
-{
- if (iTab>=0) {
-  var elFrom=frames['frTabs'].event.srcElement;
-  var elTo=frames['frTabs'].event.toElement;
-
-  if ((!elTo) ||
-   (elFrom.tagName==elTo.tagName) ||
-   (elTo.tagName=="A" && elTo.parentElement!=elFrom) ||
-   (elFrom.tagName=="A" && elFrom.parentElement!=elTo)) {
-
-   if (iTab!=g_iShCur) {
-    with (frames['frTabs'].document.all) {
-     tdTab[iTab].style.background=c_rgszClr[1];
-    }
-   }
-  }
- }
-}
-
-function fnSetActiveSheet(iSh)
-{
- if (iSh!=g_iShCur) {
-  fnSetTabProps(g_iShCur,false);
-  fnSetTabProps(iSh,true);
-  g_iShCur=iSh;
- }
-}
-
- window.g_iIEVer=fnGetIEVer();
- if (window.g_iIEVer>=4)
-  fnBuildFrameset();
-//-->
-</script>
-<![endif]><!--[if gte mso 9]><xml>
- <x:ExcelWorkbook>
-  <x:ExcelWorksheets>
-   <x:ExcelWorksheet>
-    <x:Name>Sheet1 (2)</x:Name>
-    <x:WorksheetSource
-     HRef="F002-THHC%20Routine%20Daily%20Work.files/sheet001.htm"/>
-   </x:ExcelWorksheet>
-   <x:ExcelWorksheet>
-    <x:Name>Sheet1</x:Name>
-    <x:WorksheetSource
-     HRef="F002-THHC%20Routine%20Daily%20Work.files/sheet002.htm"/>
-   </x:ExcelWorksheet>
-  </x:ExcelWorksheets>
-  <x:Stylesheet HRef="F002-THHC%20Routine%20Daily%20Work.files/stylesheet.css"/>
-  <x:WindowHeight>8880</x:WindowHeight>
-  <x:WindowWidth>23040</x:WindowWidth>
-  <x:WindowTopX>32767</x:WindowTopX>
-  <x:WindowTopY>32767</x:WindowTopY>
-  <x:ProtectStructure>False</x:ProtectStructure>
-  <x:ProtectWindows>False</x:ProtectWindows>
- </x:ExcelWorkbook>
-</xml><![endif]-->
-</head>
-
-<frameset rows="*,39" border=0 width=0 frameborder=no framespacing=0>
- <frame src="F002-THHC%20Routine%20Daily%20Work.files/sheet001.htm" name="frSheet">
- <frame src="F002-THHC%20Routine%20Daily%20Work.files/tabstrip.htm" name="frTabs" marginwidth=0 marginheight=0>
- <noframes>
-  <body>
-   <p>&#1610;&#1608;&#1580;&#1583; &#1573;&#1591;&#1575;&#1585;&#1575;&#1578; &#1576;&#1607;&#1584;&#1607; &#1575;&#1604;&#1589;&#1601;&#1581;&#1577; &#1573;&#1604;&#1575; &#1571;&#1606; &#1575;&#1604;&#1605;&#1587;&#1578;&#1593;&#1585;&#1590; &#1604;&#1575; &#1610;&#1593;&#1578;&#1605;&#1583;&#1607;&#1575;.</p>
-  </body>
- </noframes>
-</frameset>
-</html>
+    .xl6631001
+        {padding:0px;
+        mso-ignore:padding;
+        color:windowtext;
+        font-size:10.0pt;
+        font-weight:400;
+        font-style:normal;
+        text-decoration:none;
+        font-family:Montserrat;
+        mso-generic-font-family:auto;
+        mso-font-charset:0;
+        mso-number-format:General;
+        text-align:general;
+        vertical-align:bottom;
+        mso-background-source:auto;
+        mso-pattern:auto;
+        white-space:nowrap;}
+    .xl6731001
+        {padding:0px;
+        mso-ignore:padding;
+        color:windowtext;
+        font-size:10.0pt;
+        font-weight:400;
+        font-style:normal;
+        text-decoration:none;
+        font-family:Montserrat;
+        mso-generic-font-family:auto;
+        mso-font-charset:0;
+        mso-number-format:General;
+        text-align:left;
+        vertical-align:bottom;
+        border:.5pt solid windowtext;
+        mso-background-source:auto;
+        mso-pattern:auto;
+        white-space:nowrap;}
+    .xl6831001
+        {padding:0px;
+        mso-ignore:padding;
+        color:windowtext;
+        font-size:10.0pt;
+        font-weight:400;
+        font-style:normal;
+        text-decoration:none;
+        font-family:Montserrat;
+        mso-generic-font-family:auto;
+        mso-font-charset:0;
+        mso-number-format:General;
+        text-align:general;
+        vertical-align:bottom;
+        border:.5pt solid windowtext;
+        mso-background-source:auto;
+        mso-pattern:auto;
+        white-space:nowrap;}
+    .xl6931001
+        {padding:0px;
+        mso-ignore:padding;
+        color:windowtext;
+        font-size:10.0pt;
+        font-weight:400;
+        font-style:normal;
+        text-decoration:none;
+        font-family:Montserrat;
+        mso-generic-font-family:auto;
+        mso-font-charset:0;
+        mso-number-format:General;
+        text-align:center;
+        vertical-align:bottom;
+        border:.5pt solid windowtext;
+        mso-background-source:auto;
+        mso-pattern:auto;
+        white-space:nowrap;}
+    .xl7031001
+        {padding:0px;
+        mso-ignore:padding;
+        color:windowtext;
+        font-size:11.0pt;
+        font-weight:400;
+        font-style:normal;
+        text-decoration:none;
+        font-family:"Montserrat SemiBold";
+        mso-generic-font-family:auto;
+        mso-font-charset:0;
+        mso-number-format:General;
+        text-align:general;
+        vertical-align:bottom;
+        border:.5pt solid windowtext;
+        background:#3AC2BA;
+        mso-pattern:black none;
+        white-space:nowrap;}
+    .xl7131001
+        {padding:0px;
+        mso-ignore:padding;
+        color:windowtext;
+        font-size:10.0pt;
+        font-weight:400;
+        font-style:normal;
+        text-decoration:none;
+        font-family:"Montserrat SemiBold";
+        mso-generic-font-family:auto;
+        mso-font-charset:0;
+        mso-number-format:General;
+        text-align:center;
+        vertical-align:middle;
+        border:.5pt solid windowtext;
+        background:#3AC2BA;
+        mso-pattern:black none;
+        white-space:nowrap;}
+    .xl7231001
+        {padding:0px;
+        mso-ignore:padding;
+        color:windowtext;
+        font-size:10.0pt;
+        font-weight:400;
+        font-style:normal;
+        text-decoration:none;
+        font-family:"Montserrat SemiBold";
+        mso-generic-font-family:auto;
+        mso-font-charset:0;
+        mso-number-format:General;
+        text-align:general;
+        vertical-align:middle;
+        border:.5pt solid windowtext;
+        background:#3AC2BA;
+        mso-pattern:black none;
+        white-space:nowrap;}
+    .xl7331001
+        {padding:0px;
+        mso-ignore:padding;
+        color:windowtext;
+        font-size:14.0pt;
+        font-weight:700;
+        font-style:normal;
+        text-decoration:none;
+        font-family:Montserrat;
+        mso-generic-font-family:auto;
+        mso-font-charset:0;
+        mso-number-format:General;
+        text-align:center;
+        vertical-align:middle;
+        border-top:.5pt solid windowtext;
+        border-right:none;
+        border-bottom:none;
+        border-left:.5pt solid windowtext;
+        mso-background-source:auto;
+        mso-pattern:auto;
+        white-space:nowrap;}
+    .xl7431001
+        {padding:0px;
+        mso-ignore:padding;
+        color:windowtext;
+        font-size:10.0pt;
+        font-weight:400;
+        font-style:normal;
+        text-decoration:none;
+        font-family:Montserrat;
+        mso-generic-font-family:auto;
+        mso-font-charset:0;
+        mso-number-format:General;
+        text-align:center;
+        vertical-align:middle;
+        border-top:.5pt solid windowtext;
+        border-right:none;
+        border-bottom:none;
+        border-left:none;
+        mso-background-source:auto;
+        mso-pattern:auto;
+        white-space:nowrap;}
+    .xl7531001
+        {padding:0px;
+        mso-ignore:padding;
+        color:windowtext;
+        font-size:11.0pt;
+        font-weight:400;
+        font-style:normal;
+        text-decoration:none;
+        font-family:"Montserrat SemiBold";
+        mso-generic-font-family:auto;
+        mso-font-charset:0;
+        mso-number-format:General;
+        text-align:left;
+        vertical-align:middle;
+        border:.5pt solid windowtext;
+        background:#3AC2BA;
+        mso-pattern:black none;
+        white-space:nowrap;}
+    .xl7631001
+        {padding:0px;
+        mso-ignore:padding;
+        color:windowtext;
+        font-size:11.0pt;
+        font-weight:400;
+        font-style:normal;
+        text-decoration:none;
+        font-family:"Montserrat SemiBold";
+        mso-generic-font-family:auto;
+        mso-font-charset:0;
+        mso-number-format:General;
+        text-align:left;
+        vertical-align:bottom;
+        border:.5pt solid windowtext;
+        background:#3AC2BA;
+        mso-pattern:black none;
+        white-space:nowrap;}
+    .xl7731001
+        {padding:0px;
+        mso-ignore:padding;
+        color:windowtext;
+        font-size:8.0pt;
+        font-weight:400;
+        font-style:normal;
+        text-decoration:none;
+        font-family:Montserrat;
+        mso-generic-font-family:auto;
+        mso-font-charset:0;
+        mso-number-format:General;
+        text-align:right;
+        vertical-align:bottom;
+        mso-background-source:auto;
+        mso-pattern:auto;
+        white-space:nowrap;}
+    
+    </style>
+    @yield('style')
+    
+    </head>
+    
+    <body>
+    
+    
+    <div id="F002-THHC Routine Daily Work_31001" align=center
+    x:publishsource="Excel">
+    
+    <table border=0 cellpadding=0 cellspacing=0 width=638 class=xl6631001
+     style='border-collapse:collapse;table-layout:fixed;width:477pt'>
+     <col class=xl6631001 width=63 span=2 style='width:47pt'>
+     <col class=xl6631001 width=220 style='mso-width-source:userset;mso-width-alt:
+     7822;width:165pt'>
+     <col class=xl6631001 width=63 style='width:47pt'>
+     <col class=xl6631001 width=26 style='mso-width-source:userset;mso-width-alt:
+     910;width:19pt'>
+     <col class=xl6831001 width=203 style='mso-width-source:userset;mso-width-alt:
+     7224;width:152pt'>
+     <col class=xl6631001 width=0 style='display:none;mso-width-source:userset;
+     mso-width-alt:4096'>
+     <tr height=75 style='mso-height-source:userset;height:56.55pt'>
+      <td colspan=7 height=75 width=638 style='border-right:.5pt solid black;
+      height:56.55pt;width:477pt' align=left valign=top><span style='mso-ignore:vglayout;
+      position:absolute;z-index:3;margin-left:2px;margin-top:10px;width:194px;
+      height:47px'><img width=194 height=47
+      src="F002-THHC%20Routine%20Daily%20Work.files/F002-THHC%20Routine%20Daily%20Work_31001_image002.png"
+      v:shapes="Picture_x0020_5"></span><span style='mso-ignore:vglayout2'>
+      <table cellpadding=0 cellspacing=0>
+       <tr>
+        <td colspan=7 height=75 class=xl7331001 width=638 style='border-right:.5pt solid black;
+        height:56.55pt;width:477pt'><a name="RANGE!A1:F48"><span
+        style='mso-spacerun:yes'></span>DAILY WORK</a></td>
+       </tr>
+      </table>
+      </span></td>
+     </tr>
+     <tr height=18 style='mso-height-source:userset;height:13.5pt'>
+      <td colspan=3 height=18 class=xl7531001 style='height:13.5pt'>Routine Office
+      Work</td>
+      <td class=xl7131001 style='border-left:none'>YES</td>
+      <td class=xl7131001 style='border-left:none'>NO</td>
+      <td class=xl7231001 align=left style='border-left:none'>COMMENT</td>
+      <td class=xl6553531001 style='border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=18 style='mso-height-source:userset;height:13.5pt'>
+      <td colspan=3 height=18 class=xl6731001 style='height:13.5pt'>Check the
+      recived refeeral and planned patient for visit</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6731001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=16 style='mso-height-source:userset;height:12.45pt'>
+      <td height=16 class=xl6831001 align=left style='height:12.45pt;border-top:
+      none'>Daily chec<span style='display:none'>king of anaphylaxis kit</span></td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=16 style='mso-height-source:userset;height:12.45pt'>
+      <td height=16 class=xl6831001 align=left style='height:12.45pt;border-top:
+      none'>Daily chec<span style='display:none'>king of refrigerator temperature</span></td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=14 style='mso-height-source:userset;height:11.25pt'>
+      <td height=14 class=xl6831001 align=left style='height:11.25pt;border-top:
+      none'>Quality co<span style='display:none'>ntrol<span
+      style='mso-spacerun:yes'></span>check of glucometers,quacocheck</span></td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=14 style='mso-height-source:userset;height:11.25pt'>
+      <td height=14 class=xl6831001 align=left style='height:11.25pt;border-top:
+      none'>Checking <span style='display:none'>of all equipment</span></td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=16 style='mso-height-source:userset;height:12.45pt'>
+      <td height=16 class=xl6831001 align=left style='height:12.45pt;border-top:
+      none'>Checking <span style='display:none'>and preparing of HHC bags</span></td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=16 style='mso-height-source:userset;height:12.45pt'>
+      <td colspan=3 height=16 class=xl7531001 style='height:12.45pt'>Routine Visit
+      Schedule</td>
+      <td class=xl7031001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl7031001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td colspan=2 class=xl7631001 style='border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=17 style='mso-height-source:userset;height:13.05pt'>
+      <td colspan=3 height=17 class=xl6731001 style='height:13.05pt'>Purpose of
+      visit</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td colspan=2 class=xl6931001 style='border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=18 style='height:13.2pt'>
+      <td colspan=3 height=18 class=xl6731001 style='height:13.2pt'>Review the case
+      with HHC Physcian if needed.</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=18 style='mso-height-source:userset;height:13.5pt'>
+      <td colspan=3 height=18 class=xl6731001 style='height:13.5pt'>Notification of
+      the family<span style='mso-spacerun:yes'></span></td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td colspan=2 class=xl6931001 style='border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=18 style='height:13.2pt'>
+      <td colspan=3 height=18 class=xl6731001 style='height:13.2pt'>Patient
+      identefication</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td colspan=2 class=xl6931001 style='border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=18 style='height:13.2pt'>
+      <td height=18 class=xl6931001 style='height:13.2pt;border-top:none'>1</td>
+      <td colspan=2 class=xl6731001 style='border-left:none'>patient medical record
+      number<span style='mso-spacerun:yes'></span></td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=18 style='height:13.2pt'>
+      <td height=18 class=xl6931001 style='height:13.2pt;border-top:none'>2</td>
+      <td colspan=2 class=xl6731001 style='border-left:none'>patient full name<span
+      style='mso-spacerun:yes'></span></td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=20 style='mso-height-source:userset;height:15.0pt'>
+      <td height=20 class=xl6831001 align=left style='height:15.0pt;border-top:
+      none'>Effective c<span style='display:none'>omunication</span></td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=18 style='height:13.2pt'>
+      <td height=18 class=xl6931001 style='height:13.2pt;border-top:none'>1</td>
+      <td colspan=2 class=xl6731001 style='border-left:none'>verbal commuication</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=18 style='height:13.2pt'>
+      <td height=18 class=xl6931001 style='height:13.2pt;border-top:none'>2</td>
+      <td colspan=2 class=xl6731001 style='border-left:none'>electronic<span
+      style='mso-spacerun:yes'></span>commuication</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=18 style='height:13.2pt'>
+      <td height=18 class=xl6931001 style='height:13.2pt;border-top:none'>3</td>
+      <td colspan=2 class=xl6731001 style='border-left:none'>written commuication</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=21 style='mso-height-source:userset;height:15.75pt'>
+      <td height=21 class=xl6831001 align=left style='height:15.75pt;border-top:
+      none'>Infection c<span style='display:none'>ontrol:</span></td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=18 style='height:13.2pt'>
+      <td height=18 class=xl6931001 style='height:13.2pt;border-top:none'>1</td>
+      <td class=xl6731001 style='border-top:none;border-left:none'>Hand Hygi<span
+      style='display:none'>ene</span></td>
+      <td class=xl6731001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=18 style='height:13.2pt'>
+      <td height=18 class=xl6931001 style='height:13.2pt;border-top:none'>2</td>
+      <td class=xl6731001 style='border-top:none;border-left:none'>Personal <span
+      style='display:none'>Protective Equipment (PPE)</span></td>
+      <td class=xl6731001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=18 style='height:13.2pt'>
+      <td height=18 class=xl6931001 style='height:13.2pt;border-top:none'>3</td>
+      <td class=xl6731001 style='border-top:none;border-left:none'>Aseptic Te<span
+      style='display:none'>chnique</span></td>
+      <td class=xl6731001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=18 style='height:13.2pt'>
+      <td height=18 class=xl6931001 style='height:13.2pt;border-top:none'>4</td>
+      <td class=xl6731001 style='border-top:none;border-left:none'>handling o<span
+      style='display:none'>f contaminated items</span></td>
+      <td class=xl6731001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=18 style='height:13.2pt'>
+      <td height=18 class=xl6931001 style='height:13.2pt;border-top:none'>5</td>
+      <td class=xl6731001 style='border-top:none;border-left:none'>safe handl<span
+      style='display:none'>ing<span style='mso-spacerun:yes'></span>and
+      disposal<span style='mso-spacerun:yes'></span>of sharp</span></td>
+      <td class=xl6731001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=18 style='height:13.2pt'>
+      <td height=18 class=xl6931001 style='height:13.2pt;border-top:none'>6</td>
+      <td class=xl6731001 style='border-top:none;border-left:none'>collection <span
+      style='display:none'>and handling of Lab specimens</span></td>
+      <td class=xl6731001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+      <td colspan=3 height=22 class=xl6731001 style='height:16.5pt'>Medication
+      safety</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+      <td height=22 class=xl6931001 style='height:16.5pt;border-top:none'>1</td>
+      <td colspan=2 class=xl6731001 style='border-left:none'>patient (6) rights</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+      <td height=22 class=xl6931001 style='height:16.5pt;border-top:none'>2</td>
+      <td colspan=2 class=xl6731001 style='border-left:none'>prohibited
+      abbreviations</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+      <td height=22 class=xl6931001 style='height:16.5pt;border-top:none'>3</td>
+      <td colspan=2 class=xl6731001 style='border-left:none'>look -like, sound-
+      likeand high alert medication<span style='mso-spacerun:yes'></span></td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+      <td height=22 class=xl6931001 style='height:16.5pt;border-top:none'>4</td>
+      <td colspan=2 class=xl6731001 style='border-left:none'>medication error</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+      <td height=22 class=xl6931001 style='height:16.5pt;border-top:none'>5</td>
+      <td colspan=2 class=xl6731001 style='border-left:none'>adverse drug reaction</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=16 style='mso-height-source:userset;height:12.45pt'>
+      <td height=16 class=xl6831001 align=left style='height:12.45pt;border-top:
+      none'>Patient &amp; f<span style='display:none'>amily education</span></td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=18 style='height:13.2pt'>
+      <td height=18 class=xl6931001 style='height:13.2pt;border-top:none'>1</td>
+      <td colspan=2 class=xl6731001 style='border-left:none'>their rights and
+      responsibalities</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=18 style='height:13.2pt'>
+      <td height=18 class=xl6931001 style='height:13.2pt;border-top:none'>2</td>
+      <td colspan=2 class=xl6731001 style='border-left:none'>the disease process</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=18 style='height:13.2pt'>
+      <td height=18 class=xl6931001 style='height:13.2pt;border-top:none'>3</td>
+      <td colspan=2 class=xl6731001 style='border-left:none'>pain management</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=18 style='height:13.2pt'>
+      <td height=18 class=xl6931001 style='height:13.2pt;border-top:none'>4</td>
+      <td colspan=2 class=xl6731001 style='border-left:none'>falls prevention</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=18 style='height:13.2pt'>
+      <td height=18 class=xl6931001 style='height:13.2pt;border-top:none'>5</td>
+      <td colspan=2 class=xl6731001 style='border-left:none'>self care needs</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=18 style='height:13.2pt'>
+      <td height=18 class=xl6931001 style='height:13.2pt;border-top:none'>6</td>
+      <td colspan=2 class=xl6731001 style='border-left:none'>medication</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=18 style='height:13.2pt'>
+      <td height=18 class=xl6931001 style='height:13.2pt;border-top:none'>7</td>
+      <td colspan=2 class=xl6731001 style='border-left:none'>nutrition assessment</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=18 style='height:13.2pt'>
+      <td height=18 class=xl6931001 style='height:13.2pt;border-top:none'>8</td>
+      <td colspan=2 class=xl6731001 style='border-left:none'>use of medical
+      equipment<span style='mso-spacerun:yes'></span></td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=18 style='height:13.2pt'>
+      <td height=18 class=xl6931001 style='height:13.2pt;border-top:none'>9</td>
+      <td colspan=2 class=xl6731001 style='border-left:none'>the rehabilitive
+      teqhnique<span style='mso-spacerun:yes'></span></td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=18 style='height:13.2pt'>
+      <td height=18 class=xl6931001 style='height:13.2pt;border-top:none'>10</td>
+      <td colspan=2 class=xl6731001 style='border-left:none'>safe home
+      enviroment<span style='mso-spacerun:yes'></span></td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=18 style='height:13.2pt'>
+      <td height=18 class=xl6931001 style='height:13.2pt;border-top:none'>11</td>
+      <td colspan=2 class=xl6731001 style='border-left:none'>community
+      ressoures<span style='mso-spacerun:yes'></span></td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6931001 style='border-top:none;border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=22 style='mso-height-source:userset;height:17.25pt'>
+      <td colspan=3 height=22 class=xl6731001 style='height:17.25pt'>Documentation<span
+      style='mso-spacerun:yes'></span></td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=18 style='height:13.2pt'>
+      <td height=18 class=xl6931001 style='height:13.2pt;border-top:none'>1</td>
+      <td colspan=2 class=xl6731001 style='border-left:none'>written documention</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=18 style='height:13.2pt'>
+      <td height=18 class=xl6931001 style='height:13.2pt;border-top:none'>2</td>
+      <td colspan=2 class=xl6731001 style='border-left:none'>electronic<span
+      style='mso-spacerun:yes'> </span>documentation<span
+      style='mso-spacerun:yes'></span></td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+      <td class=xl6831001 style='border-top:none;border-left:none'>&nbsp;</td>
+     </tr>
+     <tr height=18 style='height:13.2pt'>
+      <td colspan=6 height=18 class=xl7731001 style='height:13.2pt'>F002-THHC
+      Routine Daily Work</td>
+      <td class=xl6631001></td>
+     </tr>
+     
+     <tr height=0 style='display:none'>
+      <td width=63 style='width:47pt'></td>
+      <td width=63 style='width:47pt'></td>
+      <td width=220 style='width:165pt'></td>
+      <td width=63 style='width:47pt'></td>
+      <td width=26 style='width:19pt'></td>
+      <td width=203 style='width:152pt'></td>
+      <td width=0></td>
+     </tr>
+     
+    </table>
+    
+    </div>
+    
+    
+    <!----------------------------->
+    <!--END OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD-->
+    <!----------------------------->
+    </body>
+    
+    </html>
+    

@@ -1,335 +1,1035 @@
-<html xmlns:v="urn:schemas-microsoft-com:vml"
-xmlns:o="urn:schemas-microsoft-com:office:office"
-xmlns:x="urn:schemas-microsoft-com:office:excel"
-xmlns="http://www.w3.org/TR/REC-html40">
-
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<meta name="Excel Workbook Frameset">
-<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
-<meta name=ProgId content=Excel.Sheet>
-<meta name=Generator content="Microsoft Excel 15">
-<link rel=File-List
-href="F006-THHC%20Treatment%20Plan%20and%20Multidisciplinary%20Form.files/filelist.xml">
-<![if !supportTabStrip]>
-<link id="shLink" href="F006-THHC%20Treatment%20Plan%20and%20Multidisciplinary%20Form.files/sheet001.htm">
-<link id="shLink" href="F006-THHC%20Treatment%20Plan%20and%20Multidisciplinary%20Form.files/sheet002.htm">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>F006-THHC Treatment Plan and Multidisciplinary Form | @yield('title')</title>
+	<style>
+        
+.font531901
+	{color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Monstrate;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.xl6331901
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Monstrate;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6431901
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Montserrat SemiBold";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:.5pt solid windowtext;
+	background:#3AC2BA;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl6531901
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Monstrate;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6631901
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Montserrat SemiBold";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	background:#3AC2BA;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl6731901
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Montserrat SemiBold";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:#3AC2BA;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl6831901
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Monstrate;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6931901
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Monstrate;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7031901
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Montserrat SemiBold";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:#3AC2BA;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7131901
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Monstrate;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	background:#3AC2BA;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7231901
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Monstrate;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:#3AC2BA;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7331901
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:9.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Montserrat SemiBold";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	border:.5pt solid windowtext;
+	background:#3AC2BA;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7431901
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Montserrat SemiBold";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7531901
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Montserrat SemiBold";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border:.5pt solid windowtext;
+	background:#3AC2BA;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7631901
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Montserrat SemiBold";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border:.5pt solid windowtext;
+	background:#3AC2BA;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7731901
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Montserrat SemiBold";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	background:#3AC2BA;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7831901
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:9.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Montserrat SemiBold";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border:.5pt solid windowtext;
+	background:#3AC2BA;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7931901
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Monstrate;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:#3AC2BA;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl8031901
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Montserrat SemiBold";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	background:#3AC2BA;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl8131901
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Montserrat SemiBold";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:#3AC2BA;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl8231901
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Montserrat SemiBold";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:#3AC2BA;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl8331901
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Montserrat SemiBold";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	background:#3AC2BA;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl8431901
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Montserrat SemiBold";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:#3AC2BA;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl8531901
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Montserrat SemiBold";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:#3AC2BA;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl8631901
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Monstrate;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl8731901
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Montserrat SemiBold";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl8831901
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Monstrate;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl8931901
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Monstrate;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl9031901
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Monstrate;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl9131901
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Monstrate;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl9231901
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Monstrate;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl9331901
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Monstrate;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl9431901
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Monstrate semibold";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:top;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl9531901
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Monstrate semibold";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:top;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl9631901
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Monstrate semibold";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:top;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl9731901
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Monstrate;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:top;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl9831901
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Monstrate;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:top;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl9931901
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Monstrate;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:top;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl10031901
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Montserrat SemiBold";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	border:.5pt solid windowtext;
+	background:#3AC2BA;
+	mso-pattern:black none;
+	white-space:nowrap;}
 
-<link id="shLink">
-
-<script language="JavaScript">
-<!--
- var c_lTabs=2;
-
- var c_rgszSh=new Array(c_lTabs);
- c_rgszSh[0] = "TreatPlan";
- c_rgszSh[1] = "MULTIDISCIPLINARY�C-P";
-
-
-
- var c_rgszClr=new Array(8);
- c_rgszClr[0]="window";
- c_rgszClr[1]="buttonface";
- c_rgszClr[2]="windowframe";
- c_rgszClr[3]="windowtext";
- c_rgszClr[4]="threedlightshadow";
- c_rgszClr[5]="threedhighlight";
- c_rgszClr[6]="threeddarkshadow";
- c_rgszClr[7]="threedshadow";
-
- var g_iShCur;
- var g_rglTabX=new Array(c_lTabs);
-
-function fnGetIEVer()
-{
- var ua=window.navigator.userAgent
- var msie=ua.indexOf("MSIE")
- if (msie>0 && window.navigator.platform=="Win32")
-  return parseInt(ua.substring(msie+5,ua.indexOf(".", msie)));
- else
-  return 0;
-}
-
-function fnBuildFrameset()
-{
- var szHTML="<frameset rows=\"*,18\" border=0 width=0 frameborder=no framespacing=0>"+
-  "<frame src=\""+document.all.item("shLink")[1].href+"\" name=\"frSheet\" noresize>"+
-  "<frameset cols=\"54,*\" border=0 width=0 frameborder=no framespacing=0>"+
-  "<frame src=\"\" name=\"frScroll\" marginwidth=0 marginheight=0 scrolling=no>"+
-  "<frame src=\"\" name=\"frTabs\" marginwidth=0 marginheight=0 scrolling=no>"+
-  "</frameset></frameset><plaintext>";
-
- with (document) {
-  open("text/html","replace");
-  write(szHTML);
-  close();
- }
-
- fnBuildTabStrip();
-}
-
-function fnBuildTabStrip()
-{
- var szHTML=
-  "<html><head><style>.clScroll {font:8pt Courier New;color:"+c_rgszClr[6]+";cursor:default;line-height:10pt;}"+
-  ".clScroll2 {font:10pt Arial;color:"+c_rgszClr[6]+";cursor:default;line-height:11pt;}</style></head>"+
-  "<body onclick=\"event.returnValue=false;\" ondragstart=\"event.returnValue=false;\" onselectstart=\"event.returnValue=false;\" bgcolor="+c_rgszClr[4]+" topmargin=0 leftmargin=0><table cellpadding=0 cellspacing=0 width=100%>"+
-  "<tr><td colspan=6 height=1 bgcolor="+c_rgszClr[2]+"></td></tr>"+
-  "<tr><td style=\"font:1pt\">&nbsp;<td>"+
-  "<td valign=top id=tdScroll class=\"clScroll\" onclick=\"parent.fnFastScrollTabs(0);\" onmouseover=\"parent.fnMouseOverScroll(0);\" onmouseout=\"parent.fnMouseOutScroll(0);\"><a>&#171;</a></td>"+
-  "<td valign=top id=tdScroll class=\"clScroll2\" onclick=\"parent.fnScrollTabs(0);\" ondblclick=\"parent.fnScrollTabs(0);\" onmouseover=\"parent.fnMouseOverScroll(1);\" onmouseout=\"parent.fnMouseOutScroll(1);\"><a>&lt</a></td>"+
-  "<td valign=top id=tdScroll class=\"clScroll2\" onclick=\"parent.fnScrollTabs(1);\" ondblclick=\"parent.fnScrollTabs(1);\" onmouseover=\"parent.fnMouseOverScroll(2);\" onmouseout=\"parent.fnMouseOutScroll(2);\"><a>&gt</a></td>"+
-  "<td valign=top id=tdScroll class=\"clScroll\" onclick=\"parent.fnFastScrollTabs(1);\" onmouseover=\"parent.fnMouseOverScroll(3);\" onmouseout=\"parent.fnMouseOutScroll(3);\"><a>&#187;</a></td>"+
-  "<td style=\"font:1pt\">&nbsp;<td></tr></table></body></html>";
-
- with (frames['frScroll'].document) {
-  open("text/html","replace");
-  write(szHTML);
-  close();
- }
-
- szHTML =
-  "<html><head>"+
-  "<style>A:link,A:visited,A:active {text-decoration:none;"+"color:"+c_rgszClr[3]+";}"+
-  ".clTab {cursor:hand;background:"+c_rgszClr[1]+";font:9pt Arial;padding-left:3px;padding-right:3px;text-align:center;}"+
-  ".clBorder {background:"+c_rgszClr[2]+";font:1pt;}"+
-  "</style></head><body onload=\"parent.fnInit();\" onselectstart=\"event.returnValue=false;\" ondragstart=\"event.returnValue=false;\" bgcolor="+c_rgszClr[4]+
-  " topmargin=0 leftmargin=0><table id=tbTabs cellpadding=0 cellspacing=0>";
-
- var iCellCount=(c_lTabs+1)*2;
-
- var i;
- for (i=0;i<iCellCount;i+=2)
-  szHTML+="<col width=1><col>";
-
- var iRow;
- for (iRow=0;iRow<6;iRow++) {
-
-  szHTML+="<tr>";
-
-  if (iRow==5)
-   szHTML+="<td colspan="+iCellCount+"></td>";
-  else {
-   if (iRow==0) {
-    for(i=0;i<iCellCount;i++)
-     szHTML+="<td height=1 class=\"clBorder\"></td>";
-   } else if (iRow==1) {
-    for(i=0;i<c_lTabs;i++) {
-     szHTML+="<td height=1 nowrap class=\"clBorder\">&nbsp;</td>";
-     szHTML+=
-      "<td id=tdTab height=1 nowrap class=\"clTab\" onmouseover=\"parent.fnMouseOverTab("+i+");\" onmouseout=\"parent.fnMouseOutTab("+i+");\">"+
-      "<a href=\""+document.all.item("shLink")[i].href+"\" target=\"frSheet\" id=aTab>&nbsp;"+c_rgszSh[i]+"&nbsp;</a></td>";
-    }
-    szHTML+="<td id=tdTab height=1 nowrap class=\"clBorder\"><a id=aTab>&nbsp;</a></td><td width=100%></td>";
-   } else if (iRow==2) {
-    for (i=0;i<c_lTabs;i++)
-     szHTML+="<td height=1></td><td height=1 class=\"clBorder\"></td>";
-    szHTML+="<td height=1></td><td height=1></td>";
-   } else if (iRow==3) {
-    for (i=0;i<iCellCount;i++)
-     szHTML+="<td height=1></td>";
-   } else if (iRow==4) {
-    for (i=0;i<c_lTabs;i++)
-     szHTML+="<td height=1 width=1></td><td height=1></td>";
-    szHTML+="<td height=1 width=1></td><td></td>";
-   }
-  }
-  szHTML+="</tr>";
- }
-
- szHTML+="</table></body></html>";
- with (frames['frTabs'].document) {
-  open("text/html","replace");
-  charset=document.charset;
-  write(szHTML);
-  close();
- }
-}
-
-function fnInit()
-{
- g_rglTabX[0]=0;
- var i;
- for (i=1;i<=c_lTabs;i++)
-  with (frames['frTabs'].document.all.tbTabs.rows[1].cells[fnTabToCol(i-1)])
-   g_rglTabX[i]=offsetLeft+offsetWidth-6;
-}
-
-function fnTabToCol(iTab)
-{
- return 2*iTab+1;
-}
-
-function fnNextTab(fDir)
-{
- var iNextTab=-1;
- var i;
-
- with (frames['frTabs'].document.body) {
-  if (fDir==0) {
-   if (scrollLeft>0) {
-    for (i=0;i<c_lTabs&&g_rglTabX[i]<scrollLeft;i++);
-    if (i<c_lTabs)
-     iNextTab=i-1;
-   }
-  } else {
-   if (g_rglTabX[c_lTabs]+6>offsetWidth+scrollLeft) {
-    for (i=0;i<c_lTabs&&g_rglTabX[i]<=scrollLeft;i++);
-    if (i<c_lTabs)
-     iNextTab=i;
-   }
-  }
- }
- return iNextTab;
-}
-
-function fnScrollTabs(fDir)
-{
- var iNextTab=fnNextTab(fDir);
-
- if (iNextTab>=0) {
-  frames['frTabs'].scroll(g_rglTabX[iNextTab],0);
-  return true;
- } else
-  return false;
-}
-
-function fnFastScrollTabs(fDir)
-{
- if (c_lTabs>16)
-  frames['frTabs'].scroll(g_rglTabX[fDir?c_lTabs-1:0],0);
- else
-  if (fnScrollTabs(fDir)>0) window.setTimeout("fnFastScrollTabs("+fDir+");",5);
-}
-
-function fnSetTabProps(iTab,fActive)
-{
- var iCol=fnTabToCol(iTab);
- var i;
-
- if (iTab>=0) {
-  with (frames['frTabs'].document.all) {
-   with (tbTabs) {
-    for (i=0;i<=4;i++) {
-     with (rows[i]) {
-      if (i==0)
-       cells[iCol].style.background=c_rgszClr[fActive?0:2];
-      else if (i>0 && i<4) {
-       if (fActive) {
-        cells[iCol-1].style.background=c_rgszClr[2];
-        cells[iCol].style.background=c_rgszClr[0];
-        cells[iCol+1].style.background=c_rgszClr[2];
-       } else {
-        if (i==1) {
-         cells[iCol-1].style.background=c_rgszClr[2];
-         cells[iCol].style.background=c_rgszClr[1];
-         cells[iCol+1].style.background=c_rgszClr[2];
-        } else {
-         cells[iCol-1].style.background=c_rgszClr[4];
-         cells[iCol].style.background=c_rgszClr[(i==2)?2:4];
-         cells[iCol+1].style.background=c_rgszClr[4];
-        }
-       }
-      } else
-       cells[iCol].style.background=c_rgszClr[fActive?2:4];
-     }
-    }
-   }
-   with (aTab[iTab].style) {
-    cursor=(fActive?"default":"hand");
-    color=c_rgszClr[3];
-   }
-  }
- }
-}
-
-function fnMouseOverScroll(iCtl)
-{
- frames['frScroll'].document.all.tdScroll[iCtl].style.color=c_rgszClr[7];
-}
-
-function fnMouseOutScroll(iCtl)
-{
- frames['frScroll'].document.all.tdScroll[iCtl].style.color=c_rgszClr[6];
-}
-
-function fnMouseOverTab(iTab)
-{
- if (iTab!=g_iShCur) {
-  var iCol=fnTabToCol(iTab);
-  with (frames['frTabs'].document.all) {
-   tdTab[iTab].style.background=c_rgszClr[5];
-  }
- }
-}
-
-function fnMouseOutTab(iTab)
-{
- if (iTab>=0) {
-  var elFrom=frames['frTabs'].event.srcElement;
-  var elTo=frames['frTabs'].event.toElement;
-
-  if ((!elTo) ||
-   (elFrom.tagName==elTo.tagName) ||
-   (elTo.tagName=="A" && elTo.parentElement!=elFrom) ||
-   (elFrom.tagName=="A" && elFrom.parentElement!=elTo)) {
-
-   if (iTab!=g_iShCur) {
-    with (frames['frTabs'].document.all) {
-     tdTab[iTab].style.background=c_rgszClr[1];
-    }
-   }
-  }
- }
-}
-
-function fnSetActiveSheet(iSh)
-{
- if (iSh!=g_iShCur) {
-  fnSetTabProps(g_iShCur,false);
-  fnSetTabProps(iSh,true);
-  g_iShCur=iSh;
- }
-}
-
- window.g_iIEVer=fnGetIEVer();
- if (window.g_iIEVer>=4)
-  fnBuildFrameset();
-//-->
-</script>
-<![endif]><!--[if gte mso 9]><xml>
- <x:ExcelWorkbook>
-  <x:ExcelWorksheets>
-   <x:ExcelWorksheet>
-    <x:Name>TreatPlan</x:Name>
-    <x:WorksheetSource
-     HRef="F006-THHC%20Treatment%20Plan%20and%20Multidisciplinary%20Form.files/sheet001.htm"/>
-   </x:ExcelWorksheet>
-   <x:ExcelWorksheet>
-    <x:Name>MULTIDISCIPLINARY C-P</x:Name>
-    <x:WorksheetSource
-     HRef="F006-THHC%20Treatment%20Plan%20and%20Multidisciplinary%20Form.files/sheet002.htm"/>
-   </x:ExcelWorksheet>
-  </x:ExcelWorksheets>
-  <x:Stylesheet
-   HRef="F006-THHC%20Treatment%20Plan%20and%20Multidisciplinary%20Form.files/stylesheet.css"/>
-  <x:WindowHeight>8880</x:WindowHeight>
-  <x:WindowWidth>23040</x:WindowWidth>
-  <x:WindowTopX>32767</x:WindowTopX>
-  <x:WindowTopY>32767</x:WindowTopY>
-  <x:ActiveSheet>1</x:ActiveSheet>
-  <x:ProtectStructure>False</x:ProtectStructure>
-  <x:ProtectWindows>False</x:ProtectWindows>
- </x:ExcelWorkbook>
-</xml><![endif]-->
+</style>
 </head>
 
-<frameset rows="*,39" border=0 width=0 frameborder=no framespacing=0>
- <frame src="F006-THHC%20Treatment%20Plan%20and%20Multidisciplinary%20Form.files/sheet002.htm" name="frSheet">
- <frame src="F006-THHC%20Treatment%20Plan%20and%20Multidisciplinary%20Form.files/tabstrip.htm" name="frTabs" marginwidth=0 marginheight=0>
- <noframes>
-  <body>
-   <p>&#1610;&#1608;&#1580;&#1583; &#1573;&#1591;&#1575;&#1585;&#1575;&#1578; &#1576;&#1607;&#1584;&#1607; &#1575;&#1604;&#1589;&#1601;&#1581;&#1577; &#1573;&#1604;&#1575; &#1571;&#1606; &#1575;&#1604;&#1605;&#1587;&#1578;&#1593;&#1585;&#1590; &#1604;&#1575; &#1610;&#1593;&#1578;&#1605;&#1583;&#1607;&#1575;.</p>
-  </body>
- </noframes>
-</frameset>
+<body>
+
+
+<div id="F006-THHC Treatment Plan and Multidisciplinary Form_31901"
+align=center x:publishsource="Excel">
+
+<table border=0 cellpadding=0 cellspacing=0 width=839 class=xl6331901
+ style='border-collapse:collapse;table-layout:fixed;width:631pt'>
+ <col class=xl6331901 width=13 span=3 style='mso-width-source:userset;
+ mso-width-alt:455;width:10pt'>
+ <col class=xl6331901 width=20 span=4 style='mso-width-source:userset;
+ mso-width-alt:711;width:15pt'>
+ <col class=xl6331901 width=30 style='mso-width-source:userset;mso-width-alt:
+ 1080;width:23pt'>
+ <col class=xl6331901 width=20 span=31 style='mso-width-source:userset;
+ mso-width-alt:711;width:15pt'>
+ <col class=xl6331901 width=70 style='mso-width-source:userset;mso-width-alt:
+ 2503;width:53pt'>
+ <tr height=74 style='mso-height-source:userset;height:55.5pt'>
+  <td colspan=26 height=74 width=509 style='border-right:.5pt solid black;
+  height:55.5pt;width:383pt' align=left valign=top><span style='mso-ignore:vglayout;
+  position:absolute;z-index:1;margin-left:169px;margin-top:8px;width:196px;
+  height:57px'><img width=196 height=57
+  src="F006-THHC%20Treatment%20Plan%20and%20Multidisciplinary%20Form.files/F006-THHC%20Treatment%20Plan%20and%20Multidisciplinary%20Form_31901_image002.png"
+  v:shapes="Picture_x0020_1"></span><span style='mso-ignore:vglayout2'>
+  <table cellpadding=0 cellspacing=0>
+   <tr>
+    <td colspan=26 height=74 class=xl9731901 width=509 style='border-right:
+    .5pt solid black;height:55.5pt;width:383pt'>&nbsp;</td>
+   </tr>
+  </table>
+  </span></td>
+  <td colspan=14 rowspan=2 class=xl8831901 width=330 style='border-right:.5pt solid black;
+  border-bottom:.5pt solid black;width:248pt'>ADDRESSOGRAGH</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.45pt'>
+  <td colspan=26 height=20 class=xl9431901 style='border-right:.5pt solid black;
+  height:15.45pt'><span style='mso-spacerun:yes'></span>MULTIDISCIPLINARY CARE
+  PLAN</td>
+ </tr>
+ <tr height=14 style='mso-height-source:userset;height:11.1pt'>
+  <td colspan=40 height=14 class=xl7731901 style='height:11.1pt'>PLAN OF CARE</td>
+ </tr>
+ <tr height=18 style='height:13.2pt'>
+  <td colspan=3 height=18 class=xl7631901 style='height:13.2pt'>RN</td>
+  <td colspan=2 class=xl7631901 style='border-left:none'>&nbsp;</td>
+  <td class=xl6431901 align=left style='border-top:none;border-left:none'>RT</td>
+  <td colspan=2 class=xl7631901 style='border-left:none'>&nbsp;</td>
+  <td colspan=2 class=xl7631901 style='border-left:none'>SW</td>
+  <td colspan=2 class=xl7631901 style='border-left:none'>&nbsp;</td>
+  <td colspan=2 class=xl7631901 style='border-left:none'>OT</td>
+  <td colspan=2 class=xl7631901 style='border-left:none'>&nbsp;</td>
+  <td colspan=4 class=xl7631901 style='border-left:none'>DIETARY</td>
+  <td colspan=2 class=xl7631901 style='border-left:none'>&nbsp;</td>
+  <td colspan=4 class=xl7631901 style='border-left:none'>PT</td>
+  <td colspan=2 class=xl7631901 style='border-left:none'>&nbsp;</td>
+  <td colspan=4 class=xl7631901 style='border-left:none'>Others</td>
+  <td colspan=2 class=xl7631901 style='border-left:none'>&nbsp;</td>
+  <td class=xl6431901 align=left style='border-top:none;border-left:none'><span
+  style='mso-spacerun:yes'></span>Id<span style='display:none'>entified/
+  Achieved</span></td>
+  <td class=xl6431901 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl6431901 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl6431901 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl6431901 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl6431901 style='border-top:none;border-left:none'>&nbsp;</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td colspan=8 height=18 class=xl8331901 style='border-right:.5pt solid black;
+  height:14.1pt'>Problems/ Diagnosis</td>
+  <td colspan=32 class=xl8031901 style='border-right:.5pt solid black;
+  border-left:none'>&nbsp;</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td height=18 class=xl6531901 align=right style='height:14.1pt;border-top:
+  none'>1</td>
+  <td colspan=33 class=xl6931901 style='border-left:none'>&nbsp;</td>
+  <td colspan=6 class=xl6831901 style='border-left:none'>&nbsp;</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td height=18 class=xl6531901 align=right style='height:14.1pt;border-top:
+  none'>2</td>
+  <td colspan=33 class=xl6931901 style='border-left:none'>&nbsp;</td>
+  <td colspan=6 class=xl6831901 style='border-left:none'>&nbsp;</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td height=18 class=xl6531901 align=right style='height:14.1pt;border-top:
+  none'>3</td>
+  <td colspan=33 class=xl6931901 style='border-left:none'>&nbsp;</td>
+  <td colspan=6 class=xl6831901 style='border-left:none'>&nbsp;</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td height=18 class=xl6531901 align=right style='height:14.1pt;border-top:
+  none'>4</td>
+  <td colspan=33 class=xl6931901 style='border-left:none'>&nbsp;</td>
+  <td colspan=6 class=xl6831901 style='border-left:none'>&nbsp;</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td height=18 class=xl6531901 align=right style='height:14.1pt;border-top:
+  none'>5</td>
+  <td colspan=33 class=xl6931901 style='border-left:none'>&nbsp;</td>
+  <td colspan=6 class=xl6831901 style='border-left:none'>&nbsp;</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td height=18 class=xl6531901 align=right style='height:14.1pt;border-top:
+  none'>6</td>
+  <td colspan=33 class=xl6931901 style='border-left:none'>&nbsp;</td>
+  <td colspan=6 class=xl6831901 style='border-left:none'>&nbsp;</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td colspan=4 height=18 class=xl6631901 style='border-right:.5pt solid black;
+  height:14.1pt'>Goals</td>
+  <td colspan=36 class=xl7131901 style='border-right:.5pt solid black;
+  border-left:none'>&nbsp;</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td colspan=34 height=18 class=xl6931901 style='height:14.1pt'>&nbsp;</td>
+  <td colspan=6 class=xl6831901 style='border-left:none'>&nbsp;</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td colspan=34 height=18 class=xl6931901 style='height:14.1pt'>&nbsp;</td>
+  <td colspan=6 class=xl6831901 style='border-left:none'>&nbsp;</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td colspan=34 height=18 class=xl6931901 style='height:14.1pt'>&nbsp;</td>
+  <td colspan=6 class=xl6831901 style='border-left:none'>&nbsp;</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td colspan=34 height=18 class=xl6931901 style='height:14.1pt'>&nbsp;</td>
+  <td colspan=6 class=xl6831901 style='border-left:none'>&nbsp;</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td colspan=34 height=18 class=xl6931901 style='height:14.1pt'>&nbsp;</td>
+  <td colspan=6 class=xl6831901 style='border-left:none'>&nbsp;</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td colspan=34 height=18 class=xl6931901 style='height:14.1pt'>&nbsp;</td>
+  <td colspan=6 class=xl6831901 style='border-left:none'>&nbsp;</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td colspan=6 height=18 class=xl6631901 style='border-right:.5pt solid black;
+  height:14.1pt'>Interventions:</td>
+  <td colspan=34 class=xl7131901 style='border-left:none'>&nbsp;</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td colspan=40 height=18 class=xl6831901 style='height:14.1pt'>&nbsp;</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td colspan=40 height=18 class=xl6831901 style='height:14.1pt'>&nbsp;</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td colspan=40 height=18 class=xl6931901 style='height:14.1pt'>&nbsp;</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td colspan=40 height=18 class=xl6831901 style='height:14.1pt'>&nbsp;</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td colspan=40 height=18 class=xl6931901 style='height:14.1pt'>&nbsp;</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td colspan=40 height=18 class=xl6831901 style='height:14.1pt'>&nbsp;</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td colspan=40 height=18 class=xl6831901 style='height:14.1pt'>&nbsp;</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td colspan=40 height=18 class=xl6831901 style='height:14.1pt'>&nbsp;</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td colspan=6 height=18 class=xl7331901 style='height:14.1pt'>Discharge Plan</td>
+  <td colspan=34 class=xl7431901 style='border-left:none'>&nbsp;</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td colspan=6 height=18 class=xl7331901 style='height:14.1pt'>Visit Schedule</td>
+  <td colspan=8 class=xl7431901 style='border-left:none'>&nbsp;</td>
+  <td colspan=6 class=xl7531901 style='border-left:none'>Signature</td>
+  <td colspan=11 class=xl7431901 style='border-left:none'>&nbsp;</td>
+  <td colspan=3 class=xl7531901 style='border-left:none'>Date:</td>
+  <td colspan=6 class=xl7431901 style='border-left:none'>&nbsp;</td>
+ </tr>
+ <tr height=18 style='height:13.2pt'>
+  <td colspan=9 height=18 class=xl10031901 style='height:13.2pt'>Caregiver
+  Signature:</td>
+  <td colspan=11 class=xl7431901 style='border-left:none'>&nbsp;</td>
+  <td colspan=5 class=xl7831901 style='border-left:none'>Badge Number</td>
+  <td colspan=8 class=xl7431901 style='border-left:none'>&nbsp;</td>
+  <td colspan=2 class=xl7531901 style='border-left:none'>Date</td>
+  <td colspan=5 class=xl7431901 style='border-left:none'>&nbsp;</td>
+ </tr>
+ <tr height=18 style='height:13.2pt'>
+  <td colspan=9 height=18 class=xl7331901 style='height:13.2pt'>Date
+  Reviewed/Updated</td>
+  <td colspan=31 class=xl8731901 style='border-left:none'>&nbsp;</td>
+ </tr>
+ <tr height=18 style='height:13.2pt'>
+  <td colspan=40 height=18 class=xl8631901 style='height:13.2pt'><span
+  style='mso-spacerun:yes'>
+  </span><font class="font531901"><span
+  style='mso-spacerun:yes'></span>F006-THHC Treatment Plan and
+  Multidisciplinary Form</font></td>
+ </tr>
+ 
+ <tr height=0 style='display:none'>
+  <td width=13 style='width:10pt'></td>
+  <td width=13 style='width:10pt'></td>
+  <td width=13 style='width:10pt'></td>
+  <td width=20 style='width:15pt'></td>
+  <td width=20 style='width:15pt'></td>
+  <td width=20 style='width:15pt'></td>
+  <td width=20 style='width:15pt'></td>
+  <td width=30 style='width:23pt'></td>
+  <td width=20 style='width:15pt'></td>
+  <td width=20 style='width:15pt'></td>
+  <td width=20 style='width:15pt'></td>
+  <td width=20 style='width:15pt'></td>
+  <td width=20 style='width:15pt'></td>
+  <td width=20 style='width:15pt'></td>
+  <td width=20 style='width:15pt'></td>
+  <td width=20 style='width:15pt'></td>
+  <td width=20 style='width:15pt'></td>
+  <td width=20 style='width:15pt'></td>
+  <td width=20 style='width:15pt'></td>
+  <td width=20 style='width:15pt'></td>
+  <td width=20 style='width:15pt'></td>
+  <td width=20 style='width:15pt'></td>
+  <td width=20 style='width:15pt'></td>
+  <td width=20 style='width:15pt'></td>
+  <td width=20 style='width:15pt'></td>
+  <td width=20 style='width:15pt'></td>
+  <td width=20 style='width:15pt'></td>
+  <td width=20 style='width:15pt'></td>
+  <td width=20 style='width:15pt'></td>
+  <td width=20 style='width:15pt'></td>
+  <td width=20 style='width:15pt'></td>
+  <td width=20 style='width:15pt'></td>
+  <td width=20 style='width:15pt'></td>
+  <td width=20 style='width:15pt'></td>
+  <td width=20 style='width:15pt'></td>
+  <td width=20 style='width:15pt'></td>
+  <td width=20 style='width:15pt'></td>
+  <td width=20 style='width:15pt'></td>
+  <td width=20 style='width:15pt'></td>
+  <td width=70 style='width:53pt'></td>
+ </tr>
+
+</table>
+
+</div>
+
+
+<!----------------------------->
+<!--END OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD-->
+<!----------------------------->
+</body>
+
 </html>

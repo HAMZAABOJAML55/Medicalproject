@@ -1,10 +1,5 @@
-<html xmlns:v="urn:schemas-microsoft-com:vml"
-xmlns:o="urn:schemas-microsoft-com:office:office"
-xmlns:w="urn:schemas-microsoft-com:office:word"
-xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
-xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
-xmlns="http://www.w3.org/TR/REC-html40">
-
+<!DOCTYPE html>
+<html lang="en">
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=windows-1252">
 <meta name=ProgId content=Word.Document>
@@ -14,679 +9,8 @@ xmlns="http://www.w3.org/TR/REC-html40">
 href="F012-THHC%20INITIAL%20ASSESSMENTREASSESSMENT%20FORM%20OF%20PHYSICAL%20THERAPY%20(PEDIATRIC).files/filelist.xml">
 <link rel=Edit-Time-Data
 href="F012-THHC%20INITIAL%20ASSESSMENTREASSESSMENT%20FORM%20OF%20PHYSICAL%20THERAPY%20(PEDIATRIC).files/editdata.mso">
-<!--[if !mso]>
-<style>
-v\:* {behavior:url(#default#VML);}
-o\:* {behavior:url(#default#VML);}
-w\:* {behavior:url(#default#VML);}
-.shape {behavior:url(#default#VML);}
-</style>
-<![endif]--><!--[if gte mso 9]><xml>
- <o:DocumentProperties>
-  <o:Author>Ramil</o:Author>
-  <o:LastAuthor>HAMZA AL HELOU</o:LastAuthor>
-  <o:Revision>2</o:Revision>
-  <o:TotalTime>553</o:TotalTime>
-  <o:LastPrinted>2020-04-29T07:44:00Z</o:LastPrinted>
-  <o:Created>2023-07-17T13:42:00Z</o:Created>
-  <o:LastSaved>2023-07-17T13:42:00Z</o:LastSaved>
-  <o:Pages>1</o:Pages>
-  <o:Words>1387</o:Words>
-  <o:Characters>7911</o:Characters>
-  <o:Lines>65</o:Lines>
-  <o:Paragraphs>18</o:Paragraphs>
-  <o:CharactersWithSpaces>9280</o:CharactersWithSpaces>
-  <o:Version>16.00</o:Version>
- </o:DocumentProperties>
- <o:CustomDocumentProperties>
-  <o:Created dt:dt="date">2019-11-27</o:Created>
-  <o:Creator dt:dt="string">Microsoft® Word for Office 365</o:Creator>
-  <o:LastSaved dt:dt="date">2020-02-17</o:LastSaved>
-  <o:ContentTypeId dt:dt="string">0x01010048F6CAE8B908BC4ABDE904F84BD607C8</o:ContentTypeId>
- </o:CustomDocumentProperties>
-</xml><![endif]-->
-<link rel=dataStoreItem
-href="F012-THHC%20INITIAL%20ASSESSMENTREASSESSMENT%20FORM%20OF%20PHYSICAL%20THERAPY%20(PEDIATRIC).files/item0001.xml"
-target="F012-THHC%20INITIAL%20ASSESSMENTREASSESSMENT%20FORM%20OF%20PHYSICAL%20THERAPY%20(PEDIATRIC).files/props002.xml">
-<link rel=dataStoreItem
-href="F012-THHC%20INITIAL%20ASSESSMENTREASSESSMENT%20FORM%20OF%20PHYSICAL%20THERAPY%20(PEDIATRIC).files/item0003.xml"
-target="F012-THHC%20INITIAL%20ASSESSMENTREASSESSMENT%20FORM%20OF%20PHYSICAL%20THERAPY%20(PEDIATRIC).files/props004.xml">
-<link rel=dataStoreItem
-href="F012-THHC%20INITIAL%20ASSESSMENTREASSESSMENT%20FORM%20OF%20PHYSICAL%20THERAPY%20(PEDIATRIC).files/item0005.xml"
-target="F012-THHC%20INITIAL%20ASSESSMENTREASSESSMENT%20FORM%20OF%20PHYSICAL%20THERAPY%20(PEDIATRIC).files/props006.xml">
-<link rel=dataStoreItem
-href="F012-THHC%20INITIAL%20ASSESSMENTREASSESSMENT%20FORM%20OF%20PHYSICAL%20THERAPY%20(PEDIATRIC).files/item0007.xml"
-target="F012-THHC%20INITIAL%20ASSESSMENTREASSESSMENT%20FORM%20OF%20PHYSICAL%20THERAPY%20(PEDIATRIC).files/props008.xml">
-<link rel=themeData
-href="F012-THHC%20INITIAL%20ASSESSMENTREASSESSMENT%20FORM%20OF%20PHYSICAL%20THERAPY%20(PEDIATRIC).files/themedata.thmx">
-<link rel=colorSchemeMapping
-href="F012-THHC%20INITIAL%20ASSESSMENTREASSESSMENT%20FORM%20OF%20PHYSICAL%20THERAPY%20(PEDIATRIC).files/colorschememapping.xml">
-<!--[if gte mso 9]><xml>
- <w:WordDocument>
-  <w:SpellingState>Clean</w:SpellingState>
-  <w:TrackMoves>false</w:TrackMoves>
-  <w:TrackFormatting/>
-  <w:PunctuationKerning/>
-  <w:DrawingGridHorizontalSpacing>5.5 &#1606;&#1602;&#1591;&#1577;</w:DrawingGridHorizontalSpacing>
-  <w:DisplayHorizontalDrawingGridEvery>2</w:DisplayHorizontalDrawingGridEvery>
-  <w:ValidateAgainstSchemas/>
-  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
-  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
-  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
-  <w:DoNotPromoteQF/>
-  <w:LidThemeOther>EN-US</w:LidThemeOther>
-  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
-  <w:LidThemeComplexScript>AR-SA</w:LidThemeComplexScript>
-  <w:Compatibility>
-   <w:ULTrailSpace/>
-   <w:BreakWrappedTables/>
-   <w:SnapToGridInCell/>
-   <w:WrapTextWithPunct/>
-   <w:UseAsianBreakRules/>
-   <w:DontGrowAutofit/>
-   <w:SplitPgBreakAndParaMark/>
-   <w:EnableOpenTypeKerning/>
-   <w:DontFlipMirrorIndents/>
-   <w:OverrideTableStyleHps/>
-  </w:Compatibility>
-  <w:DocumentVariables>
-   <w:__Grammarly_42____i>H4sIAAAAAAAEAKtWckksSQxILCpxzi/NK1GyMqwFAAEhoTITAAAA</w:__Grammarly_42____i>
-   <w:__Grammarly_42___1>H4sIAAAAAAAEAKtWcslP9kxRslIyNDYyNjK1NDAxNjM2tbQ0NDJQ0lEKTi0uzszPAykwqwUAPc4S1SwAAAA=</w:__Grammarly_42___1>
-  </w:DocumentVariables>
-  <w:DoNotOptimizeForBrowser/>
-  <m:mathPr>
-   <m:mathFont m:val="Cambria Math"/>
-   <m:brkBin m:val="before"/>
-   <m:brkBinSub m:val="&#45;-"/>
-   <m:smallFrac m:val="off"/>
-   <m:dispDef/>
-   <m:lMargin m:val="0"/>
-   <m:rMargin m:val="0"/>
-   <m:defJc m:val="centerGroup"/>
-   <m:wrapIndent m:val="1440"/>
-   <m:intLim m:val="subSup"/>
-   <m:naryLim m:val="undOvr"/>
-  </m:mathPr></w:WordDocument>
-</xml><![endif]--><!--[if gte mso 9]><xml>
- <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
-  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
-  LatentStyleCount="376">
-  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 2"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 3"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 5"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 6"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 8"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 6"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 7"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 8"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 9"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 1"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 2"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 3"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 4"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 5"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 6"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 7"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 8"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 9"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Normal Indent"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="footnote text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="annotation text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="header"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="footer"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index heading"/>
-  <w:LsdException Locked="false" Priority="35" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="caption"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="table of figures"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="envelope address"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="envelope return"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="footnote reference"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="annotation reference"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="line number"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="page number"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="endnote reference"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="endnote text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="table of authorities"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="macro"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="toa heading"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number 5"/>
-  <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Closing"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Signature"/>
-  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
-   UnhideWhenUsed="true" Name="Default Paragraph Font"/>
-  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="Body Text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text Indent"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Message Header"/>
-  <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Salutation"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Date"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text First Indent"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text First Indent 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Note Heading"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text Indent 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text Indent 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Block Text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Hyperlink"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="FollowedHyperlink"/>
-  <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
-  <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Document Map"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Plain Text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="E-mail Signature"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Top of Form"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Bottom of Form"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Normal (Web)"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Acronym"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Address"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Cite"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Code"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Definition"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Keyboard"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Preformatted"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Sample"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Typewriter"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Variable"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Normal Table"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="annotation subject"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="No List"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Outline List 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Outline List 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Outline List 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Simple 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Simple 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Simple 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Classic 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Classic 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Classic 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Classic 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Colorful 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Colorful 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Colorful 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 6"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 7"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 8"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 6"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 7"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 8"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table 3D effects 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table 3D effects 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table 3D effects 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Contemporary"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Elegant"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Professional"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Subtle 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Subtle 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Web 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Web 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Web 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Balloon Text"/>
-  <w:LsdException Locked="false" Priority="39" Name="Table Grid"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Theme"/>
-  <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
-  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" Name="Revision"/>
-  <w:LsdException Locked="false" Priority="1" QFormat="true"
-   Name="List Paragraph"/>
-  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
-  <w:LsdException Locked="false" Priority="30" QFormat="true"
-   Name="Intense Quote"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
-  <w:LsdException Locked="false" Priority="19" QFormat="true"
-   Name="Subtle Emphasis"/>
-  <w:LsdException Locked="false" Priority="21" QFormat="true"
-   Name="Intense Emphasis"/>
-  <w:LsdException Locked="false" Priority="31" QFormat="true"
-   Name="Subtle Reference"/>
-  <w:LsdException Locked="false" Priority="32" QFormat="true"
-   Name="Intense Reference"/>
-  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
-  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
-   UnhideWhenUsed="true" Name="Bibliography"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
-  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
-  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
-  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
-  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
-  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
-  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
-  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
-  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
-  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 1"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 1"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 1"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 2"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 2"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 2"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 3"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 3"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 3"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 4"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 4"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 4"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 5"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 5"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 5"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 6"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 6"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 6"/>
-  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
-  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
-  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 1"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 1"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 1"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 2"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 2"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 2"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 3"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 3"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 3"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 4"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 4"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 4"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 5"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 5"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 5"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 6"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 6"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 6"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Mention"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Smart Hyperlink"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Hashtag"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Unresolved Mention"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Smart Link"/>
- </w:LatentStyles>
-</xml><![endif]-->
+<title>F012-THHC INITIAL ASSESSMENTREASSESSMENT FORM OF PHYSICAL THERAPY (PEDIATRIC)| @yield('title')</title>
+
 <style>
 <!--
  /* Font Definitions */
@@ -1095,7 +419,7 @@ div.WordSection3
 @list l0:level2
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:35.05pt;
@@ -1106,7 +430,7 @@ div.WordSection3
 @list l0:level3
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:53.1pt;
@@ -1117,7 +441,7 @@ div.WordSection3
 @list l0:level4
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:71.15pt;
@@ -1128,7 +452,7 @@ div.WordSection3
 @list l0:level5
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:89.2pt;
@@ -1139,7 +463,7 @@ div.WordSection3
 @list l0:level6
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:107.25pt;
@@ -1150,7 +474,7 @@ div.WordSection3
 @list l0:level7
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:125.3pt;
@@ -1161,7 +485,7 @@ div.WordSection3
 @list l0:level8
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:143.35pt;
@@ -1172,7 +496,7 @@ div.WordSection3
 @list l0:level9
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:161.4pt;
@@ -1204,7 +528,7 @@ div.WordSection3
 @list l1:level2
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:26.05pt;
@@ -1215,7 +539,7 @@ div.WordSection3
 @list l1:level3
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:47.1pt;
@@ -1226,7 +550,7 @@ div.WordSection3
 @list l1:level4
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:68.15pt;
@@ -1237,7 +561,7 @@ div.WordSection3
 @list l1:level5
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:89.2pt;
@@ -1248,7 +572,7 @@ div.WordSection3
 @list l1:level6
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:110.25pt;
@@ -1259,7 +583,7 @@ div.WordSection3
 @list l1:level7
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:131.3pt;
@@ -1270,7 +594,7 @@ div.WordSection3
 @list l1:level8
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:152.35pt;
@@ -1281,7 +605,7 @@ div.WordSection3
 @list l1:level9
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:173.4pt;
@@ -1313,7 +637,7 @@ div.WordSection3
 @list l2:level2
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:26.95pt;
@@ -1324,7 +648,7 @@ div.WordSection3
 @list l2:level3
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:36.9pt;
@@ -1335,7 +659,7 @@ div.WordSection3
 @list l2:level4
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:46.85pt;
@@ -1346,7 +670,7 @@ div.WordSection3
 @list l2:level5
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:56.8pt;
@@ -1357,7 +681,7 @@ div.WordSection3
 @list l2:level6
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:66.75pt;
@@ -1368,7 +692,7 @@ div.WordSection3
 @list l2:level7
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:76.7pt;
@@ -1379,7 +703,7 @@ div.WordSection3
 @list l2:level8
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:86.65pt;
@@ -1390,7 +714,7 @@ div.WordSection3
 @list l2:level9
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:96.6pt;
@@ -1422,7 +746,7 @@ div.WordSection3
 @list l3:level2
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:27.45pt;
@@ -1433,7 +757,7 @@ div.WordSection3
 @list l3:level3
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:37.95pt;
@@ -1444,7 +768,7 @@ div.WordSection3
 @list l3:level4
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:48.45pt;
@@ -1455,7 +779,7 @@ div.WordSection3
 @list l3:level5
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:58.95pt;
@@ -1466,7 +790,7 @@ div.WordSection3
 @list l3:level6
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:69.45pt;
@@ -1477,7 +801,7 @@ div.WordSection3
 @list l3:level7
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:79.9pt;
@@ -1488,7 +812,7 @@ div.WordSection3
 @list l3:level8
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:90.4pt;
@@ -1499,7 +823,7 @@ div.WordSection3
 @list l3:level9
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:100.9pt;
@@ -1531,7 +855,7 @@ div.WordSection3
 @list l4:level2
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:20.3pt;
@@ -1542,7 +866,7 @@ div.WordSection3
 @list l4:level3
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:23.65pt;
@@ -1553,7 +877,7 @@ div.WordSection3
 @list l4:level4
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:26.95pt;
@@ -1564,7 +888,7 @@ div.WordSection3
 @list l4:level5
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:30.3pt;
@@ -1575,7 +899,7 @@ div.WordSection3
 @list l4:level6
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:33.65pt;
@@ -1586,7 +910,7 @@ div.WordSection3
 @list l4:level7
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:36.95pt;
@@ -1597,7 +921,7 @@ div.WordSection3
 @list l4:level8
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:40.3pt;
@@ -1608,7 +932,7 @@ div.WordSection3
 @list l4:level9
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:43.6pt;
@@ -1640,7 +964,7 @@ div.WordSection3
 @list l5:level2
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:35.05pt;
@@ -1651,7 +975,7 @@ div.WordSection3
 @list l5:level3
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:53.1pt;
@@ -1662,7 +986,7 @@ div.WordSection3
 @list l5:level4
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:71.15pt;
@@ -1673,7 +997,7 @@ div.WordSection3
 @list l5:level5
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:89.2pt;
@@ -1684,7 +1008,7 @@ div.WordSection3
 @list l5:level6
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:107.25pt;
@@ -1695,7 +1019,7 @@ div.WordSection3
 @list l5:level7
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:125.3pt;
@@ -1706,7 +1030,7 @@ div.WordSection3
 @list l5:level8
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:143.35pt;
@@ -1717,7 +1041,7 @@ div.WordSection3
 @list l5:level9
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:161.4pt;
@@ -1749,7 +1073,7 @@ div.WordSection3
 @list l6:level2
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:102.3pt;
@@ -1760,7 +1084,7 @@ div.WordSection3
 @list l6:level3
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:153.65pt;
@@ -1771,7 +1095,7 @@ div.WordSection3
 @list l6:level4
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:204.95pt;
@@ -1782,7 +1106,7 @@ div.WordSection3
 @list l6:level5
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:256.3pt;
@@ -1793,7 +1117,7 @@ div.WordSection3
 @list l6:level6
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:307.65pt;
@@ -1804,7 +1128,7 @@ div.WordSection3
 @list l6:level7
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:358.95pt;
@@ -1815,7 +1139,7 @@ div.WordSection3
 @list l6:level8
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:410.3pt;
@@ -1826,7 +1150,7 @@ div.WordSection3
 @list l6:level9
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:461.65pt;
@@ -1858,7 +1182,7 @@ div.WordSection3
 @list l7:level2
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:26.95pt;
@@ -1869,7 +1193,7 @@ div.WordSection3
 @list l7:level3
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:36.9pt;
@@ -1880,7 +1204,7 @@ div.WordSection3
 @list l7:level4
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:46.85pt;
@@ -1891,7 +1215,7 @@ div.WordSection3
 @list l7:level5
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:56.8pt;
@@ -1902,7 +1226,7 @@ div.WordSection3
 @list l7:level6
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:66.75pt;
@@ -1913,7 +1237,7 @@ div.WordSection3
 @list l7:level7
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:76.7pt;
@@ -1924,7 +1248,7 @@ div.WordSection3
 @list l7:level8
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:86.65pt;
@@ -1935,7 +1259,7 @@ div.WordSection3
 @list l7:level9
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:96.6pt;
@@ -1967,7 +1291,7 @@ div.WordSection3
 @list l8:level2
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:28.75pt;
@@ -1978,7 +1302,7 @@ div.WordSection3
 @list l8:level3
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:40.5pt;
@@ -1989,7 +1313,7 @@ div.WordSection3
 @list l8:level4
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:52.25pt;
@@ -2000,7 +1324,7 @@ div.WordSection3
 @list l8:level5
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:64.0pt;
@@ -2011,7 +1335,7 @@ div.WordSection3
 @list l8:level6
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:75.75pt;
@@ -2022,7 +1346,7 @@ div.WordSection3
 @list l8:level7
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:87.5pt;
@@ -2033,7 +1357,7 @@ div.WordSection3
 @list l8:level8
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:99.25pt;
@@ -2044,7 +1368,7 @@ div.WordSection3
 @list l8:level9
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:111.0pt;
@@ -2076,7 +1400,7 @@ div.WordSection3
 @list l9:level2
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:29.65pt;
@@ -2087,7 +1411,7 @@ div.WordSection3
 @list l9:level3
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:42.3pt;
@@ -2098,7 +1422,7 @@ div.WordSection3
 @list l9:level4
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:54.95pt;
@@ -2109,7 +1433,7 @@ div.WordSection3
 @list l9:level5
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:67.6pt;
@@ -2120,7 +1444,7 @@ div.WordSection3
 @list l9:level6
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:80.25pt;
@@ -2131,7 +1455,7 @@ div.WordSection3
 @list l9:level7
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:92.9pt;
@@ -2142,7 +1466,7 @@ div.WordSection3
 @list l9:level8
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:105.55pt;
@@ -2153,7 +1477,7 @@ div.WordSection3
 @list l9:level9
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:118.2pt;
@@ -2185,7 +1509,7 @@ div.WordSection3
 @list l10:level2
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:20.3pt;
@@ -2196,7 +1520,7 @@ div.WordSection3
 @list l10:level3
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:23.65pt;
@@ -2207,7 +1531,7 @@ div.WordSection3
 @list l10:level4
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:27.0pt;
@@ -2218,7 +1542,7 @@ div.WordSection3
 @list l10:level5
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:30.35pt;
@@ -2229,7 +1553,7 @@ div.WordSection3
 @list l10:level6
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:33.7pt;
@@ -2240,7 +1564,7 @@ div.WordSection3
 @list l10:level7
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:37.0pt;
@@ -2251,7 +1575,7 @@ div.WordSection3
 @list l10:level8
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:40.35pt;
@@ -2262,7 +1586,7 @@ div.WordSection3
 @list l10:level9
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:43.7pt;
@@ -2294,7 +1618,7 @@ div.WordSection3
 @list l11:level2
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:26.05pt;
@@ -2305,7 +1629,7 @@ div.WordSection3
 @list l11:level3
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:35.1pt;
@@ -2316,7 +1640,7 @@ div.WordSection3
 @list l11:level4
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:44.15pt;
@@ -2327,7 +1651,7 @@ div.WordSection3
 @list l11:level5
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:53.2pt;
@@ -2338,7 +1662,7 @@ div.WordSection3
 @list l11:level6
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:62.25pt;
@@ -2349,7 +1673,7 @@ div.WordSection3
 @list l11:level7
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:71.3pt;
@@ -2360,7 +1684,7 @@ div.WordSection3
 @list l11:level8
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:80.35pt;
@@ -2371,7 +1695,7 @@ div.WordSection3
 @list l11:level9
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:89.4pt;
@@ -2403,7 +1727,7 @@ div.WordSection3
 @list l12:level2
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:28.75pt;
@@ -2414,7 +1738,7 @@ div.WordSection3
 @list l12:level3
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:40.5pt;
@@ -2425,7 +1749,7 @@ div.WordSection3
 @list l12:level4
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:52.25pt;
@@ -2436,7 +1760,7 @@ div.WordSection3
 @list l12:level5
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:64.0pt;
@@ -2447,7 +1771,7 @@ div.WordSection3
 @list l12:level6
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:75.75pt;
@@ -2458,7 +1782,7 @@ div.WordSection3
 @list l12:level7
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:87.5pt;
@@ -2469,7 +1793,7 @@ div.WordSection3
 @list l12:level8
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:99.25pt;
@@ -2480,7 +1804,7 @@ div.WordSection3
 @list l12:level9
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:111.0pt;
@@ -2588,7 +1912,7 @@ div.WordSection3
 @list l14:level2
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:25.4pt;
@@ -2599,7 +1923,7 @@ div.WordSection3
 @list l14:level3
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:33.85pt;
@@ -2610,7 +1934,7 @@ div.WordSection3
 @list l14:level4
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:42.25pt;
@@ -2621,7 +1945,7 @@ div.WordSection3
 @list l14:level5
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:50.7pt;
@@ -2632,7 +1956,7 @@ div.WordSection3
 @list l14:level6
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:59.1pt;
@@ -2643,7 +1967,7 @@ div.WordSection3
 @list l14:level7
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:67.55pt;
@@ -2654,7 +1978,7 @@ div.WordSection3
 @list l14:level8
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:75.95pt;
@@ -2665,7 +1989,7 @@ div.WordSection3
 @list l14:level9
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:84.4pt;
@@ -2697,7 +2021,7 @@ div.WordSection3
 @list l15:level2
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:28.1pt;
@@ -2708,7 +2032,7 @@ div.WordSection3
 @list l15:level3
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:39.25pt;
@@ -2719,7 +2043,7 @@ div.WordSection3
 @list l15:level4
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:50.35pt;
@@ -2730,7 +2054,7 @@ div.WordSection3
 @list l15:level5
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:61.5pt;
@@ -2741,7 +2065,7 @@ div.WordSection3
 @list l15:level6
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:72.6pt;
@@ -2752,7 +2076,7 @@ div.WordSection3
 @list l15:level7
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:83.75pt;
@@ -2763,7 +2087,7 @@ div.WordSection3
 @list l15:level8
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:94.85pt;
@@ -2774,7 +2098,7 @@ div.WordSection3
 @list l15:level9
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:106.0pt;
@@ -2806,7 +2130,7 @@ div.WordSection3
 @list l16:level2
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:108.0pt;
@@ -2893,7 +2217,7 @@ div.WordSection3
 @list l17:level2
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:26.05pt;
@@ -2904,7 +2228,7 @@ div.WordSection3
 @list l17:level3
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:35.1pt;
@@ -2915,7 +2239,7 @@ div.WordSection3
 @list l17:level4
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:44.15pt;
@@ -2926,7 +2250,7 @@ div.WordSection3
 @list l17:level5
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:53.2pt;
@@ -2937,7 +2261,7 @@ div.WordSection3
 @list l17:level6
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:62.25pt;
@@ -2948,7 +2272,7 @@ div.WordSection3
 @list l17:level7
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:71.3pt;
@@ -2959,7 +2283,7 @@ div.WordSection3
 @list l17:level8
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:80.35pt;
@@ -2970,7 +2294,7 @@ div.WordSection3
 @list l17:level9
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:89.4pt;
@@ -3002,7 +2326,7 @@ div.WordSection3
 @list l18:level2
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:36.85pt;
@@ -3013,7 +2337,7 @@ div.WordSection3
 @list l18:level3
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:2.0cm;
@@ -3024,7 +2348,7 @@ div.WordSection3
 @list l18:level4
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:76.55pt;
@@ -3035,7 +2359,7 @@ div.WordSection3
 @list l18:level5
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:96.4pt;
@@ -3046,7 +2370,7 @@ div.WordSection3
 @list l18:level6
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:116.25pt;
@@ -3057,7 +2381,7 @@ div.WordSection3
 @list l18:level7
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:136.1pt;
@@ -3068,7 +2392,7 @@ div.WordSection3
 @list l18:level8
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:155.95pt;
@@ -3079,7 +2403,7 @@ div.WordSection3
 @list l18:level9
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:175.8pt;
@@ -3111,7 +2435,7 @@ div.WordSection3
 @list l19:level2
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:29.65pt;
@@ -3122,7 +2446,7 @@ div.WordSection3
 @list l19:level3
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:42.3pt;
@@ -3133,7 +2457,7 @@ div.WordSection3
 @list l19:level4
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:54.95pt;
@@ -3144,7 +2468,7 @@ div.WordSection3
 @list l19:level5
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:67.6pt;
@@ -3155,7 +2479,7 @@ div.WordSection3
 @list l19:level6
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:80.25pt;
@@ -3166,7 +2490,7 @@ div.WordSection3
 @list l19:level7
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:92.9pt;
@@ -3177,7 +2501,7 @@ div.WordSection3
 @list l19:level8
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:105.55pt;
@@ -3188,7 +2512,7 @@ div.WordSection3
 @list l19:level9
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:118.2pt;
@@ -3220,7 +2544,7 @@ div.WordSection3
 @list l20:level2
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:27.2pt;
@@ -3231,7 +2555,7 @@ div.WordSection3
 @list l20:level3
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:37.4pt;
@@ -3242,7 +2566,7 @@ div.WordSection3
 @list l20:level4
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:47.65pt;
@@ -3253,7 +2577,7 @@ div.WordSection3
 @list l20:level5
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:57.85pt;
@@ -3264,7 +2588,7 @@ div.WordSection3
 @list l20:level6
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:68.1pt;
@@ -3275,7 +2599,7 @@ div.WordSection3
 @list l20:level7
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:78.3pt;
@@ -3286,7 +2610,7 @@ div.WordSection3
 @list l20:level8
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:88.5pt;
@@ -3297,7 +2621,7 @@ div.WordSection3
 @list l20:level9
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:•;
+	mso-level-text:ï¿½;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:98.75pt;
@@ -3309,9 +2633,9 @@ ol
 	{margin-bottom:0cm;}
 ul
 	{margin-bottom:0cm;}
--->
+
 </style>
-<!--[if gte mso 10]>
+@yield('styles')
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -3362,15 +2686,7 @@ table.MsoTableGrid
 	mso-ansi-language:EN-US;
 	mso-fareast-language:EN-US;}
 </style>
-<![endif]--><!--[if gte mso 9]><xml>
- <o:shapedefaults v:ext="edit" spidmax="2052"/>
-</xml><![endif]--><!--[if gte mso 9]><xml>
- <o:shapelayout v:ext="edit">
-  <o:idmap v:ext="edit" data="1"/>
-  <o:rules v:ext="edit">
-   <o:r id="V:Rule1" type="connector" idref="#Straight_x0020_Arrow_x0020_Connector_x0020_20"/>
-  </o:rules>
- </o:shapelayout></xml><![endif]-->
+@yield('styles')
 </head>
 
 <body lang=EN-GB style='tab-interval:36.0pt'>
@@ -3414,7 +2730,7 @@ major-bidi'><o:p>&nbsp;</o:p></span></p>
   lang=EN-US style='font-size:12.0pt;font-family:"Montserrat SemiBold";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi;
   color:white;mso-themecolor:background1'><span
-  style='mso-spacerun:yes'> </span></span></b><span lang=EN-US
+  style='mso-spacerun:yes'>ï¿½</span></span></b><span lang=EN-US
   style='font-size:12.0pt;font-family:"Montserrat SemiBold";mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi;color:white;mso-themecolor:
   background1;background:#3AC2BA'>Time:</span><span lang=EN-US
@@ -3454,7 +2770,7 @@ major-bidi'><o:p>&nbsp;</o:p></span></p>
   margin;mso-element-left:center;mso-element-top:-2.15pt;mso-height-rule:exactly'><span
   lang=EN-US style='font-family:"Montserrat SemiBold";mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi;color:black;mso-color-alt:
-  windowtext'><span style='mso-spacerun:yes'>  </span>Present Condition:</span><span
+  windowtext'><span style='mso-spacerun:yes'>ï¿½ </span>Present Condition:</span><span
   lang=EN-US style='font-family:"Montserrat SemiBold";mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><o:p></o:p></span></p>
   </td>
@@ -3470,7 +2786,7 @@ major-bidi'><o:p>&nbsp;</o:p></span></p>
   margin;mso-element-left:center;mso-element-top:-2.15pt;mso-height-rule:exactly'><span
   lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
   mso-bidi-theme-font:major-bidi;color:black;mso-color-alt:windowtext'><span
-  style='mso-spacerun:yes'> </span>Social/Family History</span><span
+  style='mso-spacerun:yes'>ï¿½</span>Social/Family History</span><span
   lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
   mso-bidi-theme-font:major-bidi'><o:p></o:p></span></p>
   <p class=MsoNormal style='mso-element:frame;mso-element-frame-hspace:9.0pt;
@@ -3483,7 +2799,7 @@ major-bidi'><o:p>&nbsp;</o:p></span></p>
   margin;mso-element-left:center;mso-element-top:-2.15pt;mso-height-rule:exactly'><span
   lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
   mso-bidi-theme-font:major-bidi;color:black;mso-color-alt:windowtext'><span
-  style='mso-spacerun:yes'> </span>Previous therapy (dates and outcome):</span><b><span
+  style='mso-spacerun:yes'>ï¿½</span>Previous therapy (dates and outcome):</span><b><span
   lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
   mso-bidi-theme-font:major-bidi'><o:p></o:p></span></b></p>
   </td>
@@ -3503,7 +2819,7 @@ major-bidi'><o:p>&nbsp;</o:p></span></p>
   margin;mso-element-left:center;mso-element-top:-2.15pt;mso-height-rule:exactly'><span
   lang=EN-US style='font-family:"Montserrat SemiBold";mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi;color:black;mso-color-alt:
-  windowtext'><span style='mso-spacerun:yes'> </span>Past Medical History:</span><span
+  windowtext'><span style='mso-spacerun:yes'>ï¿½</span>Past Medical History:</span><span
   lang=EN-US style='font-family:"Montserrat SemiBold";mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><o:p></o:p></span></p>
   </td>
@@ -3519,7 +2835,7 @@ major-bidi'><o:p>&nbsp;</o:p></span></p>
   margin;mso-element-left:center;mso-element-top:-2.15pt;mso-height-rule:exactly'><span
   lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
   mso-bidi-theme-font:major-bidi;color:black;mso-color-alt:windowtext'><span
-  style='mso-spacerun:yes'>  </span>Birth History/Developmental
+  style='mso-spacerun:yes'>ï¿½ </span>Birth History/Developmental
   stage(preinjury/illness):</span><span lang=EN-US style='font-family:Montserrat;
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><o:p></o:p></span></p>
   <p class=MsoNormal style='mso-element:frame;mso-element-frame-hspace:9.0pt;
@@ -3527,7 +2843,7 @@ major-bidi'><o:p>&nbsp;</o:p></span></p>
   margin;mso-element-left:center;mso-element-top:-2.15pt;mso-height-rule:exactly'><span
   lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
   mso-bidi-theme-font:major-bidi;color:black;mso-color-alt:windowtext'><span
-  style='mso-spacerun:yes'>  </span>Born at:</span><span lang=EN-US
+  style='mso-spacerun:yes'>ï¿½ </span>Born at:</span><span lang=EN-US
   style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
   mso-bidi-theme-font:major-bidi'><o:p></o:p></span></p>
   <p class=MsoNormal style='mso-element:frame;mso-element-frame-hspace:9.0pt;
@@ -3535,18 +2851,18 @@ major-bidi'><o:p>&nbsp;</o:p></span></p>
   margin;mso-element-left:center;mso-element-top:-2.15pt;mso-height-rule:exactly'><span
   lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
   mso-bidi-theme-font:major-bidi;color:black;mso-color-alt:windowtext'><span
-  style='mso-spacerun:yes'> </span></span><span lang=EN-US style='font-family:
+  style='mso-spacerun:yes'>ï¿½</span></span><span lang=EN-US style='font-family:
   "Segoe UI Symbol",sans-serif;mso-bidi-font-family:"Segoe UI Symbol";
   color:black;mso-color-alt:windowtext'>&#9744;</span><span lang=EN-US
   style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
   mso-bidi-theme-font:major-bidi;color:black;mso-color-alt:windowtext'><span
-  style='mso-spacerun:yes'>   </span>NVD<span style='mso-tab-count:1'>              </span><span
-  style='mso-spacerun:yes'>              </span></span><span lang=EN-US
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>NVD<span style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span><span
+  style='mso-spacerun:yes'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span></span><span lang=EN-US
   style='font-family:"Segoe UI Symbol",sans-serif;mso-bidi-font-family:"Segoe UI Symbol";
   color:black;mso-color-alt:windowtext'>&#9744;</span><span lang=EN-US
   style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
   mso-bidi-theme-font:major-bidi;color:black;mso-color-alt:windowtext'><span
-  style='mso-tab-count:1'>            </span>Assisted VD</span><span
+  style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span>Assisted VD</span><span
   lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
   mso-bidi-theme-font:major-bidi'><o:p></o:p></span></p>
   <p class=MsoNormal style='mso-element:frame;mso-element-frame-hspace:9.0pt;
@@ -3554,17 +2870,17 @@ major-bidi'><o:p>&nbsp;</o:p></span></p>
   margin;mso-element-left:center;mso-element-top:-2.15pt;mso-height-rule:exactly'><span
   lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
   mso-bidi-theme-font:major-bidi;color:black;mso-color-alt:windowtext'><span
-  style='mso-spacerun:yes'> </span></span><span lang=EN-US style='font-family:
+  style='mso-spacerun:yes'>ï¿½</span></span><span lang=EN-US style='font-family:
   "Segoe UI Symbol",sans-serif;mso-bidi-font-family:"Segoe UI Symbol";
   color:black;mso-color-alt:windowtext'>&#9744;</span><span lang=EN-US
   style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
   mso-bidi-theme-font:major-bidi;color:black;mso-color-alt:windowtext'><span
-  style='mso-spacerun:yes'>   </span>Elective LSCS<span style='mso-tab-count:
-  1'>             </span></span><span lang=EN-US style='font-family:"Segoe UI Symbol",sans-serif;
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span>Elective LSCS<span style='mso-tab-count:
+  1'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span></span><span lang=EN-US style='font-family:"Segoe UI Symbol",sans-serif;
   mso-bidi-font-family:"Segoe UI Symbol";color:black;mso-color-alt:windowtext'>&#9744;</span><span
   lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
   mso-bidi-theme-font:major-bidi;color:black;mso-color-alt:windowtext'><span
-  style='mso-tab-count:1'>           </span>Emergency LSCS</span><span
+  style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span>Emergency LSCS</span><span
   lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
   mso-bidi-theme-font:major-bidi'><o:p></o:p></span></p>
   <p class=MsoNormal style='mso-element:frame;mso-element-frame-hspace:9.0pt;
@@ -3572,7 +2888,7 @@ major-bidi'><o:p>&nbsp;</o:p></span></p>
   margin;mso-element-left:center;mso-element-top:-2.15pt;mso-height-rule:exactly'><span
   lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
   mso-bidi-theme-font:major-bidi;color:black;mso-color-alt:windowtext'><span
-  style='mso-spacerun:yes'> </span>Reason:</span><span lang=EN-US
+  style='mso-spacerun:yes'>ï¿½</span>Reason:</span><span lang=EN-US
   style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
   mso-bidi-theme-font:major-bidi'><o:p></o:p></span></p>
   </td>
@@ -3625,7 +2941,7 @@ major-bidi'><o:p>&nbsp;</o:p></span></p>
       reassessed at:</span><span lang=EN-US style='font-size:12.0pt;font-family:
       "Montserrat SemiBold";mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
       major-bidi;color:black;mso-color-alt:windowtext'><span style='mso-tab-count:
-      1'>                                                     </span></span><span
+      1'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span></span><span
       lang=EN-US style='font-size:12.0pt;font-family:"Montserrat SemiBold";
       mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><o:p></o:p></span></p>
       <table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0
@@ -3642,7 +2958,7 @@ major-bidi'><o:p>&nbsp;</o:p></span></p>
         mso-element-top:-2.15pt;mso-height-rule:exactly'><![if !supportLists]><span
         lang=EN-US style='font-size:10.0pt;font-family:Wingdings;mso-fareast-font-family:
         Wingdings;mso-bidi-font-family:Wingdings;mso-font-width:99%'><span
-        style='mso-list:Ignore'>¨<span style='font:7.0pt "Times New Roman"'>&nbsp;
+        style='mso-list:Ignore'>ï¿½<span style='font:7.0pt "Times New Roman"'>&nbsp;
         </span></span></span><![endif]><span dir=LTR></span><span lang=EN-US
         style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
         "Times New Roman";mso-bidi-theme-font:major-bidi;color:black;
@@ -3657,7 +2973,7 @@ major-bidi'><o:p>&nbsp;</o:p></span></p>
         mso-element-top:-2.15pt;mso-height-rule:exactly'><![if !supportLists]><span
         lang=EN-US style='font-size:10.0pt;font-family:Wingdings;mso-fareast-font-family:
         Wingdings;mso-bidi-font-family:Wingdings;mso-font-width:99%'><span
-        style='mso-list:Ignore'>¨<span style='font:7.0pt "Times New Roman"'>&nbsp;
+        style='mso-list:Ignore'>ï¿½<span style='font:7.0pt "Times New Roman"'>&nbsp;
         </span></span></span><![endif]><span dir=LTR></span><span lang=EN-US
         style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
         "Times New Roman";mso-bidi-theme-font:major-bidi;color:black;
@@ -3672,7 +2988,7 @@ major-bidi'><o:p>&nbsp;</o:p></span></p>
         mso-element-top:-2.15pt;mso-height-rule:exactly'><![if !supportLists]><span
         lang=EN-US style='font-size:10.0pt;font-family:Wingdings;mso-fareast-font-family:
         Wingdings;mso-bidi-font-family:Wingdings;mso-font-width:99%'><span
-        style='mso-list:Ignore'>¨<span style='font:7.0pt "Times New Roman"'>&nbsp;
+        style='mso-list:Ignore'>ï¿½<span style='font:7.0pt "Times New Roman"'>&nbsp;
         </span></span></span><![endif]><span dir=LTR></span><span lang=EN-US
         style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
         "Times New Roman";mso-bidi-theme-font:major-bidi;color:black;
@@ -3687,7 +3003,7 @@ major-bidi'><o:p>&nbsp;</o:p></span></p>
         mso-element-top:-2.15pt;mso-height-rule:exactly'><![if !supportLists]><span
         lang=EN-US style='font-size:10.0pt;font-family:Wingdings;mso-fareast-font-family:
         Wingdings;mso-bidi-font-family:Wingdings;mso-font-width:99%'><span
-        style='mso-list:Ignore'>¨<span style='font:7.0pt "Times New Roman"'>&nbsp;
+        style='mso-list:Ignore'>ï¿½<span style='font:7.0pt "Times New Roman"'>&nbsp;
         </span></span></span><![endif]><span dir=LTR></span><span lang=EN-US
         style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
         "Times New Roman";mso-bidi-theme-font:major-bidi;color:black;
@@ -3844,7 +3160,7 @@ major-bidi'><o:p>&nbsp;</o:p></span></p>
     mso-element-top:-2.15pt;mso-height-rule:exactly'><!--[if supportFields]><span
     lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
     mso-bidi-theme-font:major-bidi'><span style='mso-element:field-begin'></span><span
-    style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:
+    style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:
     field-separator'></span></span><![endif]--><span lang=EN-US
     style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
     mso-bidi-theme-font:major-bidi'><!--[if gte mso 9]><xml>
@@ -3854,7 +3170,7 @@ major-bidi'><o:p>&nbsp;</o:p></span></p>
     mso-bidi-theme-font:major-bidi'><span style='mso-element:field-end'></span></span><![endif]--><span
     lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
     mso-bidi-theme-font:major-bidi'><span
-    style='mso-spacerun:yes'> </span>Wong-Baker Faces</span><!--[if supportFields]><span
+    style='mso-spacerun:yes'>ï¿½</span>Wong-Baker Faces</span><!--[if supportFields]><span
     lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
     mso-bidi-theme-font:major-bidi'><span style='mso-element:field-begin'></span>
     FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
@@ -3866,7 +3182,7 @@ major-bidi'><o:p>&nbsp;</o:p></span></p>
     mso-bidi-theme-font:major-bidi'><span style='mso-element:field-end'></span></span><![endif]--><span
     lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
     mso-bidi-theme-font:major-bidi'><span
-    style='mso-spacerun:yes'> </span>FLACC</span><!--[if supportFields]><span
+    style='mso-spacerun:yes'>ï¿½</span>FLACC</span><!--[if supportFields]><span
     lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
     mso-bidi-theme-font:major-bidi'><span style='mso-element:field-begin'></span>
     FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
@@ -3877,15 +3193,15 @@ major-bidi'><o:p>&nbsp;</o:p></span></p>
     style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
     mso-bidi-theme-font:major-bidi'><span style='mso-element:field-end'></span></span><![endif]--><span
     lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
-    mso-bidi-theme-font:major-bidi'><span style='mso-spacerun:yes'> </span>CRIES<span
-    style='mso-tab-count:1'>                                                                               </span><o:p></o:p></span></p>
+    mso-bidi-theme-font:major-bidi'><span style='mso-spacerun:yes'>ï¿½</span>CRIES<span
+    style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span><o:p></o:p></span></p>
     <p class=MsoNormal style='tab-stops:103.6pt right 504.0pt;mso-element:frame;
     mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
     paragraph;mso-element-anchor-horizontal:margin;mso-element-left:center;
     mso-element-top:-2.15pt;mso-height-rule:exactly'><!--[if supportFields]><span
     lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
     mso-bidi-theme-font:major-bidi'><span style='mso-element:field-begin'></span><span
-    style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:
+    style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:
     field-separator'></span></span><![endif]--><span lang=EN-US
     style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
     mso-bidi-theme-font:major-bidi'><!--[if gte mso 9]><xml>
@@ -3895,8 +3211,8 @@ major-bidi'><o:p>&nbsp;</o:p></span></p>
     mso-bidi-theme-font:major-bidi'><span style='mso-element:field-end'></span></span><![endif]--><span
     lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
     mso-bidi-theme-font:major-bidi'><span
-    style='mso-spacerun:yes'> </span>Visual Numeric Pain Scale <span
-    style='mso-tab-count:1'>                                                                                                   </span><o:p></o:p></span></p>
+    style='mso-spacerun:yes'>ï¿½</span>Visual Numeric Pain Scale <span
+    style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span><o:p></o:p></span></p>
     </td>
    </tr>
    <tr style='mso-yfti-irow:2;mso-yfti-lastrow:yes;page-break-inside:avoid;
@@ -4122,7 +3438,7 @@ major-bidi'><o:p>&nbsp;</o:p></span></p>
     mso-element-left:center;mso-element-top:-2.15pt;mso-height-rule:exactly'><!--[if supportFields]><span
     lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
     mso-bidi-theme-font:major-bidi;mso-no-proof:yes'><span style='mso-element:
-    field-begin'></span><span style='mso-spacerun:yes'> </span>FORMCHECKBOX <span
+    field-begin'></span><span style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span
     style='mso-element:field-separator'></span></span><![endif]--><span
     lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
     mso-bidi-theme-font:major-bidi;mso-no-proof:yes'><!--[if gte mso 9]><xml>
@@ -4145,7 +3461,7 @@ major-bidi'><o:p>&nbsp;</o:p></span></p>
     mso-element-left:center;mso-element-top:-2.15pt;mso-height-rule:exactly'><!--[if supportFields]><span
     lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
     mso-bidi-theme-font:major-bidi;mso-no-proof:yes'><span style='mso-element:
-    field-begin'></span><span style='mso-spacerun:yes'> </span>FORMCHECKBOX <span
+    field-begin'></span><span style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span
     style='mso-element:field-separator'></span></span><![endif]--><span
     lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
     mso-bidi-theme-font:major-bidi;mso-no-proof:yes'><!--[if gte mso 9]><xml>
@@ -4181,7 +3497,7 @@ major-bidi'><o:p>&nbsp;</o:p></span></p>
     lang=EN-US style='font-family:"Times New Roman",serif;mso-ascii-theme-font:
     major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi;
     mso-no-proof:yes'><span style='mso-element:field-begin'></span><span
-    style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:
+    style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:
     field-separator'></span></span><![endif]--><span lang=EN-US
     style='font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
     mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi;mso-no-proof:
@@ -4207,7 +3523,7 @@ major-bidi'><o:p>&nbsp;</o:p></span></p>
     lang=EN-US style='font-family:"Times New Roman",serif;mso-ascii-theme-font:
     major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi;
     mso-no-proof:yes'><span style='mso-element:field-begin'></span><span
-    style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:
+    style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:
     field-separator'></span></span><![endif]--><span lang=EN-US
     style='font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
     mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi;mso-no-proof:
@@ -4247,7 +3563,7 @@ major-bidi'><o:p>&nbsp;</o:p></span></p>
     mso-element-left:center;mso-element-top:-2.15pt;mso-height-rule:exactly'><!--[if supportFields]><span
     lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
     mso-bidi-theme-font:major-bidi;mso-no-proof:yes'><span style='mso-element:
-    field-begin'></span><span style='mso-spacerun:yes'> </span>FORMCHECKBOX <span
+    field-begin'></span><span style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span
     style='mso-element:field-separator'></span></span><![endif]--><span
     lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
     mso-bidi-theme-font:major-bidi;mso-no-proof:yes'><!--[if gte mso 9]><xml>
@@ -4270,7 +3586,7 @@ major-bidi'><o:p>&nbsp;</o:p></span></p>
     mso-element-left:center;mso-element-top:-2.15pt;mso-height-rule:exactly'><!--[if supportFields]><span
     lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
     mso-bidi-theme-font:major-bidi;mso-no-proof:yes'><span style='mso-element:
-    field-begin'></span><span style='mso-spacerun:yes'> </span>FORMCHECKBOX <span
+    field-begin'></span><span style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span
     style='mso-element:field-separator'></span></span><![endif]--><span
     lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
     mso-bidi-theme-font:major-bidi;mso-no-proof:yes'><!--[if gte mso 9]><xml>
@@ -4306,7 +3622,7 @@ major-bidi'><o:p>&nbsp;</o:p></span></p>
     lang=EN-US style='font-family:"Times New Roman",serif;mso-ascii-theme-font:
     major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi;
     mso-no-proof:yes'><span style='mso-element:field-begin'></span><span
-    style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:
+    style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:
     field-separator'></span></span><![endif]--><span lang=EN-US
     style='font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
     mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi;mso-no-proof:
@@ -4332,7 +3648,7 @@ major-bidi'><o:p>&nbsp;</o:p></span></p>
     lang=EN-US style='font-family:"Times New Roman",serif;mso-ascii-theme-font:
     major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi;
     mso-no-proof:yes'><span style='mso-element:field-begin'></span><span
-    style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:
+    style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:
     field-separator'></span></span><![endif]--><span lang=EN-US
     style='font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
     mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi;mso-no-proof:
@@ -4373,7 +3689,7 @@ major-bidi'><o:p>&nbsp;</o:p></span></p>
     mso-element-left:center;mso-element-top:-2.15pt;mso-height-rule:exactly'><!--[if supportFields]><span
     lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
     mso-bidi-theme-font:major-bidi;mso-no-proof:yes'><span style='mso-element:
-    field-begin'></span><span style='mso-spacerun:yes'> </span>FORMCHECKBOX <span
+    field-begin'></span><span style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span
     style='mso-element:field-separator'></span></span><![endif]--><span
     lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
     mso-bidi-theme-font:major-bidi;mso-no-proof:yes'><!--[if gte mso 9]><xml>
@@ -4396,7 +3712,7 @@ major-bidi'><o:p>&nbsp;</o:p></span></p>
     mso-element-left:center;mso-element-top:-2.15pt;mso-height-rule:exactly'><!--[if supportFields]><span
     lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
     mso-bidi-theme-font:major-bidi;mso-no-proof:yes'><span style='mso-element:
-    field-begin'></span><span style='mso-spacerun:yes'> </span>FORMCHECKBOX <span
+    field-begin'></span><span style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span
     style='mso-element:field-separator'></span></span><![endif]--><span
     lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
     mso-bidi-theme-font:major-bidi;mso-no-proof:yes'><!--[if gte mso 9]><xml>
@@ -4432,7 +3748,7 @@ major-bidi'><o:p>&nbsp;</o:p></span></p>
     lang=EN-US style='font-family:"Times New Roman",serif;mso-ascii-theme-font:
     major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi;
     mso-no-proof:yes'><span style='mso-element:field-begin'></span><span
-    style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:
+    style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:
     field-separator'></span></span><![endif]--><span lang=EN-US
     style='font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
     mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi;mso-no-proof:
@@ -4458,7 +3774,7 @@ major-bidi'><o:p>&nbsp;</o:p></span></p>
     lang=EN-US style='font-family:"Times New Roman",serif;mso-ascii-theme-font:
     major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi;
     mso-no-proof:yes'><span style='mso-element:field-begin'></span><span
-    style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:
+    style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:
     field-separator'></span></span><![endif]--><span lang=EN-US
     style='font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
     mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi;mso-no-proof:
@@ -4650,7 +3966,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:14.1pt'>
   <p class=MsoNormal style='margin-left:6.9pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
-  mso-bidi-theme-font:major-bidi'>0-180°<o:p></o:p></span></p>
+  mso-bidi-theme-font:major-bidi'>0-180ï¿½<o:p></o:p></span></p>
   </td>
   <td width=82 valign=top style='width:61.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -4723,7 +4039,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:14.15pt'>
   <p class=MsoNormal style='margin-left:6.9pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
-  mso-bidi-theme-font:major-bidi'>0-60°<o:p></o:p></span></p>
+  mso-bidi-theme-font:major-bidi'>0-60ï¿½<o:p></o:p></span></p>
   </td>
   <td width=82 valign=top style='width:61.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -4796,7 +4112,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:14.15pt'>
   <p class=MsoNormal style='margin-left:6.9pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
-  mso-bidi-theme-font:major-bidi'>0-180°<o:p></o:p></span></p>
+  mso-bidi-theme-font:major-bidi'>0-180ï¿½<o:p></o:p></span></p>
   </td>
   <td width=82 valign=top style='width:61.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -4869,7 +4185,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:14.15pt'>
   <p class=MsoNormal style='margin-left:6.9pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
-  mso-bidi-theme-font:major-bidi'>0-30°<o:p></o:p></span></p>
+  mso-bidi-theme-font:major-bidi'>0-30ï¿½<o:p></o:p></span></p>
   </td>
   <td width=82 valign=top style='width:61.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -4942,7 +4258,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:14.1pt'>
   <p class=MsoNormal style='margin-left:6.9pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
-  mso-bidi-theme-font:major-bidi'>0-95°<o:p></o:p></span></p>
+  mso-bidi-theme-font:major-bidi'>0-95ï¿½<o:p></o:p></span></p>
   </td>
   <td width=82 valign=top style='width:61.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -5015,7 +4331,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:14.1pt'>
   <p class=MsoNormal style='margin-left:6.9pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
-  mso-bidi-theme-font:major-bidi'>0-80°<o:p></o:p></span></p>
+  mso-bidi-theme-font:major-bidi'>0-80ï¿½<o:p></o:p></span></p>
   </td>
   <td width=82 valign=top style='width:61.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -5088,7 +4404,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:14.1pt'>
   <p class=MsoNormal style='margin-left:6.9pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
-  mso-bidi-theme-font:major-bidi'>0-150°<o:p></o:p></span></p>
+  mso-bidi-theme-font:major-bidi'>0-150ï¿½<o:p></o:p></span></p>
   </td>
   <td width=82 valign=top style='width:61.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -5234,7 +4550,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:14.15pt'>
   <p class=MsoNormal style='margin-left:6.9pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
-  mso-bidi-theme-font:major-bidi'>0-80°<o:p></o:p></span></p>
+  mso-bidi-theme-font:major-bidi'>0-80ï¿½<o:p></o:p></span></p>
   </td>
   <td width=82 valign=top style='width:61.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -5307,7 +4623,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:14.1pt'>
   <p class=MsoNormal style='margin-left:6.9pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
-  mso-bidi-theme-font:major-bidi'>0-80°<o:p></o:p></span></p>
+  mso-bidi-theme-font:major-bidi'>0-80ï¿½<o:p></o:p></span></p>
   </td>
   <td width=82 valign=top style='width:61.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -5380,7 +4696,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:14.15pt'>
   <p class=MsoNormal style='margin-left:6.9pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
-  mso-bidi-theme-font:major-bidi'>0-80°<o:p></o:p></span></p>
+  mso-bidi-theme-font:major-bidi'>0-80ï¿½<o:p></o:p></span></p>
   </td>
   <td width=82 valign=top style='width:61.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -5453,7 +4769,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:14.1pt'>
   <p class=MsoNormal style='margin-left:6.9pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
-  mso-bidi-theme-font:major-bidi'>0-80°<o:p></o:p></span></p>
+  mso-bidi-theme-font:major-bidi'>0-80ï¿½<o:p></o:p></span></p>
   </td>
   <td width=82 valign=top style='width:61.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -5526,7 +4842,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:14.15pt'>
   <p class=MsoNormal style='margin-left:6.9pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
-  mso-bidi-theme-font:major-bidi'>0-120°<o:p></o:p></span></p>
+  mso-bidi-theme-font:major-bidi'>0-120ï¿½<o:p></o:p></span></p>
   </td>
   <td width=82 valign=top style='width:61.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -5599,7 +4915,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:14.15pt'>
   <p class=MsoNormal style='margin-left:6.9pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
-  mso-bidi-theme-font:major-bidi'>0-30°<o:p></o:p></span></p>
+  mso-bidi-theme-font:major-bidi'>0-30ï¿½<o:p></o:p></span></p>
   </td>
   <td width=82 valign=top style='width:61.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -5672,7 +4988,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:14.1pt'>
   <p class=MsoNormal style='margin-left:6.9pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
-  mso-bidi-theme-font:major-bidi'>0-45°<o:p></o:p></span></p>
+  mso-bidi-theme-font:major-bidi'>0-45ï¿½<o:p></o:p></span></p>
   </td>
   <td width=82 valign=top style='width:61.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -5745,7 +5061,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:14.15pt'>
   <p class=MsoNormal style='margin-left:6.9pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
-  mso-bidi-theme-font:major-bidi'>0-30°<o:p></o:p></span></p>
+  mso-bidi-theme-font:major-bidi'>0-30ï¿½<o:p></o:p></span></p>
   </td>
   <td width=82 valign=top style='width:61.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -5818,7 +5134,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:14.15pt'>
   <p class=MsoNormal style='margin-left:6.9pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
-  mso-bidi-theme-font:major-bidi'>0-30°<o:p></o:p></span></p>
+  mso-bidi-theme-font:major-bidi'>0-30ï¿½<o:p></o:p></span></p>
   </td>
   <td width=82 valign=top style='width:61.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -5891,7 +5207,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:14.1pt'>
   <p class=MsoNormal style='margin-left:6.9pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
-  mso-bidi-theme-font:major-bidi'>0-60°<o:p></o:p></span></p>
+  mso-bidi-theme-font:major-bidi'>0-60ï¿½<o:p></o:p></span></p>
   </td>
   <td width=82 valign=top style='width:61.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -5964,7 +5280,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:14.1pt'>
   <p class=MsoNormal style='margin-left:6.9pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
-  mso-bidi-theme-font:major-bidi'>0-135°<o:p></o:p></span></p>
+  mso-bidi-theme-font:major-bidi'>0-135ï¿½<o:p></o:p></span></p>
   </td>
   <td width=82 valign=top style='width:61.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -6110,7 +5426,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:14.1pt'>
   <p class=MsoNormal style='margin-left:6.9pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
-  mso-bidi-theme-font:major-bidi'>0-30°<o:p></o:p></span></p>
+  mso-bidi-theme-font:major-bidi'>0-30ï¿½<o:p></o:p></span></p>
   </td>
   <td width=82 valign=top style='width:61.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -6183,7 +5499,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:14.1pt'>
   <p class=MsoNormal style='margin-left:6.9pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
-  mso-bidi-theme-font:major-bidi'>0-45°<o:p></o:p></span></p>
+  mso-bidi-theme-font:major-bidi'>0-45ï¿½<o:p></o:p></span></p>
   </td>
   <td width=82 valign=top style='width:61.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -6256,7 +5572,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:14.15pt'>
   <p class=MsoNormal style='margin-left:6.9pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
-  mso-bidi-theme-font:major-bidi'>0-35°<o:p></o:p></span></p>
+  mso-bidi-theme-font:major-bidi'>0-35ï¿½<o:p></o:p></span></p>
   </td>
   <td width=82 valign=top style='width:61.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -6329,7 +5645,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:14.1pt'>
   <p class=MsoNormal style='margin-left:6.9pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
-  mso-bidi-theme-font:major-bidi'>0-15°<o:p></o:p></span></p>
+  mso-bidi-theme-font:major-bidi'>0-15ï¿½<o:p></o:p></span></p>
   </td>
   <td width=82 valign=top style='width:61.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -6402,7 +5718,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:14.15pt'>
   <p class=MsoNormal style='margin-left:6.9pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
-  mso-bidi-theme-font:major-bidi'>0-45°<o:p></o:p></span></p>
+  mso-bidi-theme-font:major-bidi'>0-45ï¿½<o:p></o:p></span></p>
   </td>
   <td width=82 valign=top style='width:61.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -6475,7 +5791,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:14.1pt'>
   <p class=MsoNormal style='margin-left:6.9pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
-  mso-bidi-theme-font:major-bidi'>0-45°<o:p></o:p></span></p>
+  mso-bidi-theme-font:major-bidi'>0-45ï¿½<o:p></o:p></span></p>
   </td>
   <td width=82 valign=top style='width:61.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -6548,7 +5864,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:14.1pt'>
   <p class=MsoNormal style='margin-left:6.9pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
-  mso-bidi-theme-font:major-bidi'>0-45°<o:p></o:p></span></p>
+  mso-bidi-theme-font:major-bidi'>0-45ï¿½<o:p></o:p></span></p>
   </td>
   <td width=82 valign=top style='width:61.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -6621,7 +5937,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:14.15pt'>
   <p class=MsoNormal style='margin-left:6.9pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
-  mso-bidi-theme-font:major-bidi'>0-60°<o:p></o:p></span></p>
+  mso-bidi-theme-font:major-bidi'>0-60ï¿½<o:p></o:p></span></p>
   </td>
   <td width=82 valign=top style='width:61.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -6694,7 +6010,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:14.15pt'>
   <p class=MsoNormal style='margin-left:6.9pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
-  mso-bidi-theme-font:major-bidi'>0-80°, 10 cm<o:p></o:p></span></p>
+  mso-bidi-theme-font:major-bidi'>0-80ï¿½, 10 cm<o:p></o:p></span></p>
   </td>
   <td width=82 valign=top style='width:61.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -6767,7 +6083,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:14.15pt'>
   <p class=MsoNormal style='margin-left:6.9pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
-  mso-bidi-theme-font:major-bidi'>0-20-30°<o:p></o:p></span></p>
+  mso-bidi-theme-font:major-bidi'>0-20-30ï¿½<o:p></o:p></span></p>
   </td>
   <td width=82 valign=top style='width:61.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -6840,7 +6156,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:14.15pt'>
   <p class=MsoNormal style='margin-left:6.9pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
-  mso-bidi-theme-font:major-bidi'>0-45°<o:p></o:p></span></p>
+  mso-bidi-theme-font:major-bidi'>0-45ï¿½<o:p></o:p></span></p>
   </td>
   <td width=82 valign=top style='width:61.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -6986,40 +6302,40 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   <p class=MsoNormal style='margin-left:21.0pt'><span lang=EN-US
   style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
   mso-bidi-theme-font:major-bidi;color:black;mso-color-alt:windowtext'>0<span
-  style='mso-tab-count:1'>      </span>No contraction present</span><span
+  style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ </span>No contraction present</span><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><o:p></o:p></span></p>
   <p class=MsoNormal style='margin-left:21.0pt'><span lang=EN-US
   style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
   mso-bidi-theme-font:major-bidi;color:black;mso-color-alt:windowtext'>1<span
-  style='mso-tab-count:1'>      </span>Contraction visible without movement</span><span
+  style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ </span>Contraction visible without movement</span><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><o:p></o:p></span></p>
   <p class=MsoNormal style='margin-left:21.0pt'><span lang=EN-US
   style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
   mso-bidi-theme-font:major-bidi;color:black;mso-color-alt:windowtext'>2<span
-  style='mso-tab-count:1'>      </span>Movement possible without gravity or
+  style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ </span>Movement possible without gravity or
   incomplete against gravity</span><span lang=EN-US style='font-size:9.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><o:p></o:p></span></p>
   <p class=MsoNormal style='margin-left:21.0pt'><span lang=EN-US
   style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
   mso-bidi-theme-font:major-bidi;color:black;mso-color-alt:windowtext'>3<span
-  style='mso-tab-count:1'>      </span>Movement possible against gravity into the
+  style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ </span>Movement possible against gravity into the
   fullest available range</span><span lang=EN-US style='font-size:9.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><o:p></o:p></span></p>
   <p class=MsoNormal style='margin-left:21.0pt'><span lang=EN-US
   style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
   mso-bidi-theme-font:major-bidi;color:black;mso-color-alt:windowtext'>4<span
-  style='mso-tab-count:1'>      </span>Movement possible against gravity and an
+  style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ </span>Movement possible against gravity and an
   added moderate resistance</span><span lang=EN-US style='font-size:9.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><o:p></o:p></span></p>
   <p class=MsoNormal style='margin-left:21.0pt'><span lang=EN-US
   style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
   mso-bidi-theme-font:major-bidi;color:black;mso-color-alt:windowtext'>5<span
-  style='mso-tab-count:1'>      </span>Muscle functions normally</span><span
+  style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ </span>Muscle functions normally</span><span
   lang=EN-US style='font-size:12.0pt;font-family:"Times New Roman",serif;
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><o:p></o:p></span></p>
@@ -7532,7 +6848,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-element-anchor-horizontal:margin;mso-element-left:center;mso-element-top:
   -1.75pt;mso-height-rule:exactly'><span lang=EN-US style='font-family:Montserrat;
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi;
-  color:black;mso-color-alt:windowtext'>0<span style='mso-tab-count:1'>      </span>No
+  color:black;mso-color-alt:windowtext'>0<span style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ </span>No
   increase in tone</span><span lang=EN-US style='font-family:Montserrat;
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><o:p></o:p></span></p>
   <p class=MsoNormal style='margin-left:17.0pt;mso-element:frame;mso-element-frame-hspace:
@@ -7540,7 +6856,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-element-anchor-horizontal:margin;mso-element-left:center;mso-element-top:
   -1.75pt;mso-height-rule:exactly'><span lang=EN-US style='font-family:Montserrat;
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi;
-  color:black;mso-color-alt:windowtext'>1<span style='mso-tab-count:1'>      </span>Slight
+  color:black;mso-color-alt:windowtext'>1<span style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ </span>Slight
   increase in tone giving a catch when limb is moved</span><span lang=EN-US
   style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
   mso-bidi-theme-font:major-bidi'><o:p></o:p></span></p>
@@ -7549,7 +6865,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-element-anchor-horizontal:margin;mso-element-left:center;mso-element-top:
   -1.75pt;mso-height-rule:exactly'><span lang=EN-US style='font-family:Montserrat;
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi;
-  color:black;mso-color-alt:windowtext'>2<span style='mso-tab-count:1'>      </span>More
+  color:black;mso-color-alt:windowtext'>2<span style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ </span>More
   marked increase in tone</span><span lang=EN-US style='font-family:Montserrat;
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><o:p></o:p></span></p>
   <p class=MsoNormal style='margin-left:17.0pt;mso-element:frame;mso-element-frame-hspace:
@@ -7557,8 +6873,8 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-element-anchor-horizontal:margin;mso-element-left:center;mso-element-top:
   -1.75pt;mso-height-rule:exactly'><span lang=EN-US style='font-family:Montserrat;
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi;
-  color:black;mso-color-alt:windowtext'>3<span style='mso-tab-count:1'>      </span>Considerable
-  increase in tone – passive movement difficult</span><span lang=EN-US
+  color:black;mso-color-alt:windowtext'>3<span style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ </span>Considerable
+  increase in tone ï¿½ passive movement difficult</span><span lang=EN-US
   style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
   mso-bidi-theme-font:major-bidi'><o:p></o:p></span></p>
   <p class=MsoNormal style='margin-left:17.0pt;mso-element:frame;mso-element-frame-hspace:
@@ -7566,7 +6882,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-element-anchor-horizontal:margin;mso-element-left:center;mso-element-top:
   -1.75pt;mso-height-rule:exactly'><span lang=EN-US style='font-family:Montserrat;
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi;
-  color:black;mso-color-alt:windowtext'>4<span style='mso-tab-count:1'>      </span>Limb
+  color:black;mso-color-alt:windowtext'>4<span style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ </span>Limb
   rigid</span><span lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><o:p></o:p></span></p>
   <p class=MsoNormal style='mso-element:frame;mso-element-frame-hspace:9.0pt;
@@ -7622,7 +6938,7 @@ AAAPAAAAAAAAAAAAAAAAACwEAABkcnMvZG93bnJldi54bWxQSwUGAAAAAAQABADzAAAAMwUAAAAA
   v:shapes="Straight_x0020_Arrow_x0020_Connector_x0020_20"></span><![endif]><span
   lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
   mso-bidi-theme-font:major-bidi;color:black;mso-color-alt:windowtext'>Write<span
-  style='mso-spacerun:yes'>    </span>in case of hypotonic (flaccidity</span><span
+  style='mso-spacerun:yes'>ï¿½ï¿½ï¿½ </span>in case of hypotonic (flaccidity</span><span
   lang=EN-US style='font-family:"Times New Roman",serif;mso-ascii-theme-font:
   major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi;
   color:black;mso-color-alt:windowtext'>)</span><span lang=EN-US
@@ -7986,7 +7302,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   page;mso-element-left:288.65pt;mso-element-top:-1.2pt;mso-height-rule:exactly'><span
   lang=EN-US style='font-size:10.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi;color:black;mso-color-alt:
-  windowtext'><span style='mso-spacerun:yes'> </span>Upper Limbs</span><span
+  windowtext'><span style='mso-spacerun:yes'>ï¿½</span>Upper Limbs</span><span
   lang=EN-US style='font-size:10.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><o:p></o:p></span></p>
   </td>
@@ -8043,7 +7359,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   page;mso-element-left:288.65pt;mso-element-top:-1.2pt;mso-height-rule:exactly'><span
   lang=EN-US style='font-size:10.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi;color:black;mso-color-alt:
-  windowtext'><span style='mso-spacerun:yes'> </span>Lower Limbs</span><span
+  windowtext'><span style='mso-spacerun:yes'>ï¿½</span>Lower Limbs</span><span
   lang=EN-US style='font-size:10.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><o:p></o:p></span></p>
   </td>
@@ -8288,7 +7604,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   style='mso-element:field-begin'></span><span style='mso-bookmark:Check41'><span
   style='mso-bookmark:Check42'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
-  major-bidi'><span style='mso-spacerun:yes'> </span>FORMCHECKBOX <span
+  major-bidi'><span style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span
   style='mso-element:field-separator'></span></span></span></span><![endif]--><span
   style='mso-bookmark:Check41'><span style='mso-bookmark:Check42'><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
@@ -8315,7 +7631,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   style='mso-element:field-begin'></span><span style='mso-bookmark:Check42'><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check42'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><!--[if gte mso 9]><xml>
@@ -8339,7 +7655,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   style='mso-element:field-begin'></span><span style='mso-bookmark:Check42'><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check42'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><!--[if gte mso 9]><xml>
@@ -8361,7 +7677,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check43'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check43'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check43></a><![endif]><!--[if gte mso 9]><xml>
@@ -8384,7 +7700,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check44'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check44'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check44></a><![endif]><!--[if gte mso 9]><xml>
@@ -8418,7 +7734,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check113'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check113'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -8441,7 +7757,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><!--[if gte mso 9]><xml>
@@ -8465,7 +7781,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check131'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check131'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -8489,7 +7805,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check149'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check149'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -8514,7 +7830,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check167'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check167'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -8541,7 +7857,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check197'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check197'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check197></a><![endif]><!--[if gte mso 9]><xml>
@@ -8550,12 +7866,12 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   style='mso-bookmark:Check197'></span><span style='mso-element:field-end'></span><![endif]--><span
   style='mso-bookmark:Check197'></span><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
-  major-bidi'><span style='mso-spacerun:yes'> </span>Right<span
-  style='mso-spacerun:yes'>   </span></span><!--[if supportFields]><span
+  major-bidi'><span style='mso-spacerun:yes'>ï¿½</span>Right<span
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span></span><!--[if supportFields]><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check198'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check198'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check198></a><![endif]><!--[if gte mso 9]><xml>
@@ -8564,12 +7880,12 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   style='mso-bookmark:Check198'></span><span style='mso-element:field-end'></span><![endif]--><span
   style='mso-bookmark:Check198'></span><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
-  major-bidi'><span style='mso-spacerun:yes'> </span>Left<span
-  style='mso-spacerun:yes'>   </span></span><!--[if supportFields]><span
+  major-bidi'><span style='mso-spacerun:yes'>ï¿½</span>Left<span
+  style='mso-spacerun:yes'>ï¿½ï¿½ </span></span><!--[if supportFields]><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check199'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check199'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check199></a><![endif]><!--[if gte mso 9]><xml>
@@ -8578,7 +7894,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   style='mso-bookmark:Check199'></span><span style='mso-element:field-end'></span><![endif]--><span
   style='mso-bookmark:Check199'></span><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
-  major-bidi'><span style='mso-spacerun:yes'> </span>Both<o:p></o:p></span></p>
+  major-bidi'><span style='mso-spacerun:yes'>ï¿½</span>Both<o:p></o:p></span></p>
   </td>
   <td width=28 style='width:20.9pt;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -8591,7 +7907,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check45'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check45'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check45></a><![endif]><!--[if gte mso 9]><xml>
@@ -8612,7 +7928,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-element-top:-2.6pt;mso-height-rule:exactly'><!--[if supportFields]><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
-  field-begin'></span><span style='mso-spacerun:yes'> </span>FORMCHECKBOX <span
+  field-begin'></span><span style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span
   style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><!--[if gte mso 9]><xml>
@@ -8634,7 +7950,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check62'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check62'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check62></a><![endif]><!--[if gte mso 9]><xml>
@@ -8656,7 +7972,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check79'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check79'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check79></a><![endif]><!--[if gte mso 9]><xml>
@@ -8679,7 +7995,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check96'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check96'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check96></a><![endif]><!--[if gte mso 9]><xml>
@@ -8713,7 +8029,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check114'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check114'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -8736,7 +8052,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><!--[if gte mso 9]><xml>
@@ -8760,7 +8076,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check132'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check132'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -8784,7 +8100,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check150'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check150'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -8809,7 +8125,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check168'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check168'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -8845,7 +8161,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check46'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check46'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check46></a><![endif]><!--[if gte mso 9]><xml>
@@ -8866,7 +8182,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-element-top:-2.6pt;mso-height-rule:exactly'><!--[if supportFields]><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
-  field-begin'></span><span style='mso-spacerun:yes'> </span>FORMCHECKBOX <span
+  field-begin'></span><span style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span
   style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><!--[if gte mso 9]><xml>
@@ -8888,7 +8204,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check63'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check63'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check63></a><![endif]><!--[if gte mso 9]><xml>
@@ -8910,7 +8226,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check80'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check80'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check80></a><![endif]><!--[if gte mso 9]><xml>
@@ -8933,7 +8249,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check97'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check97'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check97></a><![endif]><!--[if gte mso 9]><xml>
@@ -8968,7 +8284,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check115'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check115'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -8991,7 +8307,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><!--[if gte mso 9]><xml>
@@ -9015,7 +8331,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check133'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check133'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -9039,7 +8355,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check151'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check151'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -9064,7 +8380,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check169'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check169'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -9100,7 +8416,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check47'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check47'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check47></a><![endif]><!--[if gte mso 9]><xml>
@@ -9121,7 +8437,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-element-top:-2.6pt;mso-height-rule:exactly'><!--[if supportFields]><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
-  field-begin'></span><span style='mso-spacerun:yes'> </span>FORMCHECKBOX <span
+  field-begin'></span><span style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span
   style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><!--[if gte mso 9]><xml>
@@ -9143,7 +8459,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check64'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check64'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check64></a><![endif]><!--[if gte mso 9]><xml>
@@ -9165,7 +8481,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check81'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check81'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check81></a><![endif]><!--[if gte mso 9]><xml>
@@ -9188,7 +8504,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check98'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check98'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check98></a><![endif]><!--[if gte mso 9]><xml>
@@ -9222,7 +8538,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check116'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check116'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -9245,7 +8561,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><!--[if gte mso 9]><xml>
@@ -9269,7 +8585,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check134'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check134'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -9293,7 +8609,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check152'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check152'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -9318,7 +8634,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check170'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check170'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -9354,7 +8670,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check48'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check48'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check48></a><![endif]><!--[if gte mso 9]><xml>
@@ -9375,7 +8691,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-element-top:-2.6pt;mso-height-rule:exactly'><!--[if supportFields]><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
-  field-begin'></span><span style='mso-spacerun:yes'> </span>FORMCHECKBOX <span
+  field-begin'></span><span style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span
   style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><!--[if gte mso 9]><xml>
@@ -9397,7 +8713,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check65'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check65'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check65></a><![endif]><!--[if gte mso 9]><xml>
@@ -9419,7 +8735,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check82'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check82'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check82></a><![endif]><!--[if gte mso 9]><xml>
@@ -9442,7 +8758,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check99'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check99'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check99></a><![endif]><!--[if gte mso 9]><xml>
@@ -9476,7 +8792,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check117'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check117'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -9499,7 +8815,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><!--[if gte mso 9]><xml>
@@ -9523,7 +8839,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check135'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check135'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -9547,7 +8863,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check153'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check153'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -9572,7 +8888,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check171'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check171'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -9608,7 +8924,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check49'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check49'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check49></a><![endif]><!--[if gte mso 9]><xml>
@@ -9629,7 +8945,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-element-top:-2.6pt;mso-height-rule:exactly'><!--[if supportFields]><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
-  field-begin'></span><span style='mso-spacerun:yes'> </span>FORMCHECKBOX <span
+  field-begin'></span><span style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span
   style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><!--[if gte mso 9]><xml>
@@ -9651,7 +8967,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check66'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check66'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check66></a><![endif]><!--[if gte mso 9]><xml>
@@ -9673,7 +8989,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check83'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check83'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check83></a><![endif]><!--[if gte mso 9]><xml>
@@ -9696,7 +9012,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check100'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check100'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check100></a><![endif]><!--[if gte mso 9]><xml>
@@ -9730,7 +9046,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check118'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check118'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -9753,7 +9069,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><!--[if gte mso 9]><xml>
@@ -9777,7 +9093,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check136'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check136'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -9801,7 +9117,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check154'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check154'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -9826,7 +9142,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check172'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check172'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -9862,7 +9178,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check50'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check50'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check50></a><![endif]><!--[if gte mso 9]><xml>
@@ -9883,7 +9199,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-element-top:-2.6pt;mso-height-rule:exactly'><!--[if supportFields]><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
-  field-begin'></span><span style='mso-spacerun:yes'> </span>FORMCHECKBOX <span
+  field-begin'></span><span style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span
   style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><!--[if gte mso 9]><xml>
@@ -9905,7 +9221,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check67'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check67'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check67></a><![endif]><!--[if gte mso 9]><xml>
@@ -9927,7 +9243,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check84'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check84'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check84></a><![endif]><!--[if gte mso 9]><xml>
@@ -9950,7 +9266,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check101'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check101'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check101></a><![endif]><!--[if gte mso 9]><xml>
@@ -9973,7 +9289,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   "Times New Roman";mso-bidi-theme-font:major-bidi'>Kicks ball forward: </span><!--[if supportFields]><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
-  field-begin'></span><span style='mso-spacerun:yes'> </span>FORMCHECKBOX <span
+  field-begin'></span><span style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span
   style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><!--[if gte mso 9]><xml>
@@ -9983,11 +9299,11 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-bidi-theme-font:major-bidi'><span style='mso-element:field-end'></span></span><![endif]--><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'> </span>Right<span style='mso-spacerun:yes'> 
+  style='mso-spacerun:yes'>ï¿½</span>Right<span style='mso-spacerun:yes'>ï¿½
   </span></span><!--[if supportFields]><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><!--[if gte mso 9]><xml>
    <w:data>FFFFFFFF650000001400080043006800650063006B00310039003800000000000000000000000000000000000000000000000000</w:data>
@@ -9996,10 +9312,10 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-bidi-theme-font:major-bidi'><span style='mso-element:field-end'></span></span><![endif]--><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'> </span>Left<span style='mso-spacerun:yes'>  </span></span><!--[if supportFields]><span
+  style='mso-spacerun:yes'>ï¿½</span>Left<span style='mso-spacerun:yes'>ï¿½ </span></span><!--[if supportFields]><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
-  field-begin'></span><span style='mso-spacerun:yes'> </span>FORMCHECKBOX <span
+  field-begin'></span><span style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span
   style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><!--[if gte mso 9]><xml>
@@ -10009,7 +9325,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-bidi-theme-font:major-bidi'><span style='mso-element:field-end'></span></span><![endif]--><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'> </span>Both<o:p></o:p></span></p>
+  style='mso-spacerun:yes'>ï¿½</span>Both<o:p></o:p></span></p>
   </td>
   <td width=27 colspan=2 style='width:20.1pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -10023,7 +9339,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check119'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check119'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -10046,7 +9362,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><!--[if gte mso 9]><xml>
@@ -10070,7 +9386,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check137'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check137'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -10094,7 +9410,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check155'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check155'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -10119,7 +9435,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check173'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check173'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -10155,7 +9471,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check51'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check51'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check51></a><![endif]><!--[if gte mso 9]><xml>
@@ -10176,7 +9492,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-element-top:-2.6pt;mso-height-rule:exactly'><!--[if supportFields]><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
-  field-begin'></span><span style='mso-spacerun:yes'> </span>FORMCHECKBOX <span
+  field-begin'></span><span style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span
   style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><!--[if gte mso 9]><xml>
@@ -10198,7 +9514,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check68'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check68'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check68></a><![endif]><!--[if gte mso 9]><xml>
@@ -10220,7 +9536,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check85'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check85'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check85></a><![endif]><!--[if gte mso 9]><xml>
@@ -10243,7 +9559,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check102'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check102'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check102></a><![endif]><!--[if gte mso 9]><xml>
@@ -10277,7 +9593,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check120'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check120'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -10300,7 +9616,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><!--[if gte mso 9]><xml>
@@ -10324,7 +9640,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check138'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check138'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -10348,7 +9664,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check156'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check156'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -10373,7 +9689,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check174'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check174'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -10409,7 +9725,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check52'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check52'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check52></a><![endif]><!--[if gte mso 9]><xml>
@@ -10430,7 +9746,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-element-top:-2.6pt;mso-height-rule:exactly'><!--[if supportFields]><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
-  field-begin'></span><span style='mso-spacerun:yes'> </span>FORMCHECKBOX <span
+  field-begin'></span><span style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span
   style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><!--[if gte mso 9]><xml>
@@ -10452,7 +9768,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check69'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check69'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check69></a><![endif]><!--[if gte mso 9]><xml>
@@ -10474,7 +9790,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check86'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check86'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check86></a><![endif]><!--[if gte mso 9]><xml>
@@ -10497,7 +9813,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check103'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check103'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check103></a><![endif]><!--[if gte mso 9]><xml>
@@ -10520,7 +9836,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   "Times New Roman";mso-bidi-theme-font:major-bidi'>Balances on one foot </span><!--[if supportFields]><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
-  field-begin'></span><span style='mso-spacerun:yes'> </span>FORMCHECKBOX <span
+  field-begin'></span><span style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span
   style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><!--[if gte mso 9]><xml>
@@ -10530,10 +9846,10 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-bidi-theme-font:major-bidi'><span style='mso-element:field-end'></span></span><![endif]--><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'> </span>Right </span><!--[if supportFields]><span
+  style='mso-spacerun:yes'>ï¿½</span>Right </span><!--[if supportFields]><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
-  field-begin'></span><span style='mso-spacerun:yes'> </span>FORMCHECKBOX <span
+  field-begin'></span><span style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span
   style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><!--[if gte mso 9]><xml>
@@ -10543,10 +9859,10 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-bidi-theme-font:major-bidi'><span style='mso-element:field-end'></span></span><![endif]--><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'> </span>Left </span><!--[if supportFields]><span
+  style='mso-spacerun:yes'>ï¿½</span>Left </span><!--[if supportFields]><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
-  field-begin'></span><span style='mso-spacerun:yes'> </span>FORMCHECKBOX <span
+  field-begin'></span><span style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span
   style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><!--[if gte mso 9]><xml>
@@ -10556,7 +9872,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-bidi-theme-font:major-bidi'><span style='mso-element:field-end'></span></span><![endif]--><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'> </span>Both<o:p></o:p></span></p>
+  style='mso-spacerun:yes'>ï¿½</span>Both<o:p></o:p></span></p>
   </td>
   <td width=27 colspan=2 style='width:20.1pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -10570,7 +9886,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check121'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check121'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -10593,7 +9909,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><!--[if gte mso 9]><xml>
@@ -10617,7 +9933,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check139'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check139'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -10641,7 +9957,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check157'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check157'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -10666,7 +9982,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check175'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check175'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -10702,7 +10018,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check53'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check53'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check53></a><![endif]><!--[if gte mso 9]><xml>
@@ -10723,7 +10039,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-element-top:-2.6pt;mso-height-rule:exactly'><!--[if supportFields]><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
-  field-begin'></span><span style='mso-spacerun:yes'> </span>FORMCHECKBOX <span
+  field-begin'></span><span style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span
   style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><!--[if gte mso 9]><xml>
@@ -10745,7 +10061,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check70'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check70'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check70></a><![endif]><!--[if gte mso 9]><xml>
@@ -10767,7 +10083,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check87'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check87'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check87></a><![endif]><!--[if gte mso 9]><xml>
@@ -10790,7 +10106,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check104'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check104'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check104></a><![endif]><!--[if gte mso 9]><xml>
@@ -10824,7 +10140,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check122'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check122'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -10847,7 +10163,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><!--[if gte mso 9]><xml>
@@ -10871,7 +10187,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check140'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check140'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -10895,7 +10211,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check158'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check158'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -10920,7 +10236,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check176'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check176'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -10956,7 +10272,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check54'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check54'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check54></a><![endif]><!--[if gte mso 9]><xml>
@@ -10977,7 +10293,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-element-top:-2.6pt;mso-height-rule:exactly'><!--[if supportFields]><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
-  field-begin'></span><span style='mso-spacerun:yes'> </span>FORMCHECKBOX <span
+  field-begin'></span><span style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span
   style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><!--[if gte mso 9]><xml>
@@ -10999,7 +10315,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check71'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check71'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check71></a><![endif]><!--[if gte mso 9]><xml>
@@ -11021,7 +10337,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check88'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check88'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check88></a><![endif]><!--[if gte mso 9]><xml>
@@ -11044,7 +10360,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check105'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check105'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check105></a><![endif]><!--[if gte mso 9]><xml>
@@ -11078,7 +10394,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check123'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check123'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -11101,7 +10417,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><!--[if gte mso 9]><xml>
@@ -11125,7 +10441,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check141'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check141'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -11149,7 +10465,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check159'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check159'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -11174,7 +10490,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check177'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check177'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -11210,7 +10526,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check55'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check55'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check55></a><![endif]><!--[if gte mso 9]><xml>
@@ -11231,7 +10547,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-element-top:-2.6pt;mso-height-rule:exactly'><!--[if supportFields]><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
-  field-begin'></span><span style='mso-spacerun:yes'> </span>FORMCHECKBOX <span
+  field-begin'></span><span style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span
   style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><!--[if gte mso 9]><xml>
@@ -11253,7 +10569,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check72'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check72'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check72></a><![endif]><!--[if gte mso 9]><xml>
@@ -11275,7 +10591,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check89'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check89'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check89></a><![endif]><!--[if gte mso 9]><xml>
@@ -11298,7 +10614,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:7.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check106'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check106'><span lang=EN-US style='font-size:7.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check106></a><![endif]><!--[if gte mso 9]><xml>
@@ -11332,7 +10648,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check124'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check124'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -11355,7 +10671,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><!--[if gte mso 9]><xml>
@@ -11379,7 +10695,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check142'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check142'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -11403,7 +10719,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check160'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check160'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -11428,7 +10744,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check178'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check178'><span lang=EN-US style='font-size:8.0pt;
   font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
   mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><![if !supportNestedAnchors]><a
@@ -11453,11 +10769,11 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi;
   font-variant:small-caps'>Scoring Key</span><span lang=EN-US style='font-size:
   8.0pt;font-family:"Montserrat SemiBold";mso-bidi-font-family:"Times New Roman";
-  mso-bidi-theme-font:major-bidi'>: <span style='mso-tab-count:1'>              </span>0
-  = Does not initiate<span style='mso-tab-count:1'>                       </span>1
-  = Initiates<span style='mso-tab-count:1'>                   </span>2 =
-  Partially completes<span style='mso-tab-count:1'>                        </span>3
-  = Completes<span style='mso-tab-count:1'>                    </span>NT = Not
+  mso-bidi-theme-font:major-bidi'>: <span style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span>0
+  = Does not initiate<span style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span>1
+  = Initiates<span style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span>2 =
+  Partially completes<span style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span>3
+  = Completes<span style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span>NT = Not
   tested</span><span lang=EN-US style='font-size:9.0pt;font-family:"Montserrat SemiBold";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><o:p></o:p></span></p>
   </td>
@@ -11527,7 +10843,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-element-top:-2.6pt;mso-height-rule:exactly'><!--[if supportFields]><span
   lang=EN-US style='font-size:8.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
-  field-begin'></span><span style='mso-spacerun:yes'> </span>FORMCHECKBOX <span
+  field-begin'></span><span style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span
   style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:8.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><!--[if gte mso 9]><xml>
@@ -11560,7 +10876,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><!--[if gte mso 9]><xml>
@@ -11595,7 +10911,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-element-top:-2.6pt;mso-height-rule:exactly'><!--[if supportFields]><span
   lang=EN-US style='font-size:8.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
-  field-begin'></span><span style='mso-spacerun:yes'> </span>FORMCHECKBOX <span
+  field-begin'></span><span style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span
   style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:8.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><!--[if gte mso 9]><xml>
@@ -11628,7 +10944,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><!--[if gte mso 9]><xml>
@@ -11663,7 +10979,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-element-top:-2.6pt;mso-height-rule:exactly'><!--[if supportFields]><span
   lang=EN-US style='font-size:8.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
-  field-begin'></span><span style='mso-spacerun:yes'> </span>FORMCHECKBOX <span
+  field-begin'></span><span style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span
   style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:8.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><!--[if gte mso 9]><xml>
@@ -11696,7 +11012,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><!--[if gte mso 9]><xml>
@@ -11731,7 +11047,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-element-top:-2.6pt;mso-height-rule:exactly'><!--[if supportFields]><span
   lang=EN-US style='font-size:8.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
-  field-begin'></span><span style='mso-spacerun:yes'> </span>FORMCHECKBOX <span
+  field-begin'></span><span style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span
   style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:8.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><!--[if gte mso 9]><xml>
@@ -11764,7 +11080,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><!--[if gte mso 9]><xml>
@@ -11801,7 +11117,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-element-top:-2.6pt;mso-height-rule:exactly'><!--[if supportFields]><span
   lang=EN-US style='font-size:8.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
-  field-begin'></span><span style='mso-spacerun:yes'> </span>FORMCHECKBOX <span
+  field-begin'></span><span style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span
   style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:8.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><!--[if gte mso 9]><xml>
@@ -11834,7 +11150,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><!--[if gte mso 9]><xml>
@@ -13408,7 +12724,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'>Upper
   extremities:</span><span lang=EN-US style='font-size:9.0pt;font-family:Montserrat;
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-tab-count:1'>            </span></span><!--[if supportFields]><span
+  style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span></span><!--[if supportFields]><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check4'> FORMCHECKBOX <span
@@ -13421,8 +12737,8 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   style='mso-bookmark:Check4'></span><span style='mso-element:field-end'></span><![endif]--><span
   style='mso-bookmark:Check4'></span><span lang=EN-US style='font-size:9.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
-  major-bidi'><span style='mso-spacerun:yes'> </span>Right<span
-  style='mso-tab-count:1'>                </span></span><!--[if supportFields]><span
+  major-bidi'><span style='mso-spacerun:yes'>ï¿½</span>Right<span
+  style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span></span><!--[if supportFields]><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check5'> FORMCHECKBOX <span
@@ -13435,8 +12751,8 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   style='mso-bookmark:Check5'></span><span style='mso-element:field-end'></span><![endif]--><span
   style='mso-bookmark:Check5'></span><span lang=EN-US style='font-size:9.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
-  major-bidi'><span style='mso-spacerun:yes'> </span>Left<span
-  style='mso-tab-count:1'>                   </span></span><!--[if supportFields]><span
+  major-bidi'><span style='mso-spacerun:yes'>ï¿½</span>Left<span
+  style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span></span><!--[if supportFields]><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check6'> FORMCHECKBOX <span
@@ -13449,7 +12765,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   style='mso-bookmark:Check6'></span><span style='mso-element:field-end'></span><![endif]--><span
   style='mso-bookmark:Check6'></span><span lang=EN-US style='font-size:9.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
-  major-bidi'><span style='mso-spacerun:yes'> </span>Both<b><o:p></o:p></b></span></p>
+  major-bidi'><span style='mso-spacerun:yes'>ï¿½</span>Both<b><o:p></o:p></b></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:11;page-break-inside:avoid;height:14.2pt'>
@@ -13468,11 +12784,11 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   <p class=MsoNormal style='tab-stops:29.55pt 90.45pt 150.6pt 212.2pt 274.5pt right 504.0pt'><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-tab-count:
-  1'>                </span></span><!--[if supportFields]><span lang=EN-US
+  1'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span></span><!--[if supportFields]><span lang=EN-US
   style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
   mso-bidi-theme-font:major-bidi'><span style='mso-element:field-begin'></span><span
   style='mso-bookmark:Check7'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check7'><span lang=EN-US style='font-size:9.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check7></a><![endif]><!--[if gte mso 9]><xml>
@@ -13481,8 +12797,8 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   style='mso-bookmark:Check7'></span><span style='mso-element:field-end'></span><![endif]--><span
   style='mso-bookmark:Check7'></span><span lang=EN-US style='font-size:9.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
-  major-bidi'><span style='mso-spacerun:yes'> </span>Finger<span
-  style='mso-tab-count:1'>              </span></span><!--[if supportFields]><span
+  major-bidi'><span style='mso-spacerun:yes'>ï¿½</span>Finger<span
+  style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span></span><!--[if supportFields]><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check8'> FORMCHECKBOX <span
@@ -13495,8 +12811,8 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   style='mso-bookmark:Check8'></span><span style='mso-element:field-end'></span><![endif]--><span
   style='mso-bookmark:Check8'></span><span lang=EN-US style='font-size:9.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
-  major-bidi'><span style='mso-spacerun:yes'> </span>Wrist<span
-  style='mso-tab-count:1'>                </span></span><!--[if supportFields]><span
+  major-bidi'><span style='mso-spacerun:yes'>ï¿½</span>Wrist<span
+  style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span></span><!--[if supportFields]><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check9'> FORMCHECKBOX <span
@@ -13509,8 +12825,8 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   style='mso-bookmark:Check9'></span><span style='mso-element:field-end'></span><![endif]--><span
   style='mso-bookmark:Check9'></span><span lang=EN-US style='font-size:9.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
-  major-bidi'><span style='mso-spacerun:yes'> </span>Forearm<span
-  style='mso-tab-count:1'>          </span></span><!--[if supportFields]><span
+  major-bidi'><span style='mso-spacerun:yes'>ï¿½</span>Forearm<span
+  style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span></span><!--[if supportFields]><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check10'> FORMCHECKBOX <span
@@ -13523,7 +12839,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   style='mso-bookmark:Check10'></span><span style='mso-element:field-end'></span><![endif]--><span
   style='mso-bookmark:Check10'></span><span lang=EN-US style='font-size:9.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
-  major-bidi'><span style='mso-spacerun:yes'> </span>Elbow</span><!--[if supportFields]><span
+  major-bidi'><span style='mso-spacerun:yes'>ï¿½</span>Elbow</span><!--[if supportFields]><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check11'> FORMCHECKBOX <span
@@ -13536,7 +12852,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   style='mso-bookmark:Check11'></span><span style='mso-element:field-end'></span><![endif]--><span
   style='mso-bookmark:Check11'></span><span lang=EN-US style='font-size:9.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
-  major-bidi'><span style='mso-spacerun:yes'> </span>Shoulder<o:p></o:p></span></p>
+  major-bidi'><span style='mso-spacerun:yes'>ï¿½</span>Shoulder<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:12;page-break-inside:avoid;height:14.2pt'>
@@ -13548,10 +12864,10 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'>Lower
   extremities:</span><span lang=EN-US style='font-size:9.0pt;font-family:Montserrat;
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'> <span
-  style='mso-tab-count:1'>           </span></span><!--[if supportFields]><span
+  style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span></span><!--[if supportFields]><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
-  field-begin'></span><span style='mso-spacerun:yes'> </span>FORMCHECKBOX <span
+  field-begin'></span><span style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span
   style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><!--[if gte mso 9]><xml>
@@ -13561,7 +12877,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-bidi-theme-font:major-bidi'><span style='mso-element:field-end'></span></span><![endif]--><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'> </span>Right<span style='mso-tab-count:1'>                </span></span><!--[if supportFields]><span
+  style='mso-spacerun:yes'>ï¿½</span>Right<span style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span></span><!--[if supportFields]><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span> FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
@@ -13573,7 +12889,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-bidi-theme-font:major-bidi'><span style='mso-element:field-end'></span></span><![endif]--><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'> </span>Left<span style='mso-tab-count:1'>                   </span></span><!--[if supportFields]><span
+  style='mso-spacerun:yes'>ï¿½</span>Left<span style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span></span><!--[if supportFields]><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span> FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
@@ -13585,7 +12901,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-bidi-theme-font:major-bidi'><span style='mso-element:field-end'></span></span><![endif]--><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'> </span>Both<b><o:p></o:p></b></span></p>
+  style='mso-spacerun:yes'>ï¿½</span>Both<b><o:p></o:p></b></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:13;page-break-inside:avoid;height:14.2pt'>
@@ -13595,9 +12911,9 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   <p class=MsoNormal style='tab-stops:29.55pt 90.45pt 150.6pt 212.05pt 275.2pt right 504.0pt'><span
   lang=EN-US style='font-size:9.0pt;font-family:"Montserrat SemiBold";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'>Hip:<span
-  style='mso-tab-count:1'>        </span></span><span lang=EN-US
+  style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span></span><span lang=EN-US
   style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
-  mso-bidi-theme-font:major-bidi'><span style='mso-tab-count:1'>                                  </span></span><!--[if supportFields]><span
+  mso-bidi-theme-font:major-bidi'><span style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span></span><!--[if supportFields]><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check12'> FORMCHECKBOX <span
@@ -13610,8 +12926,8 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   style='mso-bookmark:Check12'></span><span style='mso-element:field-end'></span><![endif]--><span
   style='mso-bookmark:Check12'></span><span lang=EN-US style='font-size:9.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
-  major-bidi'><span style='mso-spacerun:yes'> </span>Flexor<span
-  style='mso-tab-count:1'>              </span></span><!--[if supportFields]><span
+  major-bidi'><span style='mso-spacerun:yes'>ï¿½</span>Flexor<span
+  style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span></span><!--[if supportFields]><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check13'> FORMCHECKBOX <span
@@ -13624,8 +12940,8 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   style='mso-bookmark:Check13'></span><span style='mso-element:field-end'></span><![endif]--><span
   style='mso-bookmark:Check13'></span><span lang=EN-US style='font-size:9.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
-  major-bidi'><span style='mso-spacerun:yes'> </span>Abductor<span
-  style='mso-tab-count:1'>        </span></span><!--[if supportFields]><span
+  major-bidi'><span style='mso-spacerun:yes'>ï¿½</span>Abductor<span
+  style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span></span><!--[if supportFields]><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check14'> FORMCHECKBOX <span
@@ -13638,7 +12954,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   style='mso-bookmark:Check14'></span><span style='mso-element:field-end'></span><![endif]--><span
   style='mso-bookmark:Check14'></span><span lang=EN-US style='font-size:9.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
-  major-bidi'><span style='mso-spacerun:yes'> </span>Adductor<o:p></o:p></span></p>
+  major-bidi'><span style='mso-spacerun:yes'>ï¿½</span>Adductor<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:14;page-break-inside:avoid;height:14.2pt'>
@@ -13657,12 +12973,12 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   <p class=MsoNormal style='tab-stops:29.55pt 90.45pt 150.6pt 212.05pt 275.2pt right 504.0pt'><span
   lang=EN-US style='font-size:9.0pt;font-family:"Montserrat SemiBold";
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'>Knee: <span
-  style='mso-tab-count:1'>    </span></span><span lang=EN-US style='font-size:
+  style='mso-tab-count:1'>ï¿½ï¿½ï¿½ </span></span><span lang=EN-US style='font-size:
   9.0pt;font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
-  mso-bidi-theme-font:major-bidi'><span style='mso-tab-count:1'>                                  </span></span><!--[if supportFields]><span
+  mso-bidi-theme-font:major-bidi'><span style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span></span><!--[if supportFields]><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
-  field-begin'></span><span style='mso-spacerun:yes'> </span>FORMCHECKBOX <span
+  field-begin'></span><span style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span
   style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><!--[if gte mso 9]><xml>
@@ -13672,7 +12988,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-bidi-theme-font:major-bidi'><span style='mso-element:field-end'></span></span><![endif]--><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'> </span>Flexor<span style='mso-tab-count:1'>              </span></span><!--[if supportFields]><span
+  style='mso-spacerun:yes'>ï¿½</span>Flexor<span style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span></span><!--[if supportFields]><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span> FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
@@ -13684,7 +13000,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-bidi-theme-font:major-bidi'><span style='mso-element:field-end'></span></span><![endif]--><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'> </span>Extensor<o:p></o:p></span></p>
+  style='mso-spacerun:yes'>ï¿½</span>Extensor<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:15;page-break-inside:avoid;height:14.2pt'>
@@ -13696,11 +13012,11 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'>Ankle:</span><span
   lang=EN-US style='font-size:9.0pt;font-family:"Times New Roman",serif;
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
-  major-bidi'> <span style='mso-tab-count:1'>   </span></span><!--[if supportFields]><span
+  major-bidi'> <span style='mso-tab-count:1'>ï¿½ï¿½ </span></span><!--[if supportFields]><span
   lang=EN-US style='font-size:9.0pt;font-family:"Times New Roman",serif;
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:9.0pt;font-family:"Times New Roman",serif;
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><!--[if gte mso 9]><xml>
@@ -13711,7 +13027,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   style='mso-element:field-end'></span></span><![endif]--><span lang=EN-US
   style='font-size:9.0pt;font-family:"Times New Roman",serif;mso-ascii-theme-font:
   major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'> </span>Dorsiflexor<span style='mso-tab-count:1'>             </span></span><!--[if supportFields]><span
+  style='mso-spacerun:yes'>ï¿½</span>Dorsiflexor<span style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span></span><!--[if supportFields]><span
   lang=EN-US style='font-size:9.0pt;font-family:"Times New Roman",serif;
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span> FORMCHECKBOX <span
@@ -13726,8 +13042,8 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   style='mso-element:field-end'></span></span><![endif]--><span lang=EN-US
   style='font-size:9.0pt;font-family:"Times New Roman",serif;mso-ascii-theme-font:
   major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'> </span>Planter flexor<span style='mso-tab-count:
-  1'>            </span></span><!--[if supportFields]><span lang=EN-US
+  style='mso-spacerun:yes'>ï¿½</span>Planter flexor<span style='mso-tab-count:
+  1'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span></span><!--[if supportFields]><span lang=EN-US
   style='font-size:9.0pt;font-family:"Times New Roman",serif;mso-ascii-theme-font:
   major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><span
   style='mso-element:field-begin'></span> FORMCHECKBOX <span style='mso-element:
@@ -13741,7 +13057,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   style='mso-element:field-end'></span></span><![endif]--><span lang=EN-US
   style='font-size:9.0pt;font-family:"Times New Roman",serif;mso-ascii-theme-font:
   major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'> </span>Invertor<span style='mso-tab-count:1'>         </span></span><!--[if supportFields]><span
+  style='mso-spacerun:yes'>ï¿½</span>Invertor<span style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span></span><!--[if supportFields]><span
   lang=EN-US style='font-size:9.0pt;font-family:"Times New Roman",serif;
   mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
   major-bidi'><span style='mso-element:field-begin'></span> FORMCHECKBOX <span
@@ -13756,7 +13072,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   style='mso-element:field-end'></span></span><![endif]--><span lang=EN-US
   style='font-size:9.0pt;font-family:"Times New Roman",serif;mso-ascii-theme-font:
   major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'> </span>Evertor<b><o:p></o:p></b></span></p>
+  style='mso-spacerun:yes'>ï¿½</span>Evertor<b><o:p></o:p></b></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:16;page-break-inside:avoid;height:14.2pt'>
@@ -13809,10 +13125,10 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'>Upper
   extremities:</span><span lang=EN-US style='font-size:9.0pt;font-family:Montserrat;
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'> <span
-  style='mso-tab-count:1'>           </span></span><!--[if supportFields]><span
+  style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span></span><!--[if supportFields]><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
-  field-begin'></span><span style='mso-spacerun:yes'> </span>FORMCHECKBOX <span
+  field-begin'></span><span style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span
   style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><!--[if gte mso 9]><xml>
@@ -13822,7 +13138,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-bidi-theme-font:major-bidi'><span style='mso-element:field-end'></span></span><![endif]--><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'> </span>Right<span style='mso-tab-count:1'>                </span></span><!--[if supportFields]><span
+  style='mso-spacerun:yes'>ï¿½</span>Right<span style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span></span><!--[if supportFields]><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span> FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
@@ -13834,7 +13150,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-bidi-theme-font:major-bidi'><span style='mso-element:field-end'></span></span><![endif]--><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'> </span>Left<span style='mso-tab-count:1'>                   </span></span><!--[if supportFields]><span
+  style='mso-spacerun:yes'>ï¿½</span>Left<span style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span></span><!--[if supportFields]><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span> FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
@@ -13846,7 +13162,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-bidi-theme-font:major-bidi'><span style='mso-element:field-end'></span></span><![endif]--><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'> </span>Both<o:p></o:p></span></p>
+  style='mso-spacerun:yes'>ï¿½</span>Both<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:18;page-break-inside:avoid;height:14.2pt'>
@@ -13877,7 +13193,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   <p class=MsoNormal style='tab-stops:1.55pt 68.75pt 150.6pt 212.2pt 274.5pt right 504.0pt'><!--[if supportFields]><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
-  field-begin'></span><span style='mso-spacerun:yes'> </span>FORMCHECKBOX <span
+  field-begin'></span><span style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span
   style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><!--[if gte mso 9]><xml>
@@ -13887,7 +13203,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-bidi-theme-font:major-bidi'><span style='mso-element:field-end'></span></span><![endif]--><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'> </span>Finger grip<span style='mso-tab-count:1'>          </span></span><!--[if supportFields]><span
+  style='mso-spacerun:yes'>ï¿½</span>Finger grip<span style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span></span><!--[if supportFields]><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span> FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
@@ -13899,8 +13215,8 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-bidi-theme-font:major-bidi'><span style='mso-element:field-end'></span></span><![endif]--><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'> </span>Wrist extensor<span style='mso-tab-count:
-  1'>        </span></span><!--[if supportFields]><span lang=EN-US
+  style='mso-spacerun:yes'>ï¿½</span>Wrist extensor<span style='mso-tab-count:
+  1'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span></span><!--[if supportFields]><span lang=EN-US
   style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
   mso-bidi-theme-font:major-bidi'><span style='mso-element:field-begin'></span>
   FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
@@ -13912,7 +13228,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-bidi-theme-font:major-bidi'><span style='mso-element:field-end'></span></span><![endif]--><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'> </span>Forearm<span style='mso-tab-count:1'>          </span></span><!--[if supportFields]><span
+  style='mso-spacerun:yes'>ï¿½</span>Forearm<span style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span></span><!--[if supportFields]><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span> FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
@@ -13924,7 +13240,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-bidi-theme-font:major-bidi'><span style='mso-element:field-end'></span></span><![endif]--><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'> </span>Elbow</span><!--[if supportFields]><span
+  style='mso-spacerun:yes'>ï¿½</span>Elbow</span><!--[if supportFields]><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span> FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
@@ -13936,7 +13252,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-bidi-theme-font:major-bidi'><span style='mso-element:field-end'></span></span><![endif]--><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'> </span>Shoulder<b><o:p></o:p></b></span></p>
+  style='mso-spacerun:yes'>ï¿½</span>Shoulder<b><o:p></o:p></b></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:19;page-break-inside:avoid;height:14.2pt'>
@@ -13969,10 +13285,10 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'>Lower
   extremities:</span><span lang=EN-US style='font-size:9.0pt;font-family:Montserrat;
   mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'> <span
-  style='mso-tab-count:1'>           </span></span><!--[if supportFields]><span
+  style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span></span><!--[if supportFields]><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
-  field-begin'></span><span style='mso-spacerun:yes'> </span>FORMCHECKBOX <span
+  field-begin'></span><span style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span
   style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><!--[if gte mso 9]><xml>
@@ -13982,7 +13298,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-bidi-theme-font:major-bidi'><span style='mso-element:field-end'></span></span><![endif]--><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'> </span>Right<span style='mso-tab-count:1'>                </span></span><!--[if supportFields]><span
+  style='mso-spacerun:yes'>ï¿½</span>Right<span style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span></span><!--[if supportFields]><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span> FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
@@ -13994,7 +13310,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-bidi-theme-font:major-bidi'><span style='mso-element:field-end'></span></span><![endif]--><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'> </span>Left<span style='mso-tab-count:1'>                   </span></span><!--[if supportFields]><span
+  style='mso-spacerun:yes'>ï¿½</span>Left<span style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span></span><!--[if supportFields]><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span> FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
@@ -14006,7 +13322,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-bidi-theme-font:major-bidi'><span style='mso-element:field-end'></span></span><![endif]--><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'> </span>Both<o:p></o:p></span></p>
+  style='mso-spacerun:yes'>ï¿½</span>Both<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:20;page-break-inside:avoid;height:14.2pt'>
@@ -14039,7 +13355,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   <p class=MsoNormal style='tab-stops:1.55pt 68.75pt 150.6pt 212.2pt 274.5pt right 504.0pt'><!--[if supportFields]><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
-  field-begin'></span><span style='mso-spacerun:yes'> </span>FORMCHECKBOX <span
+  field-begin'></span><span style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span
   style='mso-element:field-separator'></span></span><![endif]--><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><!--[if gte mso 9]><xml>
@@ -14049,7 +13365,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-bidi-theme-font:major-bidi'><span style='mso-element:field-end'></span></span><![endif]--><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'> </span>Hip extensor</span><!--[if supportFields]><span
+  style='mso-spacerun:yes'>ï¿½</span>Hip extensor</span><!--[if supportFields]><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span> FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
@@ -14061,7 +13377,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-bidi-theme-font:major-bidi'><span style='mso-element:field-end'></span></span><![endif]--><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'> </span>Hip adductor</span><!--[if supportFields]><span
+  style='mso-spacerun:yes'>ï¿½</span>Hip adductor</span><!--[if supportFields]><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span> FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
@@ -14073,7 +13389,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-bidi-theme-font:major-bidi'><span style='mso-element:field-end'></span></span><![endif]--><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'> </span>Quadriceps</span><!--[if supportFields]><span
+  style='mso-spacerun:yes'>ï¿½</span>Quadriceps</span><!--[if supportFields]><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span> FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
@@ -14085,7 +13401,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-bidi-theme-font:major-bidi'><span style='mso-element:field-end'></span></span><![endif]--><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'> </span>Hamstrings</span><!--[if supportFields]><span
+  style='mso-spacerun:yes'>ï¿½</span>Hamstrings</span><!--[if supportFields]><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span> FORMCHECKBOX <span style='mso-element:field-separator'></span></span><![endif]--><span
@@ -14097,7 +13413,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   mso-bidi-theme-font:major-bidi'><span style='mso-element:field-end'></span></span><![endif]--><span
   lang=EN-US style='font-size:9.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span
-  style='mso-spacerun:yes'> </span>Ankle<o:p></o:p></span></p>
+  style='mso-spacerun:yes'>ï¿½</span>Ankle<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:21;page-break-inside:avoid;height:14.2pt'>
@@ -14404,7 +13720,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:10.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check1'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check1'><span lang=EN-US style='font-size:10.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check1></a><![endif]><!--[if gte mso 9]><xml>
@@ -14413,7 +13729,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   style='mso-bookmark:Check1'></span><span style='mso-element:field-end'></span><![endif]--><span
   style='mso-bookmark:Check1'></span><span lang=EN-US style='font-size:10.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
-  major-bidi'><span style='mso-spacerun:yes'> </span>Speech and language<o:p></o:p></span></p>
+  major-bidi'><span style='mso-spacerun:yes'>ï¿½</span>Speech and language<o:p></o:p></span></p>
   </td>
   <td width=16 style='width:11.9pt;border:none;mso-border-left-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:14.2pt'>
@@ -14445,7 +13761,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:10.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check2'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check2'><span lang=EN-US style='font-size:10.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check2></a><![endif]><!--[if gte mso 9]><xml>
@@ -14454,7 +13770,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   style='mso-bookmark:Check2'></span><span style='mso-element:field-end'></span><![endif]--><span
   style='mso-bookmark:Check2'></span><span lang=EN-US style='font-size:10.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
-  major-bidi'><span style='mso-spacerun:yes'> </span>Occupational therapy<o:p></o:p></span></p>
+  major-bidi'><span style='mso-spacerun:yes'>ï¿½</span>Occupational therapy<o:p></o:p></span></p>
   </td>
   <td width=16 style='width:11.9pt;border:none;mso-border-left-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:14.2pt'>
@@ -14486,7 +13802,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   lang=EN-US style='font-size:10.0pt;font-family:Montserrat;mso-bidi-font-family:
   "Times New Roman";mso-bidi-theme-font:major-bidi'><span style='mso-element:
   field-begin'></span><span style='mso-bookmark:Check3'><span
-  style='mso-spacerun:yes'> </span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+  style='mso-spacerun:yes'>ï¿½</span>FORMCHECKBOX <span style='mso-element:field-separator'></span></span></span><![endif]--><span
   style='mso-bookmark:Check3'><span lang=EN-US style='font-size:10.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
   major-bidi'><![if !supportNestedAnchors]><a name=Check3></a><![endif]><!--[if gte mso 9]><xml>
@@ -14495,7 +13811,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
   style='mso-bookmark:Check3'></span><span style='mso-element:field-end'></span><![endif]--><span
   style='mso-bookmark:Check3'></span><span lang=EN-US style='font-size:10.0pt;
   font-family:Montserrat;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
-  major-bidi'><span style='mso-spacerun:yes'> </span>Chiropractor<o:p></o:p></span></p>
+  major-bidi'><span style='mso-spacerun:yes'>ï¿½</span>Chiropractor<o:p></o:p></span></p>
   </td>
   <td width=16 style='width:11.9pt;border:none;mso-border-left-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:14.2pt'>
@@ -14831,7 +14147,7 @@ clear=all style='page-break-before:always;mso-break-type:section-break'>
 <p class=MsoNormal style='margin-top:12.2pt'><b style='mso-bidi-font-weight:
 normal'><span lang=EN-US style='font-size:14.0pt;font-family:Montserrat;
 mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-style='mso-spacerun:yes'>    </span></span></b><span lang=EN-US
+style='mso-spacerun:yes'>ï¿½ï¿½ï¿½ </span></span></b><span lang=EN-US
 style='font-size:14.0pt;font-family:"Montserrat SemiBold";mso-bidi-font-family:
 "Times New Roman";mso-bidi-theme-font:major-bidi;mso-bidi-font-weight:bold'>Discharge
 Summary</span><i style='mso-bidi-font-style:normal'><span lang=EN-US
@@ -15189,21 +14505,21 @@ Abilities at Discharge)<o:p></o:p></span></i></p>
 margin-bottom:2.15pt;line-height:140%;tab-stops:214.7pt 259.65pt 316.0pt 351.6pt 373.15pt 420.6pt 529.75pt'><span
 lang=EN-US style='font-family:"Times New Roman",serif;mso-ascii-theme-font:
 major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><span
-style='mso-spacerun:yes'>   </span><o:p></o:p></span></p>
+style='mso-spacerun:yes'>ï¿½ï¿½ </span><o:p></o:p></span></p>
 
 <p class=MsoBodyText style='mso-margin-top-alt:auto;margin-right:15.4pt;
 margin-bottom:2.15pt;line-height:140%;tab-stops:214.7pt 259.65pt 316.0pt 351.6pt 373.15pt 420.6pt 529.75pt'><span
 lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
-mso-bidi-theme-font:major-bidi'><span style='mso-spacerun:yes'> </span></span><span
+mso-bidi-theme-font:major-bidi'><span style='mso-spacerun:yes'>ï¿½</span></span><span
 lang=EN-US style='font-size:11.0pt;line-height:140%;font-family:Montserrat;
 mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:major-bidi'><span
-style='mso-spacerun:yes'>    </span>Therapist’s Name:<u> <span
-style='mso-tab-count:1'>                                                  </span><span
-style='mso-spacerun:yes'>            </span></u>Employee Id:<span
-style='mso-spacerun:yes'>  </span><u><span style='mso-spacerun:yes'> </span><span
-style='mso-tab-count:1'>  </span><span
-style='mso-spacerun:yes'>                   </span></u><span
-style='mso-spacerun:yes'> </span>Signature:­­_________</span><u><span
+style='mso-spacerun:yes'>ï¿½ï¿½ï¿½ </span>Therapistï¿½s Name:<u> <span
+style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span><span
+style='mso-spacerun:yes'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</span></u>Employee Id:<span
+style='mso-spacerun:yes'>ï¿½ </span><u><span style='mso-spacerun:yes'>ï¿½</span><span
+style='mso-tab-count:1'>ï¿½ </span><span
+style='mso-spacerun:yes'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</span></u><span
+style='mso-spacerun:yes'>ï¿½</span>Signature:ï¿½ï¿½_________</span><u><span
 lang=EN-US style='font-family:Montserrat;mso-bidi-font-family:"Times New Roman";
 mso-bidi-theme-font:major-bidi'><o:p></o:p></span></u></p>
 

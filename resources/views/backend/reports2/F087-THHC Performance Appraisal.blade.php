@@ -1,10 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
 <html>
 
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=windows-1252">
 <meta name=Generator content="Microsoft Word 15 (filtered)">
+<title>F087-THHC Performance Appraisal| @yield('title')</title>
+
 <style>
-<!--
  /* Font Definitions */
  @font-face
 	{font-family:Wingdings;
@@ -134,9 +137,9 @@ div.WordSection1
 	{margin-bottom:0cm;}
 ul
 	{margin-bottom:0cm;}
--->
-</style>
 
+</style>
+@yield('styles')
 </head>
 
 <body lang=EN-GB>
@@ -145,12 +148,12 @@ ul
 
 <p class=MsoNormal style='margin-top:.6pt;margin-right:0cm;margin-bottom:0cm;
 margin-left:0cm;margin-bottom:.0001pt;line-height:normal'><span lang=EN-US
-style='font-size:13.0pt;font-family:Montserrat;color:#002060'>           </span></p>
+style='font-size:13.0pt;font-family:Montserrat;color:#002060'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span></p>
 
 <p class=MsoNormal align=center style='margin-top:.6pt;margin-right:0cm;
 margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
 line-height:normal'><span lang=EN-US style='font-size:13.0pt;font-family:"Montserrat SemiBold";
-color:#002060'> </span></p>
+color:#002060'>ï¿½</span></p>
 
 <p class=MsoNormal style='margin-top:.6pt;margin-right:0cm;margin-bottom:0cm;
 margin-left:0cm;margin-bottom:.0001pt;line-height:normal'><b><span lang=EN-US
@@ -172,7 +175,7 @@ style='font-size:8.0pt;font-family:Montserrat;color:#C00000'>&nbsp;</span></b></
   border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:21.6pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=EN-US style='font-family:Montserrat;color:#002060'>Employee
-  Name:   </span></p>
+  Name:ï¿½ï¿½ </span></p>
   </td>
   <td width=600 nowrap colspan=11 style='width:450.0pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -187,7 +190,7 @@ style='font-size:8.0pt;font-family:Montserrat;color:#C00000'>&nbsp;</span></b></
   border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:21.6pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=EN-US style='font-family:Montserrat;color:#002060'>ID
-  Number:    </span></p>
+  Number:ï¿½ï¿½ï¿½ </span></p>
   </td>
   <td width=254 nowrap colspan=7 style='width:190.15pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -215,7 +218,7 @@ style='font-size:8.0pt;font-family:Montserrat;color:#C00000'>&nbsp;</span></b></
   border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:21.6pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=EN-US style='font-family:Montserrat;color:#002060'>Job
-  Title:     </span></p>
+  Title:ï¿½ï¿½ï¿½ï¿½ </span></p>
   </td>
   <td width=254 nowrap colspan=7 style='width:190.15pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -319,34 +322,34 @@ style='font-size:8.0pt;font-family:Montserrat;color:#C00000'>&nbsp;</span></b></
   <p class=MsoListParagraphCxSpFirst style='margin-top:0cm;margin-right:-3.6pt;
   margin-bottom:0cm;margin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;
   line-height:normal'><span lang=EN-US style='font-size:10.0pt;font-family:
-  Symbol;color:#002060'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Symbol;color:#002060'>ï¿½<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span dir=LTR></span><span lang=EN-US style='font-size:10.0pt;
   font-family:Montserrat;color:#002060'>To guarantee fair recognition to all
   employees by adopting evidence-based method of performance evaluation.</span></p>
   <p class=MsoListParagraphCxSpMiddle style='margin-top:0cm;margin-right:-3.6pt;
   margin-bottom:0cm;margin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;
   line-height:normal'><span lang=EN-US style='font-size:10.0pt;font-family:
-  Symbol;color:#002060'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Symbol;color:#002060'>ï¿½<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span dir=LTR></span><span lang=EN-US style='font-size:10.0pt;
   font-family:Montserrat;color:#002060'>To promote communication and provide
   constructive feedback about job performance.</span></p>
   <p class=MsoListParagraphCxSpMiddle style='margin-top:0cm;margin-right:-3.6pt;
   margin-bottom:0cm;margin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;
   line-height:normal'><span lang=EN-US style='font-size:10.0pt;font-family:
-  Symbol;color:#002060'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Symbol;color:#002060'>ï¿½<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span dir=LTR></span><span lang=EN-US style='font-size:10.0pt;
   font-family:Montserrat;color:#002060'>To allow managers identify performance
   gap and set developmental goals to optimize performance.</span></p>
   <p class=MsoListParagraphCxSpMiddle style='margin-top:0cm;margin-right:-3.6pt;
   margin-bottom:0cm;margin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;
   line-height:normal'><span lang=EN-US style='font-size:10.0pt;font-family:
-  Symbol;color:#002060'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Symbol;color:#002060'>ï¿½<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span dir=LTR></span><span lang=EN-US style='font-size:10.0pt;
   font-family:Montserrat;color:#002060'>To offer staff the opportunity to
-  provide feedback about work environment and improvement opportunities.  </span></p>
+  provide feedback about work environment and improvement opportunities.ï¿½ </span></p>
   <p class=MsoListParagraphCxSpLast style='margin-top:0cm;margin-right:-3.6pt;
   margin-bottom:0cm;margin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;
-  line-height:normal'><span lang=EN-US style='font-family:Symbol'>·<span
+  line-height:normal'><span lang=EN-US style='font-family:Symbol'>ï¿½<span
   style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
   dir=LTR></span><span lang=EN-US style='font-size:10.0pt;font-family:Montserrat;
   color:#002060'>To help identify and select appropriate employees for
@@ -415,7 +418,7 @@ style='font-size:8.0pt;font-family:Montserrat;color:#C00000'>&nbsp;</span></b></
   padding:0cm 5.4pt 0cm 5.4pt;height:12.1pt'>
   <p class=TableParagraph style='line-height:12.85pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;color:#002060;letter-spacing:
-  -.05pt'>  Al</span><span lang=EN-US style='font-size:10.0pt;font-family:Montserrat;
+  -.05pt'>ï¿½ Al</span><span lang=EN-US style='font-size:10.0pt;font-family:Montserrat;
   color:#002060'>w<span style='letter-spacing:-.05pt'>a</span>ys<span
   style='letter-spacing:-.1pt'> </span>e<span style='letter-spacing:-.15pt'>x</span>cee<span
   style='letter-spacing:-.05pt'>d</span>s<span style='letter-spacing:-.1pt'> </span>st<span
@@ -1163,16 +1166,16 @@ normal'><span lang=EN-US style='font-size:9.0pt;font-family:Montserrat'>&nbsp;</
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=EN-US style='font-size:8.0pt;font-family:Montserrat;
   color:#002060'>Shares expertise, knowledges, and skills with others
-  through:   </span></p>
+  through:ï¿½ï¿½ </span></p>
   <p class=MsoListParagraphCxSpFirst style='margin-bottom:0cm;margin-bottom:
   .0001pt;text-indent:-18.0pt;line-height:normal'><span lang=EN-US
-  style='font-size:8.0pt;font-family:Symbol;color:#002060'>·<span
+  style='font-size:8.0pt;font-family:Symbol;color:#002060'>ï¿½<span
   style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span dir=LTR></span><span lang=EN-US style='font-size:8.0pt;
   font-family:Montserrat;color:#002060'>Extends support interns, resident, and others</span></p>
   <p class=MsoListParagraphCxSpLast style='margin-bottom:0cm;margin-bottom:
   .0001pt;text-indent:-18.0pt;line-height:normal'><span lang=EN-US
-  style='font-size:8.0pt;font-family:Symbol;color:#002060'>·<span
+  style='font-size:8.0pt;font-family:Symbol;color:#002060'>ï¿½<span
   style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span dir=LTR></span><span lang=EN-US style='font-size:8.0pt;
   font-family:Montserrat;color:#002060'>Participates in teaching life support
@@ -1328,7 +1331,7 @@ normal'><span lang=EN-US style='font-size:9.0pt;font-family:Montserrat'>&nbsp;</
   color:#C00000'>&nbsp;</span></b></p>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><b><span lang=EN-US style='font-size:8.0pt;font-family:Montserrat;
-  color:#C00000'> </span></b></p>
+  color:#C00000'>ï¿½</span></b></p>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><b><span lang=EN-US style='font-size:8.0pt;font-family:Montserrat;
   color:#C00000'>&nbsp;</span></b></p>
@@ -1337,7 +1340,7 @@ normal'><span lang=EN-US style='font-size:9.0pt;font-family:Montserrat'>&nbsp;</
   color:#C00000'>&nbsp;</span></b></p>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><b><span lang=EN-US style='font-size:8.0pt;font-family:Montserrat;
-  color:#C00000'> </span></b></p>
+  color:#C00000'>ï¿½</span></b></p>
   </td>
   <td width=714 nowrap colspan=3 style='width:535.15pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1355,7 +1358,7 @@ normal'><span lang=EN-US style='font-size:9.0pt;font-family:Montserrat'>&nbsp;</
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=EN-US style='font-size:8.0pt;font-family:Montserrat;
   color:#002060'>Collaborates with the patient and other members of the health
-  care team to develop and update a plan of care based on the patient’s
+  care team to develop and update a plan of care based on the patientï¿½s
   physical, psychological changes and age-related requirements.</span></p>
   </td>
   <td width=60 style='width:45.05pt;border-top:none;border-left:none;
@@ -1380,7 +1383,7 @@ normal'><span lang=EN-US style='font-size:9.0pt;font-family:Montserrat'>&nbsp;</
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=EN-US style='font-size:8.0pt;font-family:Montserrat;
   color:#002060'>Provides total direct care which consists of the plan of care
-  and needs of the patients with respect to the patient’s privacy dignity and
+  and needs of the patients with respect to the patientï¿½s privacy dignity and
   personal preference and culture.</span></p>
   </td>
   <td width=60 style='width:45.05pt;border-top:none;border-left:none;
@@ -1427,7 +1430,7 @@ normal'><span lang=EN-US style='font-size:9.0pt;font-family:Montserrat'>&nbsp;</
   padding:0cm 5.4pt 0cm 5.4pt;height:22.0pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=EN-US style='font-size:8.0pt;font-family:Montserrat;
-  color:#002060'>Carries out physician’s orders and reviews orders for accuracy
+  color:#002060'>Carries out physicianï¿½s orders and reviews orders for accuracy
   and carried out in timely manner.</span></p>
   </td>
   <td width=60 style='width:45.05pt;border-top:none;border-left:none;
@@ -1573,7 +1576,7 @@ normal'><span lang=EN-US style='font-size:9.0pt;font-family:Montserrat'>&nbsp;</
   normal'><span lang=EN-US style='font-size:8.0pt;font-family:Montserrat;
   color:#002060'>Teaches patients and their families with emphasis on
   compliance with prescribed therapeutic regimen, supports families in meeting
-  the patient’s psychological needs.</span></p>
+  the patientï¿½s psychological needs.</span></p>
   </td>
   <td width=60 style='width:45.05pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1698,7 +1701,7 @@ normal'><span lang=EN-US style='font-size:9.0pt;font-family:Montserrat'>&nbsp;</
   padding:0cm 5.4pt 0cm 5.4pt;height:22.9pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=EN-US style='font-size:8.0pt;font-family:Montserrat;
-  color:#002060'>                                             </span></p>
+  color:#002060'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span></p>
   </td>
  </tr>
  <tr style='height:22.8pt'>
@@ -1735,28 +1738,28 @@ normal'><span lang=EN-US style='font-size:9.0pt;font-family:Montserrat'>&nbsp;</
   in THHC.</span></p>
   <p class=MsoListParagraphCxSpFirst style='margin-bottom:0cm;margin-bottom:
   .0001pt;text-indent:-18.0pt;line-height:normal'><span lang=EN-US
-  style='font-size:8.0pt;font-family:Symbol;color:#002060'>·<span
+  style='font-size:8.0pt;font-family:Symbol;color:#002060'>ï¿½<span
   style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span dir=LTR></span><span lang=EN-US style='font-size:8.0pt;
-  font-family:Montserrat;color:#002060'>Salbutamol (Ventolin ®) Inhaler</span></p>
+  font-family:Montserrat;color:#002060'>Salbutamol (Ventolin ï¿½) Inhaler</span></p>
   <p class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;margin-bottom:
   .0001pt;text-indent:-18.0pt;line-height:normal'><span lang=EN-US
-  style='font-size:8.0pt;font-family:Symbol;color:#002060'>·<span
+  style='font-size:8.0pt;font-family:Symbol;color:#002060'>ï¿½<span
   style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span dir=LTR></span><span lang=EN-US style='font-size:8.0pt;
-  font-family:Montserrat;color:#002060'>Hydrocortisone inj 100mg/2ml  </span></p>
+  font-family:Montserrat;color:#002060'>Hydrocortisone inj 100mg/2mlï¿½ </span></p>
   <p class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;margin-bottom:
   .0001pt;text-indent:-18.0pt;line-height:normal'><span lang=EN-US
-  style='font-size:8.0pt;font-family:Symbol;color:#002060'>·<span
+  style='font-size:8.0pt;font-family:Symbol;color:#002060'>ï¿½<span
   style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span dir=LTR></span><span lang=EN-US style='font-size:8.0pt;
   font-family:Montserrat;color:#002060'>Adrenaline ampoule 1mg/1ml</span></p>
   <p class=MsoListParagraphCxSpLast style='margin-bottom:0cm;margin-bottom:
   .0001pt;text-indent:-18.0pt;line-height:normal'><span lang=EN-US
-  style='font-size:8.0pt;font-family:Symbol;color:#002060'>·<span
+  style='font-size:8.0pt;font-family:Symbol;color:#002060'>ï¿½<span
   style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span dir=LTR></span><span lang=EN-US style='font-size:8.0pt;
-  font-family:Montserrat;color:#002060'>Chlorpheniramine ampoule (Allerfin ®)
+  font-family:Montserrat;color:#002060'>Chlorpheniramine ampoule (Allerfin ï¿½)
   10mg/1ml</span></p>
   </td>
   <td width=60 nowrap style='width:45.05pt;border-top:none;border-left:none;
@@ -1783,49 +1786,49 @@ normal'><span lang=EN-US style='font-size:9.0pt;font-family:Montserrat'>&nbsp;</
   color:#002060'>Efficiency in operating the following equipment and devices.</span></p>
   <p class=MsoListParagraphCxSpFirst style='margin-bottom:0cm;margin-bottom:
   .0001pt;text-indent:-18.0pt;line-height:normal'><span lang=EN-US
-  style='font-size:8.0pt;font-family:Symbol;color:#002060'>·<span
+  style='font-size:8.0pt;font-family:Symbol;color:#002060'>ï¿½<span
   style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span dir=LTR></span><span lang=EN-US style='font-size:8.0pt;
   font-family:Montserrat;color:#002060'>ECG machines</span></p>
   <p class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;margin-bottom:
   .0001pt;text-indent:-18.0pt;line-height:normal'><span lang=EN-US
-  style='font-size:8.0pt;font-family:Symbol;color:#002060'>·<span
+  style='font-size:8.0pt;font-family:Symbol;color:#002060'>ï¿½<span
   style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span dir=LTR></span><span lang=EN-US style='font-size:8.0pt;
   font-family:Montserrat;color:#002060'>Infusion pumps</span></p>
   <p class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;margin-bottom:
   .0001pt;text-indent:-18.0pt;line-height:normal'><span lang=EN-US
-  style='font-size:8.0pt;font-family:Symbol;color:#002060'>·<span
+  style='font-size:8.0pt;font-family:Symbol;color:#002060'>ï¿½<span
   style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span dir=LTR></span><span lang=EN-US style='font-size:8.0pt;
   font-family:Montserrat;color:#002060'>TENS</span></p>
   <p class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;margin-bottom:
   .0001pt;text-indent:-18.0pt;line-height:normal'><span lang=EN-US
-  style='font-size:8.0pt;font-family:Symbol;color:#002060'>·<span
+  style='font-size:8.0pt;font-family:Symbol;color:#002060'>ï¿½<span
   style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span dir=LTR></span><span lang=EN-US style='font-size:8.0pt;
   font-family:Montserrat;color:#002060'>Sphygmomanometer</span></p>
   <p class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;margin-bottom:
   .0001pt;text-indent:-18.0pt;line-height:normal'><span lang=EN-US
-  style='font-size:8.0pt;font-family:Symbol;color:#002060'>·<span
+  style='font-size:8.0pt;font-family:Symbol;color:#002060'>ï¿½<span
   style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span dir=LTR></span><span lang=EN-US style='font-size:8.0pt;
   font-family:Montserrat;color:#002060'>Thermometer</span></p>
   <p class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;margin-bottom:
   .0001pt;text-indent:-18.0pt;line-height:normal'><span lang=EN-US
-  style='font-size:8.0pt;font-family:Symbol;color:#002060'>·<span
+  style='font-size:8.0pt;font-family:Symbol;color:#002060'>ï¿½<span
   style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span dir=LTR></span><span lang=EN-US style='font-size:8.0pt;
   font-family:Montserrat;color:#002060'>pulse oximeter</span></p>
   <p class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;margin-bottom:
   .0001pt;text-indent:-18.0pt;line-height:normal'><span lang=EN-US
-  style='font-size:8.0pt;font-family:Symbol;color:#002060'>·<span
+  style='font-size:8.0pt;font-family:Symbol;color:#002060'>ï¿½<span
   style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span dir=LTR></span><span lang=EN-US style='font-size:8.0pt;
   font-family:Montserrat;color:#002060'>Glucometer</span></p>
   <p class=MsoListParagraphCxSpLast style='margin-bottom:0cm;margin-bottom:
   .0001pt;text-indent:-18.0pt;line-height:normal'><span lang=EN-US
-  style='font-size:8.0pt;font-family:Symbol;color:#002060'>·<span
+  style='font-size:8.0pt;font-family:Symbol;color:#002060'>ï¿½<span
   style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span dir=LTR></span><span lang=EN-US style='font-size:8.0pt;
   font-family:Montserrat;color:#002060'>Thumber (massager) machine</span></p>
@@ -2035,11 +2038,11 @@ normal'><span lang=EN-US style='font-size:9.0pt;font-family:Montserrat'>&nbsp;</
   border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:21.1pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><b><span lang=EN-US style='font-size:10.0pt;font-family:Montserrat'>Level
-  supervisor/manager Score    </span></b><span lang=EN-US style='font-size:
-  10.0pt;font-family:Montserrat'>Actual PA Score: (        )        <b> (</b>Actual
-  PA Score/160) x 100  = </span></p>
+  supervisor/manager Scoreï¿½ï¿½ï¿½ </span></b><span lang=EN-US style='font-size:
+  10.0pt;font-family:Montserrat'>Actual PA Score: (ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ )ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ <b>ï¿½(</b>Actual
+  PA Score/160) x 100ï¿½ = </span></p>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span lang=EN-US style='font-size:10.0pt;font-family:Montserrat'>                                                                                                                                       
+  normal'><span lang=EN-US style='font-size:10.0pt;font-family:Montserrat'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
   </span></p>
   </td>
   <td width=120 valign=top style='width:90.0pt;border-top:none;border-left:

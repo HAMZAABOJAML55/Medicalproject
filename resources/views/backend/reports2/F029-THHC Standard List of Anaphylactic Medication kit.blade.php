@@ -1,9 +1,5 @@
-<html xmlns:v="urn:schemas-microsoft-com:vml"
-xmlns:o="urn:schemas-microsoft-com:office:office"
-xmlns:w="urn:schemas-microsoft-com:office:word"
-xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
-xmlns="http://www.w3.org/TR/REC-html40">
-
+<!DOCTYPE html>
+<html lang="en">
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=windows-1252">
 <meta name=ProgId content=Word.Document>
@@ -13,667 +9,10 @@ xmlns="http://www.w3.org/TR/REC-html40">
 href="F029-THHC%20Standard%20List%20of%20Anaphylactic%20Medication%20kit.files/filelist.xml">
 <link rel=Edit-Time-Data
 href="F029-THHC%20Standard%20List%20of%20Anaphylactic%20Medication%20kit.files/editdata.mso">
-<!--[if !mso]>
+<title>F029-THHC Standard List of Anaphylactic Medication kit| @yield('title')</title>
+
 <style>
-v\:* {behavior:url(#default#VML);}
-o\:* {behavior:url(#default#VML);}
-w\:* {behavior:url(#default#VML);}
-.shape {behavior:url(#default#VML);}
-</style>
-<![endif]-->
-<title>Heparin SQ – Anticoagulation Therapy</title>
-<!--[if gte mso 9]><xml>
- <o:DocumentProperties>
-  <o:Author>User</o:Author>
-  <o:LastAuthor>HAMZA AL HELOU</o:LastAuthor>
-  <o:Revision>2</o:Revision>
-  <o:TotalTime>99</o:TotalTime>
-  <o:LastPrinted>2004-01-27T07:09:00Z</o:LastPrinted>
-  <o:Created>2023-07-17T13:56:00Z</o:Created>
-  <o:LastSaved>2023-07-17T13:56:00Z</o:LastSaved>
-  <o:Pages>1</o:Pages>
-  <o:Words>947</o:Words>
-  <o:Characters>5399</o:Characters>
-  <o:Company> </o:Company>
-  <o:Lines>44</o:Lines>
-  <o:Paragraphs>12</o:Paragraphs>
-  <o:CharactersWithSpaces>6334</o:CharactersWithSpaces>
-  <o:Version>16.00</o:Version>
- </o:DocumentProperties>
- <o:OfficeDocumentSettings>
-  <o:AllowPNG/>
- </o:OfficeDocumentSettings>
-</xml><![endif]-->
-<link rel=themeData
-href="F029-THHC%20Standard%20List%20of%20Anaphylactic%20Medication%20kit.files/themedata.thmx">
-<link rel=colorSchemeMapping
-href="F029-THHC%20Standard%20List%20of%20Anaphylactic%20Medication%20kit.files/colorschememapping.xml">
-<!--[if gte mso 9]><xml>
- <w:WordDocument>
-  <w:SpellingState>Clean</w:SpellingState>
-  <w:GrammarState>Clean</w:GrammarState>
-  <w:TrackMoves>false</w:TrackMoves>
-  <w:TrackFormatting/>
-  <w:ValidateAgainstSchemas/>
-  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
-  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
-  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
-  <w:DoNotPromoteQF/>
-  <w:LidThemeOther>EN-GB</w:LidThemeOther>
-  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
-  <w:LidThemeComplexScript>AR-SA</w:LidThemeComplexScript>
-  <w:Compatibility>
-   <w:SelectEntireFieldWithStartOrEnd/>
-   <w:ApplyBreakingRules/>
-   <w:UseWord2002TableStyleRules/>
-   <w:UseWord2010TableStyleRules/>
-   <w:DontUseIndentAsNumberingTabStop/>
-   <w:FELineBreak11/>
-   <w:WW11IndentRules/>
-   <w:DontAutofitConstrainedTables/>
-   <w:AutofitLikeWW11/>
-   <w:UnderlineTabInNumList/>
-   <w:HangulWidthLikeWW11/>
-   <w:UseNormalStyleForList/>
-   <w:DontVertAlignCellWithSp/>
-   <w:DontBreakConstrainedForcedTables/>
-   <w:DontVertAlignInTxbx/>
-   <w:Word11KerningPairs/>
-   <w:CachedColBalance/>
-  </w:Compatibility>
-  <m:mathPr>
-   <m:mathFont m:val="Cambria Math"/>
-   <m:brkBin m:val="before"/>
-   <m:brkBinSub m:val="&#45;-"/>
-   <m:smallFrac m:val="off"/>
-   <m:dispDef/>
-   <m:lMargin m:val="0"/>
-   <m:rMargin m:val="0"/>
-   <m:defJc m:val="centerGroup"/>
-   <m:wrapIndent m:val="1440"/>
-   <m:intLim m:val="subSup"/>
-   <m:naryLim m:val="undOvr"/>
-  </m:mathPr></w:WordDocument>
-</xml><![endif]--><!--[if gte mso 9]><xml>
- <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
-  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
-  LatentStyleCount="376">
-  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 5"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 6"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 8"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 6"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 7"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 8"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 9"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 1"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 2"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 3"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 4"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 5"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 6"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 7"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 8"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 9"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Normal Indent"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="footnote text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="annotation text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="header"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="footer"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index heading"/>
-  <w:LsdException Locked="false" Priority="35" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="caption"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="table of figures"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="envelope address"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="envelope return"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="footnote reference"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="annotation reference"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="line number"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="page number"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="endnote reference"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="endnote text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="table of authorities"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="macro"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="toa heading"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number 5"/>
-  <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Closing"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Signature"/>
-  <w:LsdException Locked="false" Priority="0" SemiHidden="true"
-   UnhideWhenUsed="true" Name="Default Paragraph Font"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text Indent"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Message Header"/>
-  <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Salutation"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Date"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text First Indent"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text First Indent 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Note Heading"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text Indent 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text Indent 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Block Text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Hyperlink"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="FollowedHyperlink"/>
-  <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
-  <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Document Map"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Plain Text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="E-mail Signature"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Top of Form"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Bottom of Form"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Normal (Web)"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Acronym"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Address"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Cite"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Code"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Definition"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Keyboard"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Preformatted"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Sample"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Typewriter"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Variable"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Normal Table"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="annotation subject"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="No List"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Outline List 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Outline List 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Outline List 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Simple 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Simple 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Simple 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Classic 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Classic 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Classic 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Classic 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Colorful 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Colorful 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Colorful 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 6"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 7"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 8"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 6"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 7"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 8"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table 3D effects 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table 3D effects 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table 3D effects 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Contemporary"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Elegant"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Professional"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Subtle 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Subtle 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Web 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Web 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Web 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Balloon Text"/>
-  <w:LsdException Locked="false" Priority="39" Name="Table Grid"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Theme"/>
-  <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
-  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" Name="Revision"/>
-  <w:LsdException Locked="false" Priority="34" QFormat="true"
-   Name="List Paragraph"/>
-  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
-  <w:LsdException Locked="false" Priority="30" QFormat="true"
-   Name="Intense Quote"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
-  <w:LsdException Locked="false" Priority="19" QFormat="true"
-   Name="Subtle Emphasis"/>
-  <w:LsdException Locked="false" Priority="21" QFormat="true"
-   Name="Intense Emphasis"/>
-  <w:LsdException Locked="false" Priority="31" QFormat="true"
-   Name="Subtle Reference"/>
-  <w:LsdException Locked="false" Priority="32" QFormat="true"
-   Name="Intense Reference"/>
-  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
-  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
-   UnhideWhenUsed="true" Name="Bibliography"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
-  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
-  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
-  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
-  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
-  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
-  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
-  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
-  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
-  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 1"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 1"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 1"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 2"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 2"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 2"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 3"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 3"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 3"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 4"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 4"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 4"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 5"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 5"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 5"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 6"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 6"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 6"/>
-  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
-  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
-  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 1"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 1"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 1"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 2"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 2"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 2"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 3"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 3"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 3"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 4"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 4"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 4"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 5"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 5"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 5"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 6"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 6"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 6"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Mention"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Smart Hyperlink"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Hashtag"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Unresolved Mention"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Smart Link"/>
- </w:LatentStyles>
-</xml><![endif]-->
-<style>
-<!--
+
  /* Font Definitions */
  @font-face
 	{font-family:Wingdings;
@@ -2510,12 +1849,8 @@ ul
 	font-size:10.0pt;
 	font-family:"Times New Roman",serif;}
 </style>
-<![endif]--><!--[if gte mso 9]><xml>
- <o:shapedefaults v:ext="edit" spidmax="2050"/>
-</xml><![endif]--><!--[if gte mso 9]><xml>
- <o:shapelayout v:ext="edit">
-  <o:idmap v:ext="edit" data="1"/>
- </o:shapelayout></xml><![endif]-->
+@yield('styles')
+
 </head>
 
 <body lang=EN-GB style='tab-interval:36.0pt'>
@@ -2573,12 +1908,12 @@ style='font-size:14.0pt;font-family:Montserrat;mso-ansi-language:EN-US'><o:p>&nb
 
 <p class=MsoNormal style='margin-left:18.0pt'><span lang=EN-US
 style='font-size:14.0pt;font-family:Montserrat;mso-ansi-language:EN-US'><span
-style='mso-tab-count:1'>      </span>A – intrinsic activation<o:p></o:p></span></p>
+style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ </span>A ï¿½ intrinsic activation<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:72.0pt;text-indent:-18.0pt;mso-list:l12 level2 lfo1;
 tab-stops:list 72.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 14.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>·<span
+Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>ï¿½<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
 dir=LTR></span><span lang=EN-US style='font-size:14.0pt;font-family:Montserrat;
 mso-ansi-language:EN-US'>Problems or substances within the blood itself that <span
@@ -2586,48 +1921,48 @@ class=GramE>cause</span> platelet plug formation and cascade activation: <o:p></
 
 <p class=MsoNormal style='margin-left:54.0pt'><span lang=EN-US
 style='font-size:14.0pt;font-family:Montserrat;mso-ansi-language:EN-US'><span
-style='mso-tab-count:2'>                  </span>Antigen-antibody reactions<o:p></o:p></span></p>
+style='mso-tab-count:2'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span>Antigen-antibody reactions<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:54.0pt'><span lang=EN-US
 style='font-size:14.0pt;font-family:Montserrat;mso-ansi-language:EN-US'><span
-style='mso-tab-count:2'>                  </span>Circulating debris<o:p></o:p></span></p>
+style='mso-tab-count:2'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span>Circulating debris<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:54.0pt'><span lang=EN-US
 style='font-size:14.0pt;font-family:Montserrat;mso-ansi-language:EN-US'><span
-style='mso-tab-count:2'>                  </span>Prolonged venous stasis<o:p></o:p></span></p>
+style='mso-tab-count:2'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span>Prolonged venous stasis<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:54.0pt'><span lang=EN-US
 style='font-size:14.0pt;font-family:Montserrat;mso-ansi-language:EN-US'><span
-style='mso-tab-count:2'>                  </span>Bacterial endotoxins<o:p></o:p></span></p>
+style='mso-tab-count:2'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span>Bacterial endotoxins<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:54.0pt'><span lang=EN-US
 style='font-size:14.0pt;font-family:Montserrat;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='margin-left:54.0pt;text-indent:-18.0pt'><span
 lang=EN-US style='font-size:14.0pt;font-family:Montserrat;mso-ansi-language:
-EN-US'>B – extrinsic activation<o:p></o:p></span></p>
+EN-US'>B ï¿½ extrinsic activation<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:72.0pt;text-indent:-18.0pt;mso-list:l12 level2 lfo1;
 tab-stops:list 72.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 14.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>·<span
+Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>ï¿½<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
 dir=LTR></span><span lang=EN-US style='font-size:14.0pt;font-family:Montserrat;
 mso-ansi-language:EN-US'>Results in changes in the blood vessel walls:<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:54.0pt'><span lang=EN-US
 style='font-size:14.0pt;font-family:Montserrat;mso-ansi-language:EN-US'><span
-style='mso-tab-count:2'>                  </span>Tissue and/or blood vessel
+style='mso-tab-count:2'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span>Tissue and/or blood vessel
 trauma<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:54.0pt'><span lang=EN-US
 style='font-size:14.0pt;font-family:Montserrat;mso-ansi-language:EN-US'><span
-style='mso-tab-count:2'>                  </span>Atherosclerosis (plaque on
+style='mso-tab-count:2'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span>Atherosclerosis (plaque on
 vessel intima)<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:54.0pt'><span lang=EN-US
 style='font-size:14.0pt;font-family:Montserrat;mso-ansi-language:EN-US'><span
-style='mso-tab-count:2'>                  </span>Arteriosclerosis (hardening of
+style='mso-tab-count:2'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span>Arteriosclerosis (hardening of
 vessel walls)<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:54.0pt'><span lang=EN-US
@@ -2647,17 +1982,17 @@ EN-US'>Formation of a complete fibrin clot:<o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='margin-left:18.0pt'><b><span lang=EN-US
 style='font-size:14.0pt;font-family:Montserrat;mso-ansi-language:EN-US'><span
-style='mso-tab-count:1'>      </span><span style='mso-spacerun:yes'> </span><span
-style='mso-spacerun:yes'>  </span></span></b><span lang=EN-US style='font-size:
+style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ </span><span style='mso-spacerun:yes'>ï¿½</span><span
+style='mso-spacerun:yes'>ï¿½ </span></span></b><span lang=EN-US style='font-size:
 14.0pt;font-family:Montserrat;mso-ansi-language:EN-US'>Clotting factors
 produced in the liver<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:18.0pt'><span lang=EN-US
 style='font-size:14.0pt;font-family:Montserrat;mso-ansi-language:EN-US'><span
-style='mso-tab-count:1'>      </span><span style='mso-spacerun:yes'>  
+style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ </span><span style='mso-spacerun:yes'>ï¿½ï¿½
 </span>Thrombin transforms fibrinogen into fibrin to make lattice-like <span
-style='mso-tab-count:1'>      </span><span
-style='mso-spacerun:yes'>   </span>mesh<o:p></o:p></span></p>
+style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ </span><span
+style='mso-spacerun:yes'>ï¿½ï¿½ï¿½</span>mesh<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:18.0pt'><span lang=EN-US
 style='font-size:14.0pt;font-family:Montserrat;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></p>
@@ -2694,12 +2029,12 @@ tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 Montserrat;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>1.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
 dir=LTR></span><span lang=EN-US style='font-size:14.0pt;font-family:Montserrat;
-mso-ansi-language:EN-US'>Virchow’s Triad (pro-coagulative factors)<o:p></o:p></span></p>
+mso-ansi-language:EN-US'>Virchowï¿½s Triad (pro-coagulative factors)<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:72.0pt;text-indent:-18.0pt;mso-list:l6 level2 lfo2;
 tab-stops:list 72.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 14.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>·<span
+Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>ï¿½<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
 dir=LTR></span><span lang=EN-US style='font-size:14.0pt;font-family:Montserrat;
 mso-ansi-language:EN-US'>Blood stasis<o:p></o:p></span></p>
@@ -2707,7 +2042,7 @@ mso-ansi-language:EN-US'>Blood stasis<o:p></o:p></span></p>
 <p class=MsoNormal style='margin-left:72.0pt;text-indent:-18.0pt;mso-list:l6 level2 lfo2;
 tab-stops:list 72.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 14.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>·<span
+Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>ï¿½<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
 dir=LTR></span><span lang=EN-US style='font-size:14.0pt;font-family:Montserrat;
 mso-ansi-language:EN-US'>Vessel wall damage<o:p></o:p></span></p>
@@ -2715,7 +2050,7 @@ mso-ansi-language:EN-US'>Vessel wall damage<o:p></o:p></span></p>
 <p class=MsoNormal style='margin-left:72.0pt;text-indent:-18.0pt;mso-list:l6 level2 lfo2;
 tab-stops:list 72.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 14.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>·<span
+Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>ï¿½<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
 dir=LTR></span><span lang=EN-US style='font-size:14.0pt;font-family:Montserrat;
 mso-ansi-language:EN-US'>Hypercoagulability<o:p></o:p></span></p>
@@ -2734,7 +2069,7 @@ mso-ansi-language:EN-US'>Indications to the development of thrombi/thromboemboli
 <p class=MsoNormal style='margin-left:72.0pt;text-indent:-18.0pt;mso-list:l6 level2 lfo2;
 tab-stops:list 72.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 14.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>·<span
+Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>ï¿½<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
 dir=LTR></span><span lang=EN-US style='font-size:14.0pt;font-family:Montserrat;
 mso-ansi-language:EN-US'>Recent surgery<o:p></o:p></span></p>
@@ -2742,7 +2077,7 @@ mso-ansi-language:EN-US'>Recent surgery<o:p></o:p></span></p>
 <p class=MsoNormal style='margin-left:72.0pt;text-indent:-18.0pt;mso-list:l6 level2 lfo2;
 tab-stops:list 72.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 14.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>·<span
+Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>ï¿½<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
 dir=LTR></span><span lang=EN-US style='font-size:14.0pt;font-family:Montserrat;
 mso-ansi-language:EN-US'>Dehydration<o:p></o:p></span></p>
@@ -2750,7 +2085,7 @@ mso-ansi-language:EN-US'>Dehydration<o:p></o:p></span></p>
 <p class=MsoNormal style='margin-left:72.0pt;text-indent:-18.0pt;mso-list:l6 level2 lfo2;
 tab-stops:list 72.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 14.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>·<span
+Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>ï¿½<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
 dir=LTR></span><span lang=EN-US style='font-size:14.0pt;font-family:Montserrat;
 mso-ansi-language:EN-US'>Prolonged immobility, paralysis, or stroke<o:p></o:p></span></p>
@@ -2758,7 +2093,7 @@ mso-ansi-language:EN-US'>Prolonged immobility, paralysis, or stroke<o:p></o:p></
 <p class=MsoNormal style='margin-left:72.0pt;text-indent:-18.0pt;mso-list:l6 level2 lfo2;
 tab-stops:list 72.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 14.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>·<span
+Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>ï¿½<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
 dir=LTR></span><span lang=EN-US style='font-size:14.0pt;font-family:Montserrat;
 mso-ansi-language:EN-US'>Varicose veins<o:p></o:p></span></p>
@@ -2766,7 +2101,7 @@ mso-ansi-language:EN-US'>Varicose veins<o:p></o:p></span></p>
 <p class=MsoNormal style='margin-left:72.0pt;text-indent:-18.0pt;mso-list:l6 level2 lfo2;
 tab-stops:list 72.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 14.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>·<span
+Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>ï¿½<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
 dir=LTR></span><span lang=EN-US style='font-size:14.0pt;font-family:Montserrat;
 mso-ansi-language:EN-US'>Indwelling central catheters<o:p></o:p></span></p>
@@ -2774,7 +2109,7 @@ mso-ansi-language:EN-US'>Indwelling central catheters<o:p></o:p></span></p>
 <p class=MsoNormal style='margin-left:72.0pt;text-indent:-18.0pt;mso-list:l6 level2 lfo2;
 tab-stops:list 72.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 14.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>·<span
+Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>ï¿½<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
 dir=LTR></span><span lang=EN-US style='font-size:14.0pt;font-family:Montserrat;
 mso-ansi-language:EN-US'>Obesity<o:p></o:p></span></p>
@@ -2782,7 +2117,7 @@ mso-ansi-language:EN-US'>Obesity<o:p></o:p></span></p>
 <p class=MsoNormal style='margin-left:72.0pt;text-indent:-18.0pt;mso-list:l6 level2 lfo2;
 tab-stops:list 72.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 14.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>·<span
+Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>ï¿½<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
 dir=LTR></span><span lang=EN-US style='font-size:14.0pt;font-family:Montserrat;
 mso-ansi-language:EN-US'>Pregnancy (up to 2 months postpartum)<o:p></o:p></span></p>
@@ -2790,7 +2125,7 @@ mso-ansi-language:EN-US'>Pregnancy (up to 2 months postpartum)<o:p></o:p></span>
 <p class=MsoNormal style='margin-left:72.0pt;text-indent:-18.0pt;mso-list:l6 level2 lfo2;
 tab-stops:list 72.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 14.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>·<span
+Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>ï¿½<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
 dir=LTR></span><span lang=EN-US style='font-size:14.0pt;font-family:Montserrat;
 mso-ansi-language:EN-US'>Malignancy <o:p></o:p></span></p>
@@ -2798,7 +2133,7 @@ mso-ansi-language:EN-US'>Malignancy <o:p></o:p></span></p>
 <p class=MsoNormal style='margin-left:72.0pt;text-indent:-18.0pt;mso-list:l6 level2 lfo2;
 tab-stops:list 72.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 14.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>·<span
+Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>ï¿½<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
 dir=LTR></span><span lang=EN-US style='font-size:14.0pt;font-family:Montserrat;
 mso-ansi-language:EN-US'>Previous history of DVT or PE<o:p></o:p></span></p>
@@ -2806,7 +2141,7 @@ mso-ansi-language:EN-US'>Previous history of DVT or PE<o:p></o:p></span></p>
 <p class=MsoNormal style='margin-left:72.0pt;text-indent:-18.0pt;mso-list:l6 level2 lfo2;
 tab-stops:list 72.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 14.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>·<span
+Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>ï¿½<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
 dir=LTR></span><span lang=EN-US style='font-size:14.0pt;font-family:Montserrat;
 mso-ansi-language:EN-US'>Fracture<o:p></o:p></span></p>
@@ -2814,7 +2149,7 @@ mso-ansi-language:EN-US'>Fracture<o:p></o:p></span></p>
 <p class=MsoNormal style='margin-left:72.0pt;text-indent:-18.0pt;mso-list:l6 level2 lfo2;
 tab-stops:list 72.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 14.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>·<span
+Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>ï¿½<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
 dir=LTR></span><span lang=EN-US style='font-size:14.0pt;font-family:Montserrat;
 mso-ansi-language:EN-US'>Heart failure<o:p></o:p></span></p>
@@ -2822,7 +2157,7 @@ mso-ansi-language:EN-US'>Heart failure<o:p></o:p></span></p>
 <p class=MsoNormal style='margin-left:72.0pt;text-indent:-18.0pt;mso-list:l6 level2 lfo2;
 tab-stops:list 72.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 14.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>·<span
+Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>ï¿½<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
 dir=LTR></span><span lang=EN-US style='font-size:14.0pt;font-family:Montserrat;
 mso-ansi-language:EN-US'>Travel<o:p></o:p></span></p>
@@ -2830,7 +2165,7 @@ mso-ansi-language:EN-US'>Travel<o:p></o:p></span></p>
 <p class=MsoNormal style='margin-left:72.0pt;text-indent:-18.0pt;mso-list:l6 level2 lfo2;
 tab-stops:list 72.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 14.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>·<span
+Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>ï¿½<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
 dir=LTR></span><span lang=EN-US style='font-size:14.0pt;font-family:Montserrat;
 mso-ansi-language:EN-US'>Oral contraceptive use<o:p></o:p></span></p>
@@ -2838,7 +2173,7 @@ mso-ansi-language:EN-US'>Oral contraceptive use<o:p></o:p></span></p>
 <p class=MsoNormal style='margin-left:72.0pt;text-indent:-18.0pt;mso-list:l6 level2 lfo2;
 tab-stops:list 72.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 14.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>·<span
+Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>ï¿½<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
 dir=LTR></span><span lang=EN-US style='font-size:14.0pt;font-family:Montserrat;
 mso-ansi-language:EN-US'>Over age 40 (risk increase with age)<o:p></o:p></span></p>
@@ -2846,7 +2181,7 @@ mso-ansi-language:EN-US'>Over age 40 (risk increase with age)<o:p></o:p></span><
 <p class=MsoNormal style='margin-left:72.0pt;text-indent:-18.0pt;mso-list:l6 level2 lfo2;
 tab-stops:list 72.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 14.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>·<span
+Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>ï¿½<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
 dir=LTR></span><span lang=EN-US style='font-size:14.0pt;font-family:Montserrat;
 mso-ansi-language:EN-US'>Chronic respiratory failure<o:p></o:p></span></p>
@@ -2865,7 +2200,7 @@ mso-ansi-language:EN-US'>Patient history <o:p></o:p></span></p>
 <p class=MsoNormal style='margin-left:72.0pt;text-indent:-18.0pt;mso-list:l6 level2 lfo2;
 tab-stops:list 72.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 14.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>·<span
+Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>ï¿½<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
 dir=LTR></span><span lang=EN-US style='font-size:14.0pt;font-family:Montserrat;
 mso-ansi-language:EN-US'>Thrombosis, first time age &lt;40 y/o<o:p></o:p></span></p>
@@ -2873,7 +2208,7 @@ mso-ansi-language:EN-US'>Thrombosis, first time age &lt;40 y/o<o:p></o:p></span>
 <p class=MsoNormal style='margin-left:72.0pt;text-indent:-18.0pt;mso-list:l6 level2 lfo2;
 tab-stops:list 72.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 14.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>·<span
+Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>ï¿½<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
 dir=LTR></span><span lang=EN-US style='font-size:14.0pt;font-family:Montserrat;
 mso-ansi-language:EN-US'>Recurrent thrombosis<o:p></o:p></span></p>
@@ -2881,7 +2216,7 @@ mso-ansi-language:EN-US'>Recurrent thrombosis<o:p></o:p></span></p>
 <p class=MsoNormal style='margin-left:72.0pt;text-indent:-18.0pt;mso-list:l6 level2 lfo2;
 tab-stops:list 72.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 14.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>·<span
+Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>ï¿½<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
 dir=LTR></span><span lang=EN-US style='font-size:14.0pt;font-family:Montserrat;
 mso-ansi-language:EN-US'>Family history thrombosis<o:p></o:p></span></p>
@@ -2889,7 +2224,7 @@ mso-ansi-language:EN-US'>Family history thrombosis<o:p></o:p></span></p>
 <p class=MsoNormal style='margin-left:72.0pt;text-indent:-18.0pt;mso-list:l6 level2 lfo2;
 tab-stops:list 72.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 14.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>·<span
+Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>ï¿½<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
 dir=LTR></span><span lang=EN-US style='font-size:14.0pt;font-family:Montserrat;
 mso-ansi-language:EN-US'>Thrombosis in unusual locations (cerebral, hepatic,
@@ -2933,7 +2268,7 @@ mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></p>
 <p class=MsoNormal style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l10 level1 lfo4;
 tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 14.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>·<span
+Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>ï¿½<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
 dir=LTR></span><span lang=EN-US style='font-size:14.0pt;font-family:"Montserrat SemiBold";
 mso-ansi-language:EN-US'>Mechanism of action: <o:p></o:p></span></p>
@@ -2949,19 +2284,19 @@ style='font-size:14.0pt;font-family:Montserrat;mso-ansi-language:EN-US'><o:p>&nb
 <p class=MsoNormal style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l10 level1 lfo4;
 tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 14.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>·<span
+Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>ï¿½<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
 dir=LTR></span><span lang=EN-US style='font-size:14.0pt;font-family:"Montserrat SemiBold";
 mso-ansi-language:EN-US'>Administration:<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt;text-indent:-13.5pt'><span
 lang=EN-US style='font-size:14.0pt;font-family:Montserrat;mso-ansi-language:
-EN-US'><span style='mso-tab-count:1'>    </span>SQ injection only (never give
+EN-US'><span style='mso-tab-count:1'>ï¿½ï¿½ï¿½ </span>SQ injection only (never give
 IV) on the abdomen or thighs<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:18.0pt'><span lang=EN-US
 style='font-size:14.0pt;font-family:Montserrat;mso-ansi-language:EN-US'><span
-style='mso-tab-count:1'>      </span>Do not massage injection site after
+style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ </span>Do not massage injection site after
 administration<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:18.0pt'><span lang=EN-US
@@ -2970,7 +2305,7 @@ style='font-size:14.0pt;font-family:Montserrat;mso-ansi-language:EN-US'><o:p>&nb
 <p class=MsoNormal style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l10 level1 lfo4;
 tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 14.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>·<span
+Symbol;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>ï¿½<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
 dir=LTR></span><span lang=EN-US style='font-size:14.0pt;font-family:"Montserrat SemiBold";
 mso-ansi-language:EN-US'>Side effects:<o:p></o:p></span></p>
@@ -2982,18 +2317,18 @@ and notify MD immediately.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:18.0pt'><span lang=EN-US
 style='font-size:14.0pt;font-family:Montserrat;mso-ansi-language:EN-US'><span
-style='mso-tab-count:1'>      </span><span style='mso-spacerun:yes'>  </span><span
-style='mso-spacerun:yes'>  </span>-<span style='mso-spacerun:yes'> 
+style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ </span><span style='mso-spacerun:yes'>ï¿½ </span><span
+style='mso-spacerun:yes'>ï¿½ï¿½</span>-<span style='mso-spacerun:yes'>ï¿½
 </span>Anemia<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
 style='font-size:14.0pt;font-family:Montserrat;mso-ansi-language:EN-US'><span
-style='mso-spacerun:yes'>    </span>-<span style='mso-spacerun:yes'> 
+style='mso-spacerun:yes'>ï¿½ï¿½ï¿½ </span>-<span style='mso-spacerun:yes'>ï¿½
 </span>Thrombocytopenia<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
 style='font-size:14.0pt;font-family:Montserrat;mso-ansi-language:EN-US'><span
-style='mso-spacerun:yes'>    </span>-<span style='mso-spacerun:yes'> 
+style='mso-spacerun:yes'>ï¿½ï¿½ï¿½ </span>-<span style='mso-spacerun:yes'>ï¿½
 </span>May be allergenic<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
@@ -3022,7 +2357,7 @@ style='mso-list:Ignore'>-<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
 </span></span></span><![endif]><span dir=LTR></span><span class=SpellE><span
 lang=EN-US style='font-size:14.0pt;font-family:Montserrat;mso-ansi-language:
 EN-US'>Ginco</span></span><span lang=EN-US style='font-size:14.0pt;font-family:
-Montserrat;mso-ansi-language:EN-US'>-biloba (any herb or tea with a “b” in the
+Montserrat;mso-ansi-language:EN-US'>-biloba (any herb or tea with a ï¿½bï¿½ in the
 name will cause bleeding)<b><o:p></o:p></b></span></p>
 
 <p class=MsoNormal style='margin-left:72.0pt;text-indent:-18.0pt;mso-list:l17 level2 lfo7;
@@ -3046,7 +2381,7 @@ mso-ansi-language:EN-US'>Antidote:<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:18.0pt'><b><span lang=EN-US
 style='font-size:14.0pt;font-family:Montserrat;mso-ansi-language:EN-US'><span
-style='mso-tab-count:1'>      </span><span style='mso-spacerun:yes'>   </span></span></b><span
+style='mso-tab-count:1'>ï¿½ï¿½ï¿½ï¿½ï¿½ </span><span style='mso-spacerun:yes'>ï¿½ï¿½ </span></span></b><span
 lang=EN-US style='font-size:14.0pt;font-family:Montserrat;mso-ansi-language:
 EN-US'>Protamine sulfate (check for allergy to fish)<o:p></o:p></span></p>
 
@@ -3063,7 +2398,7 @@ mso-ansi-language:EN-US'>Laboratory:<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:18.0pt'><b><span lang=EN-US
 style='font-size:14.0pt;font-family:Montserrat;mso-ansi-language:EN-US'><span
-style='mso-tab-count:2'>                  </span></span></b><span class=SpellE><span
+style='mso-tab-count:2'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span></span></b><span class=SpellE><span
 lang=EN-US style='font-size:14.0pt;font-family:Montserrat;mso-ansi-language:
 EN-US'>aPTT</span></span><span lang=EN-US style='font-size:14.0pt;font-family:
 Montserrat;mso-ansi-language:EN-US'> as indicated (some believe it is not
@@ -3120,7 +2455,7 @@ Montserrat;mso-hansi-font-family:Montserrat;mso-ansi-language:EN-US;mso-char-typ
 symbol;mso-symbol-font-family:"Wingdings 2"'><span style='mso-char-type:symbol;
 mso-symbol-font-family:"Wingdings 2"'>&#151;</span></span></b><b><span
 lang=EN-US style='font-size:14.0pt;font-family:Montserrat;mso-ansi-language:
-EN-US'><span style='mso-spacerun:yes'>  </span></span></b><span lang=EN-US
+EN-US'><span style='mso-spacerun:yes'>ï¿½ </span></span></b><span lang=EN-US
 style='font-size:14.0pt;font-family:"Montserrat SemiBold";mso-ansi-language:
 EN-US'>Same mechanism of action, drug interactions and antidote</span><span
 lang=EN-US style='font-size:14.0pt;font-family:Montserrat;mso-ansi-language:
@@ -3203,7 +2538,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span dir=LTR></span><span lang=EN-US
 style='font-size:14.0pt;font-family:Montserrat;mso-ansi-language:EN-US'>Decreases
 vitamin K availability, which is necessary for some<span
-style='mso-spacerun:yes'>    </span>clotting factors to work<o:p></o:p></span></p>
+style='mso-spacerun:yes'>ï¿½ï¿½ï¿½ </span>clotting factors to work<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:14.0pt;font-family:Montserrat;
 mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></p>
@@ -3311,7 +2646,7 @@ tab-stops:list 72.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 style='mso-list:Ignore'>-<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span dir=LTR></span><span lang=EN-US
 style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:Montserrat;
-mso-ansi-language:EN-US'>Monitor PT and INR (should be 1.5 – 2x normal levels
+mso-ansi-language:EN-US'>Monitor PT and INR (should be 1.5 ï¿½ 2x normal levels
 for adequate therapy, never any higher)<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:14.0pt;mso-bidi-font-size:
@@ -3342,7 +2677,7 @@ tab-stops:list 54.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 Wingdings;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>&#159;<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
 dir=LTR></span><span lang=EN-US style='font-size:14.0pt;font-family:"Montserrat SemiBold";
-mso-ansi-language:EN-US'>“Coumadin diet”<o:p></o:p></span></p>
+mso-ansi-language:EN-US'>ï¿½Coumadin dietï¿½<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:72.0pt;text-indent:-18.0pt;mso-list:l17 level2 lfo7;
 tab-stops:list 72.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
@@ -3464,7 +2799,7 @@ style='mso-list:Ignore'>&#159;<span style='font:7.0pt "Times New Roman"'>&nbsp;
 style='font-size:14.0pt;font-family:"Montserrat SemiBold";mso-ansi-language:
 EN-US'>Normal range:</span><b><span lang=EN-US style='font-size:14.0pt;
 font-family:Montserrat;mso-ansi-language:EN-US'> </span></b><span lang=EN-US
-style='font-size:14.0pt;font-family:Montserrat;mso-ansi-language:EN-US'>11 – 15
+style='font-size:14.0pt;font-family:Montserrat;mso-ansi-language:EN-US'>11 ï¿½ 15
 sec.<b><o:p></o:p></b></span></p>
 
 <p class=MsoNormal style='margin-left:72.0pt;text-indent:-18.0pt;mso-list:l17 level2 lfo7;
@@ -3473,7 +2808,7 @@ tab-stops:list 72.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span dir=LTR></span><span lang=EN-US
 style='font-size:14.0pt;font-family:Montserrat;mso-ansi-language:EN-US'>may be
-prolonged 1.5 – 2x during appropriate warfarin therapy<o:p></o:p></span></p>
+prolonged 1.5 ï¿½ 2x during appropriate warfarin therapy<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:14.0pt;font-family:Montserrat;
 mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></p>
@@ -3562,7 +2897,7 @@ Wingdings;mso-bidi-font-family:Wingdings;mso-ansi-language:EN-US'><span
 style='mso-list:Ignore'>&#159;<span style='font:7.0pt "Times New Roman"'>&nbsp;
 </span></span></span><![endif]><span dir=LTR></span><span lang=EN-US
 style='font-size:14.0pt;font-family:Montserrat;mso-ansi-language:EN-US'>Calculated
-by dividing patient’s PT by the international accepted PT for that patient
+by dividing patientï¿½s PT by the international accepted PT for that patient
 (control)<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:54.0pt'><span lang=EN-US
@@ -3575,11 +2910,11 @@ Wingdings;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>&#159;<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
 dir=LTR></span><span lang=EN-US style='font-size:14.0pt;font-family:"Montserrat SemiBold";
 mso-ansi-language:EN-US'>Normal range</span><span lang=EN-US style='font-size:
-14.0pt;font-family:Montserrat;mso-ansi-language:EN-US'>: 0.7 – 1.8<o:p></o:p></span></p>
+14.0pt;font-family:Montserrat;mso-ansi-language:EN-US'>: 0.7 ï¿½ 1.8<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:72.0pt'><span lang=EN-US
 style='font-size:14.0pt;font-family:Montserrat;mso-ansi-language:EN-US'>- may
-range from 2.0 – 2.9 during appropriate </span><span lang=EN-US
+range from 2.0 ï¿½ 2.9 during appropriate </span><span lang=EN-US
 style='font-size:14.0pt;font-family:"Montserrat SemiBold";mso-ansi-language:
 EN-US'>warfarin</span><span lang=EN-US style='font-size:14.0pt;font-family:
 Montserrat;mso-ansi-language:EN-US'> therapy<o:p></o:p></span></p>
@@ -3636,11 +2971,11 @@ Wingdings;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>&#159;<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
 dir=LTR></span><span lang=EN-US style='font-size:14.0pt;font-family:"Montserrat SemiBold";
 mso-ansi-language:EN-US'>Normal range:</span><span lang=EN-US style='font-size:
-14.0pt;font-family:Montserrat;mso-ansi-language:EN-US'> 22 – 32 sec.<o:p></o:p></span></p>
+14.0pt;font-family:Montserrat;mso-ansi-language:EN-US'> 22 ï¿½ 32 sec.<o:p></o:p></span></p>
 
 <p class=MsoBodyTextIndent><span lang=EN-US style='font-family:Montserrat'><span
-style='mso-spacerun:yes'>  </span>- may range from 1.5 – 2.5x this value during
-appropriate<span style='mso-spacerun:yes'>       </span>heparin therapy<o:p></o:p></span></p>
+style='mso-spacerun:yes'>ï¿½ </span>- may range from 1.5 ï¿½ 2.5x this value during
+appropriate<span style='mso-spacerun:yes'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ </span>heparin therapy<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:14.0pt;font-family:Montserrat;
 mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></p>
@@ -3655,18 +2990,18 @@ EN-US'>Increased<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:54.0pt'><span lang=EN-US
 style='font-size:14.0pt;font-family:Montserrat;mso-ansi-language:EN-US'><span
-style='mso-spacerun:yes'>     </span>- bleeding disorders (hemophilia)<o:p></o:p></span></p>
+style='mso-spacerun:yes'>ï¿½ï¿½ï¿½ï¿½ </span>- bleeding disorders (hemophilia)<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:72.0pt'><span lang=EN-US
 style='font-size:14.0pt;font-family:Montserrat;mso-ansi-language:EN-US'>- DIC<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:54.0pt'><span lang=EN-US
 style='font-size:14.0pt;font-family:Montserrat;mso-ansi-language:EN-US'><span
-style='mso-spacerun:yes'>     </span>- liver disease<o:p></o:p></span></p>
+style='mso-spacerun:yes'>ï¿½ï¿½ï¿½ï¿½ </span>- liver disease<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:54.0pt'><span lang=EN-US
 style='font-size:14.0pt;font-family:Montserrat;mso-ansi-language:EN-US'><span
-style='mso-spacerun:yes'>     </span>- during heparin therapy<o:p></o:p></span></p>
+style='mso-spacerun:yes'>ï¿½ï¿½ï¿½ï¿½ </span>- during heparin therapy<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:54.0pt'><span lang=EN-US
 style='font-size:14.0pt;font-family:Montserrat;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></p>
@@ -3682,14 +3017,14 @@ mso-ansi-language:EN-US'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:54.0pt'><span lang=EN-US
 style='font-size:14.0pt;font-family:"Montserrat SemiBold";mso-ansi-language:
-EN-US'><span style='mso-spacerun:yes'>      </span>- </span><span lang=EN-US
+EN-US'><span style='mso-spacerun:yes'>ï¿½ï¿½ï¿½ï¿½ï¿½ </span>- </span><span lang=EN-US
 style='font-size:14.0pt;font-family:Montserrat;mso-ansi-language:EN-US'>normal
 during pregnancy</span><span lang=EN-US style='font-size:14.0pt;font-family:
 "Montserrat SemiBold";mso-ansi-language:EN-US'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:54.0pt'><span lang=EN-US
 style='font-size:14.0pt;font-family:Montserrat;mso-ansi-language:EN-US'><span
-style='mso-spacerun:yes'>      </span>- malignancy<o:p></o:p></span></p>
+style='mso-spacerun:yes'>ï¿½ï¿½ï¿½ï¿½ï¿½ </span>- malignancy<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><b><span lang=EN-US
 style='font-size:14.0pt;font-family:Montserrat;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></b></p>
@@ -3789,7 +3124,7 @@ Wingdings;mso-bidi-font-family:Wingdings;mso-ansi-language:EN-US'><span
 style='mso-list:Ignore'>&#159;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
 </span></span></span><![endif]><span dir=LTR></span><b><span lang=EN-US
 style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:Montserrat;
-mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>    </span></span></b><span
+mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>ï¿½ï¿½ï¿½ï¿½</span></span></b><span
 lang=EN-US style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Montserrat SemiBold";
 mso-ansi-language:EN-US'>The following drugs decrease the INR:<o:p></o:p></span></p>
 

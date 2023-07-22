@@ -1,328 +1,791 @@
-<html xmlns:v="urn:schemas-microsoft-com:vml"
-xmlns:o="urn:schemas-microsoft-com:office:office"
-xmlns:x="urn:schemas-microsoft-com:office:excel"
-xmlns="http://www.w3.org/TR/REC-html40">
-
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<meta name="Excel Workbook Frameset">
-<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
-<meta name=ProgId content=Excel.Sheet>
-<meta name=Generator content="Microsoft Excel 15">
-<link rel=File-List
-href="F005-THHC%20Patient%20Handover%20for%20Red%20Crescent%20Ambulance.files/filelist.xml">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>F005-THHC Patient Handover for Red Crescent Ambulance | @yield('title')</title>
+<style>
+.font519229
+	{color:black;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Montserrat SemiBold";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font619229
+	{color:black;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Montserrat SemiBold";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.xl6319229
+	{padding:0px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6419229
+	{padding:0px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6519229
+	{padding:0px;
+	mso-ignore:padding;
+	color:black;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Monstrate;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:top;
+	border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl6619229
+	{padding:0px;
+	mso-ignore:padding;
+	color:black;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Monstrate;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6719229
+	{padding:0px;
+	mso-ignore:padding;
+	color:black;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Monstrate;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:top;
+	border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl6819229
+	{padding:0px;
+	mso-ignore:padding;
+	color:black;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Monstrate;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:top;
+	border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6919229
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Monstrate semibold";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	border:.5pt solid windowtext;
+	background:#3AC2BA;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7019229
+	{padding:0px;
+	mso-ignore:padding;
+	color:black;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Monstrate;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:top;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl7119229
+	{padding:0px;
+	mso-ignore:padding;
+	color:black;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Monstrate;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:top;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7219229
+	{padding:0px;
+	mso-ignore:padding;
+	color:black;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Monstrate;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl7319229
+	{padding:0px;
+	mso-ignore:padding;
+	color:black;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Monstrate;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7419229
+	{padding:0px;
+	mso-ignore:padding;
+	color:black;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Monstrate;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:top;
+	border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7519229
+	{padding:0px;
+	mso-ignore:padding;
+	color:black;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Monstrate;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:top;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7619229
+	{padding:0px;
+	mso-ignore:padding;
+	color:black;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Monstrate;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:top;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7719229
+	{padding:0px;
+	mso-ignore:padding;
+	color:black;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Monstrate;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:top;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7819229
+	{padding:0px;
+	mso-ignore:padding;
+	color:black;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Monstrate;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:top;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7919229
+	{padding:0px;
+	mso-ignore:padding;
+	color:black;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Monstrate;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:top;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl8019229
+	{padding:0px;
+	mso-ignore:padding;
+	color:black;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Monstrate;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:top;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl8119229
+	{padding:0px;
+	mso-ignore:padding;
+	color:black;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Monstrate;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl8219229
+	{padding:0px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl8319229
+	{padding:0px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl8419229
+	{padding:0px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl8519229
+	{padding:0px;
+	mso-ignore:padding;
+	color:black;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:top;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl8619229
+	{padding:0px;
+	mso-ignore:padding;
+	color:black;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:top;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl8719229
+	{padding:0px;
+	mso-ignore:padding;
+	color:black;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:top;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
 
-<link id="shLink" href="F005-THHC%20Patient%20Handover%20for%20Red%20Crescent%20Ambulance.files/sheet001.htm">
-
-<link id="shLink">
-
-<script language="JavaScript">
-
-if[!supportTabStrip]
- var c_lTabs=1;
-
- var c_rgszSh=new Array(c_lTabs);
- c_rgszSh[0] = "Sheet1";
-
-
-
- var c_rgszClr=new Array(8);
- c_rgszClr[0]="window";
- c_rgszClr[1]="buttonface";
- c_rgszClr[2]="windowframe";
- c_rgszClr[3]="windowtext";
- c_rgszClr[4]="threedlightshadow";
- c_rgszClr[5]="threedhighlight";
- c_rgszClr[6]="threeddarkshadow";
- c_rgszClr[7]="threedshadow";
-
- var g_iShCur;
- var g_rglTabX=new Array(c_lTabs);
-
-function fnGetIEVer()
-{
- var ua=window.navigator.userAgent
- var msie=ua.indexOf("MSIE")
- if (msie>0 && window.navigator.platform=="Win32")
-  return parseInt(ua.substring(msie+5,ua.indexOf(".", msie)));
- else
-  return 0;
-}
-
-function fnBuildFrameset()
-{
- var szHTML="<frameset rows=\"*,18\" border=0 width=0 frameborder=no framespacing=0>"+
-  "<frame src=\""+document.all.item("shLink")[0].href+"\" name=\"frSheet\" noresize>"+
-  "<frameset cols=\"54,*\" border=0 width=0 frameborder=no framespacing=0>"+
-  "<frame src=\"\" name=\"frScroll\" marginwidth=0 marginheight=0 scrolling=no>"+
-  "<frame src=\"\" name=\"frTabs\" marginwidth=0 marginheight=0 scrolling=no>"+
-  "</frameset></frameset><plaintext>";
-
- with (document) {
-  open("text/html","replace");
-  write(szHTML);
-  close();
- }
-
- fnBuildTabStrip();
-}
-
-function fnBuildTabStrip()
-{
- var szHTML=
-  "<html><head><style>.clScroll {font:8pt Courier New;color:"+c_rgszClr[6]+";cursor:default;line-height:10pt;}"+
-  ".clScroll2 {font:10pt Arial;color:"+c_rgszClr[6]+";cursor:default;line-height:11pt;}</style></head>"+
-  "<body onclick=\"event.returnValue=false;\" ondragstart=\"event.returnValue=false;\" onselectstart=\"event.returnValue=false;\" bgcolor="+c_rgszClr[4]+" topmargin=0 leftmargin=0><table cellpadding=0 cellspacing=0 width=100%>"+
-  "<tr><td colspan=6 height=1 bgcolor="+c_rgszClr[2]+"></td></tr>"+
-  "<tr><td style=\"font:1pt\">&nbsp;<td>"+
-  "<td valign=top id=tdScroll class=\"clScroll\" onclick=\"parent.fnFastScrollTabs(0);\" onmouseover=\"parent.fnMouseOverScroll(0);\" onmouseout=\"parent.fnMouseOutScroll(0);\"><a>&#171;</a></td>"+
-  "<td valign=top id=tdScroll class=\"clScroll2\" onclick=\"parent.fnScrollTabs(0);\" ondblclick=\"parent.fnScrollTabs(0);\" onmouseover=\"parent.fnMouseOverScroll(1);\" onmouseout=\"parent.fnMouseOutScroll(1);\"><a>&lt</a></td>"+
-  "<td valign=top id=tdScroll class=\"clScroll2\" onclick=\"parent.fnScrollTabs(1);\" ondblclick=\"parent.fnScrollTabs(1);\" onmouseover=\"parent.fnMouseOverScroll(2);\" onmouseout=\"parent.fnMouseOutScroll(2);\"><a>&gt</a></td>"+
-  "<td valign=top id=tdScroll class=\"clScroll\" onclick=\"parent.fnFastScrollTabs(1);\" onmouseover=\"parent.fnMouseOverScroll(3);\" onmouseout=\"parent.fnMouseOutScroll(3);\"><a>&#187;</a></td>"+
-  "<td style=\"font:1pt\">&nbsp;<td></tr></table></body></html>";
-
- with (frames['frScroll'].document) {
-  open("text/html","replace");
-  write(szHTML);
-  close();
- }
-
- szHTML =
-  "<html><head>"+
-  "<style>A:link,A:visited,A:active {text-decoration:none;"+"color:"+c_rgszClr[3]+";}"+
-  ".clTab {cursor:hand;background:"+c_rgszClr[1]+";font:9pt Arial;padding-left:3px;padding-right:3px;text-align:center;}"+
-  ".clBorder {background:"+c_rgszClr[2]+";font:1pt;}"+
-  "</style></head><body onload=\"parent.fnInit();\" onselectstart=\"event.returnValue=false;\" ondragstart=\"event.returnValue=false;\" bgcolor="+c_rgszClr[4]+
-  " topmargin=0 leftmargin=0><table id=tbTabs cellpadding=0 cellspacing=0>";
-
- var iCellCount=(c_lTabs+1)*2;
-
- var i;
- for (i=0;i<iCellCount;i+=2)
-  szHTML+="<col width=1><col>";
-
- var iRow;
- for (iRow=0;iRow<6;iRow++) {
-
-  szHTML+="<tr>";
-
-  if (iRow==5)
-   szHTML+="<td colspan="+iCellCount+"></td>";
-  else {
-   if (iRow==0) {
-    for(i=0;i<iCellCount;i++)
-     szHTML+="<td height=1 class=\"clBorder\"></td>";
-   } else if (iRow==1) {
-    for(i=0;i<c_lTabs;i++) {
-     szHTML+="<td height=1 nowrap class=\"clBorder\">&nbsp;</td>";
-     szHTML+=
-      "<td id=tdTab height=1 nowrap class=\"clTab\" onmouseover=\"parent.fnMouseOverTab("+i+");\" onmouseout=\"parent.fnMouseOutTab("+i+");\">"+
-      "<a href=\""+document.all.item("shLink")[i].href+"\" target=\"frSheet\" id=aTab>&nbsp;"+c_rgszSh[i]+"&nbsp;</a></td>";
-    }
-    szHTML+="<td id=tdTab height=1 nowrap class=\"clBorder\"><a id=aTab>&nbsp;</a></td><td width=100%></td>";
-   } else if (iRow==2) {
-    for (i=0;i<c_lTabs;i++)
-     szHTML+="<td height=1></td><td height=1 class=\"clBorder\"></td>";
-    szHTML+="<td height=1></td><td height=1></td>";
-   } else if (iRow==3) {
-    for (i=0;i<iCellCount;i++)
-     szHTML+="<td height=1></td>";
-   } else if (iRow==4) {
-    for (i=0;i<c_lTabs;i++)
-     szHTML+="<td height=1 width=1></td><td height=1></td>";
-    szHTML+="<td height=1 width=1></td><td></td>";
-   }
-  }
-  szHTML+="</tr>";
- }
-
- szHTML+="</table></body></html>";
- with (frames['frTabs'].document) {
-  open("text/html","replace");
-  charset=document.charset;
-  write(szHTML);
-  close();
- }
-}
-
-function fnInit()
-{
- g_rglTabX[0]=0;
- var i;
- for (i=1;i<=c_lTabs;i++)
-  with (frames['frTabs'].document.all.tbTabs.rows[1].cells[fnTabToCol(i-1)])
-   g_rglTabX[i]=offsetLeft+offsetWidth-6;
-}
-
-function fnTabToCol(iTab)
-{
- return 2*iTab+1;
-}
-
-function fnNextTab(fDir)
-{
- var iNextTab=-1;
- var i;
-
- with (frames['frTabs'].document.body) {
-  if (fDir==0) {
-   if (scrollLeft>0) {
-    for (i=0;i<c_lTabs&&g_rglTabX[i]<scrollLeft;i++);
-    if (i<c_lTabs)
-     iNextTab=i-1;
-   }
-  } else {
-   if (g_rglTabX[c_lTabs]+6>offsetWidth+scrollLeft) {
-    for (i=0;i<c_lTabs&&g_rglTabX[i]<=scrollLeft;i++);
-    if (i<c_lTabs)
-     iNextTab=i;
-   }
-  }
- }
- return iNextTab;
-}
-
-function fnScrollTabs(fDir)
-{
- var iNextTab=fnNextTab(fDir);
-
- if (iNextTab>=0) {
-  frames['frTabs'].scroll(g_rglTabX[iNextTab],0);
-  return true;
- } else
-  return false;
-}
-
-function fnFastScrollTabs(fDir)
-{
- if (c_lTabs>16)
-  frames['frTabs'].scroll(g_rglTabX[fDir?c_lTabs-1:0],0);
- else
-  if (fnScrollTabs(fDir)>0) window.setTimeout("fnFastScrollTabs("+fDir+");",5);
-}
-
-function fnSetTabProps(iTab,fActive)
-{
- var iCol=fnTabToCol(iTab);
- var i;
-
- if (iTab>=0) {
-  with (frames['frTabs'].document.all) {
-   with (tbTabs) {
-    for (i=0;i<=4;i++) {
-     with (rows[i]) {
-      if (i==0)
-       cells[iCol].style.background=c_rgszClr[fActive?0:2];
-      else if (i>0 && i<4) {
-       if (fActive) {
-        cells[iCol-1].style.background=c_rgszClr[2];
-        cells[iCol].style.background=c_rgszClr[0];
-        cells[iCol+1].style.background=c_rgszClr[2];
-       } else {
-        if (i==1) {
-         cells[iCol-1].style.background=c_rgszClr[2];
-         cells[iCol].style.background=c_rgszClr[1];
-         cells[iCol+1].style.background=c_rgszClr[2];
-        } else {
-         cells[iCol-1].style.background=c_rgszClr[4];
-         cells[iCol].style.background=c_rgszClr[(i==2)?2:4];
-         cells[iCol+1].style.background=c_rgszClr[4];
-        }
-       }
-      } else
-       cells[iCol].style.background=c_rgszClr[fActive?2:4];
-     }
-    }
-   }
-   with (aTab[iTab].style) {
-    cursor=(fActive?"default":"hand");
-    color=c_rgszClr[3];
-   }
-  }
- }
-}
-
-function fnMouseOverScroll(iCtl)
-{
- frames['frScroll'].document.all.tdScroll[iCtl].style.color=c_rgszClr[7];
-}
-
-function fnMouseOutScroll(iCtl)
-{
- frames['frScroll'].document.all.tdScroll[iCtl].style.color=c_rgszClr[6];
-}
-
-function fnMouseOverTab(iTab)
-{
- if (iTab!=g_iShCur) {
-  var iCol=fnTabToCol(iTab);
-  with (frames['frTabs'].document.all) {
-   tdTab[iTab].style.background=c_rgszClr[5];
-  }
- }
-}
-
-function fnMouseOutTab(iTab)
-{
- if (iTab>=0) {
-  var elFrom=frames['frTabs'].event.srcElement;
-  var elTo=frames['frTabs'].event.toElement;
-
-  if ((!elTo) ||
-   (elFrom.tagName==elTo.tagName) ||
-   (elTo.tagName=="A" && elTo.parentElement!=elFrom) ||
-   (elFrom.tagName=="A" && elFrom.parentElement!=elTo)) {
-
-   if (iTab!=g_iShCur) {
-    with (frames['frTabs'].document.all) {
-     tdTab[iTab].style.background=c_rgszClr[1];
-    }
-   }
-  }
- }
-}
-
-function fnSetActiveSheet(iSh)
-{
- if (iSh!=g_iShCur) {
-  fnSetTabProps(g_iShCur,false);
-  fnSetTabProps(iSh,true);
-  g_iShCur=iSh;
- }
-}
-
- window.g_iIEVer=fnGetIEVer();
- if (window.g_iIEVer>=4)
-  fnBuildFrameset();
-//-->
-</script>
-<![endif]><!--[if gte mso 9]><xml>
- <x:ExcelWorkbook>
-  <x:ExcelWorksheets>
-   <x:ExcelWorksheet>
-    <x:Name>Sheet1</x:Name>
-    <x:WorksheetSource
-     HRef="F005-THHC%20Patient%20Handover%20for%20Red%20Crescent%20Ambulance.files/sheet001.htm"/>
-   </x:ExcelWorksheet>
-  </x:ExcelWorksheets>
-  <x:Stylesheet
-   HRef="F005-THHC%20Patient%20Handover%20for%20Red%20Crescent%20Ambulance.files/stylesheet.css"/>
-  <x:WindowHeight>8880</x:WindowHeight>
-  <x:WindowWidth>23040</x:WindowWidth>
-  <x:WindowTopX>32767</x:WindowTopX>
-  <x:WindowTopY>32767</x:WindowTopY>
-  <x:ProtectStructure>False</x:ProtectStructure>
-  <x:ProtectWindows>False</x:ProtectWindows>
- </x:ExcelWorkbook>
-</xml><![endif]-->
+</style>
+@yield('style')
 </head>
 
-<frameset rows="*,39" border=0 width=0 frameborder=no framespacing=0>
- <frame src="F005-THHC%20Patient%20Handover%20for%20Red%20Crescent%20Ambulance.files/sheet001.htm" name="frSheet">
- <frame src="F005-THHC%20Patient%20Handover%20for%20Red%20Crescent%20Ambulance.files/tabstrip.htm" name="frTabs" marginwidth=0 marginheight=0>
- <noframes>
-  <body>
-   <p>&#1610;&#1608;&#1580;&#1583; &#1573;&#1591;&#1575;&#1585;&#1575;&#1578; &#1576;&#1607;&#1584;&#1607; &#1575;&#1604;&#1589;&#1601;&#1581;&#1577; &#1573;&#1604;&#1575; &#1571;&#1606; &#1575;&#1604;&#1605;&#1587;&#1578;&#1593;&#1585;&#1590; &#1604;&#1575; &#1610;&#1593;&#1578;&#1605;&#1583;&#1607;&#1575;.</p>
-  </body>
- </noframes>
-</frameset>
+<body>
+
+<div id="F005-THHC Patient Handover for Red Crescent Ambulance_19229"
+align=center x:publishsource="Excel">
+
+<table border=0 cellpadding=0 cellspacing=0 width=833 class=xl6319229
+ style='border-collapse:collapse;table-layout:fixed;width:624pt'>
+ <col class=xl6319229 width=111 style='mso-width-source:userset;mso-width-alt:
+ 3953;width:83pt'>
+ <col class=xl6319229 width=265 style='mso-width-source:userset;mso-width-alt:
+ 9415;width:199pt'>
+ <col class=xl6319229 width=104 style='mso-width-source:userset;mso-width-alt:
+ 3697;width:78pt'>
+ <col class=xl6319229 width=135 style='mso-width-source:userset;mso-width-alt:
+ 4807;width:101pt'>
+ <col class=xl6319229 width=218 style='mso-width-source:userset;mso-width-alt:
+ 7736;width:163pt'>
+ <tr height=116 style='mso-height-source:userset;height:87.0pt'>
+  <td colspan=5 height=116 width=833 style='height:87.0pt;width:624pt'
+  align=left valign=top><span style='mso-ignore:vglayout;
+  position:absolute;z-index:1;margin-left:10px;margin-top:10px;width:797px;
+  height:90px'>
+  <table cellpadding=0 cellspacing=0>
+   <tr>
+    <td width=0 height=0></td>
+    <td width=222></td>
+    <td width=397></td>
+    <td width=178></td>
+   </tr>
+   <tr>
+    <td height=14></td>
+    <td colspan=2></td>
+    <td rowspan=2 align=left valign=top><img width=178 height=74
+    src="F005-THHC%20Patient%20Handover%20for%20Red%20Crescent%20Ambulance.files/F005-THHC%20Patient%20Handover%20for%20Red%20Crescent%20Ambulance_19229_image003.png"
+    v:shapes="TextBox_x0020_1"></td>
+   </tr>
+   <tr>
+    <td height=60></td>
+    <td rowspan=2 align=left valign=top><img width=222 height=76
+    src="F005-THHC%20Patient%20Handover%20for%20Red%20Crescent%20Ambulance.files/F005-THHC%20Patient%20Handover%20for%20Red%20Crescent%20Ambulance_19229_image004.png"
+    v:shapes="Picture_x0020_2"></td>
+   </tr>
+   <tr>
+    <td height=16></td>
+   </tr>
+  </table>
+  </span><![endif]><span style='mso-ignore:vglayout2'>
+  <table cellpadding=0 cellspacing=0>
+   <tr>
+    <td colspan=5 height=116 class=xl6719229 width=833 style='height:87.0pt;
+    width:624pt'><a name="RANGE!A1:E30"><br>
+        <br>
+        <br>
+        <span
+    style='mso-spacerun:yes'>
+    </span><font class="font519229"><span style='mso-spacerun:yes'></span></font><font
+    class="font619229">Patient Handover for Red Crescent Ambulance <br>
+        <span
+    style='mso-spacerun:yes'>
+    </span>TRANSFER TO:EMERGENCY DEPARTMENT</font></a></td>
+   </tr>
+  </table>
+  </span></td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td colspan=5 height=20 class=xl6919229 style='height:15.0pt'>Patient
+  Detalies</td>
+ </tr>
+ <tr height=71 style='mso-height-source:userset;height:53.55pt'>
+  <td colspan=3 height=71 class=xl7019229 width=480 style='border-right:.5pt solid black;
+  height:53.55pt;width:360pt'>Patient
+  Name:__________________________________________________<br>
+    <br>
+    File Number:___________________________Age:_____________________<br>
+    </td>
+  <td colspan=2 class=xl6519229 width=353 style='border-left:none;width:264pt'>Patient
+  Address:_______________________________________<br>
+    </td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td colspan=5 height=21 class=xl6919229 style='height:15.6pt'>Responsible
+  Person/ Emergency Contact/Relationship</td>
+ </tr>
+ <tr height=44 style='mso-height-source:userset;height:33.0pt'>
+  <td colspan=3 height=44 class=xl7019229 width=480 style='height:33.0pt;
+  width:360pt'>Name:<br>
+    </td>
+  <td colspan=2 class=xl6519229 width=353 style='width:264pt'>Phone<span
+  style='mso-spacerun:yes'>
+  </span>Home:_______________________________<br>
+    <span style='mso-spacerun:yes'>
+  </span>Work:________________________________<span style='mso-spacerun:yes'>
+  </span><br>
+    <br>
+    <span style='mso-spacerun:yes'></span></td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td colspan=5 height=21 class=xl6919229 style='height:15.6pt'>Person
+  Completing Assessment</td>
+ </tr>
+ <tr height=60 style='mso-height-source:userset;height:45.0pt'>
+  <td colspan=2 height=60 class=xl7519229 style='border-right:.5pt solid black;
+  height:45.0pt'>Name:___________________________________________</td>
+  <td colspan=2 class=xl7719229 style='border-right:.5pt solid black;
+  border-left:none'>Badge No.:________________</td>
+  <td class=xl6519229 width=218 style='border-top:none;border-left:none;
+  width:163pt'>Signature:___________________<br>
+    Pager/Extension:_____________<br>
+    Phone Number:______________</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td colspan=5 height=21 class=xl6919229 style='height:15.6pt'>THHC Physcian</td>
+ </tr>
+ <tr height=64 style='mso-height-source:userset;height:48.45pt'>
+  <td colspan=2 height=64 class=xl7519229 style='border-right:.5pt solid black;
+  height:48.45pt'>Name:___________________________________________</td>
+  <td colspan=2 class=xl7719229 style='border-right:.5pt solid black;
+  border-left:none'>Badge No.:________________</td>
+  <td class=xl6519229 width=218 style='border-top:none;border-left:none;
+  width:163pt'>Signature:___________________<br>
+    Pager/Extension:_____________<br>
+    Phone Number:______________</td>
+ </tr>
+ <tr height=19 style='mso-height-source:userset;height:14.55pt'>
+  <td colspan=5 height=19 class=xl6919229 style='height:14.55pt'>DIAGNOSIS:</td>
+ </tr>
+ <tr height=80 style='mso-height-source:userset;height:60.0pt'>
+  <td colspan=5 height=80 class=xl8519229 style='border-right:.5pt solid black;
+  height:60.0pt'>&nbsp;</td>
+ </tr>
+ <tr height=19 style='mso-height-source:userset;height:14.55pt'>
+  <td colspan=5 height=19 class=xl6919229 style='height:14.55pt'>CURRENT STATUS</td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td colspan=5 height=19 class=xl8119229 style='height:14.4pt'>T_________<span
+  style='mso-spacerun:yes'> </span>P____________<span
+  style='mso-spacerun:yes'></span>R________________<span
+  style='mso-spacerun:yes'> </span>B/P___________ SP O2____________ Blood
+  Glucose_________________</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td colspan=5 height=21 class=xl6919229 style='height:15.6pt'>REASON(S) FOR
+  REQUEST FOR EMERGENCY CARE:</td>
+ </tr>
+ <tr height=144 style='mso-height-source:userset;height:108.45pt'>
+  <td colspan=5 height=144 class=xl8219229 style='border-right:.5pt solid black;
+  height:108.45pt'>&nbsp;</td>
+ </tr>
+ <tr height=21 style='height:15.6pt'>
+  <td colspan=5 height=21 class=xl6919229 style='height:15.6pt'>MEDICATIONS</td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl6619229 style='height:14.4pt;border-top:none'>Start
+  Date</td>
+  <td class=xl6619229 style='border-top:none;border-left:none'>Name of
+  Medication</td>
+  <td class=xl6619229 style='border-top:none;border-left:none'>Dose</td>
+  <td class=xl6619229 style='border-top:none;border-left:none'>Route</td>
+  <td class=xl6619229 style='border-top:none;border-left:none'>Frequency</td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl6419229 style='height:14.4pt;border-top:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl6419229 style='height:14.4pt;border-top:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl6419229 style='height:14.4pt;border-top:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl6419229 style='height:14.4pt;border-top:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl6419229 style='height:14.4pt;border-top:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl6419229 style='height:14.4pt;border-top:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl6419229 style='height:14.4pt;border-top:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl6419229 style='height:14.4pt;border-top:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl6419229 style='height:14.4pt;border-top:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl6419229 style='height:14.4pt;border-top:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl6419229 style='height:14.4pt;border-top:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl6419229 style='height:14.4pt;border-top:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl6419229 style='border-top:none;border-left:none'>&nbsp;</td>
+ </tr>
+ <tr height=47 style='mso-height-source:userset;height:35.55pt'>
+  <td colspan=5 height=47 class=xl7219229 width=833 style='height:35.55pt;
+  width:624pt'>Saudi ambulance number 997,Saudi fire emergency number 998
+  ,Saudi antinarcotic number 995 ,Saudi highway traffic number 996<br>
+    THHC-002 Caregivers Response to Emergency Situation at Home<br>
+    F005-THHC Patient Handover for Red Crescent Ambulance<span
+  style='mso-spacerun:yes'></span></td>
+ </tr>
+
+ <tr height=0 style='display:none'>
+  <td width=111 style='width:83pt'></td>
+  <td width=265 style='width:199pt'></td>
+  <td width=104 style='width:78pt'></td>
+  <td width=135 style='width:101pt'></td>
+  <td width=218 style='width:163pt'></td>
+ </tr>
+
+</table>
+
+</div>
+
+
+<!----------------------------->
+<!--END OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD-->
+<!----------------------------->
+</body>
+
 </html>
