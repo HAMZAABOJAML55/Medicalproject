@@ -2,12 +2,8 @@
 <html lang="en">
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=windows-1252">
-<meta name=ProgId content=Word.Document>
-<meta name=Generator content="Microsoft Word 15">
-<meta name=Originator content="Microsoft Word 15">
-<link rel=File-List
-href="F058-THHC%20Anticoagulation%20Monitoring%20Record.files/filelist.xml">
-<link rel=Edit-Time-Data
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
 href="F058-THHC%20Anticoagulation%20Monitoring%20Record.files/editdata.mso">
 <title>F058-THHC Anticoagulation Monitoring Record| @yield('title')</title>
 

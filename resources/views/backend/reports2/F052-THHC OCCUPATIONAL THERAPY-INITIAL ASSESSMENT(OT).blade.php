@@ -2,13 +2,8 @@
 <html lang="en">
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=windows-1252">
-<meta name=ProgId content=Word.Document>
-<meta name=Generator content="Microsoft Word 15">
-<meta name=Originator content="Microsoft Word 15">
-<link rel=File-List
-href="F052-THHC%20OCCUPATIONAL%20THERAPY-INITIAL%20ASSESSMENT(OT).files/filelist.xml">
-<link rel=Edit-Time-Data
-href="F052-THHC%20OCCUPATIONAL%20THERAPY-INITIAL%20ASSESSMENT(OT).files/editdata.mso">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
 <title>F052-THHC OCCUPATIONAL THERAPY-INITIAL ASSESSMENT(OT)| @yield('title')</title>
 
 <style>

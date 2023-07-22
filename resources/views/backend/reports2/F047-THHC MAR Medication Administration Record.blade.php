@@ -3,12 +3,8 @@
 
 <head>
 <meta name="Excel Workbook Frameset">
-<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
-<meta name=ProgId content=Excel.Sheet>
-<meta name=Generator content="Microsoft Excel 15">
-<link rel=File-List
-href="F047-THHC%20MAR%20Medication%20Administration%20Record.files/filelist.xml">
-<link id="shLink" href="F047-THHC%20MAR%20Medication%20Administration%20Record.files/sheet001.htm">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
 <title>F047-THHC MAR Medication Administration Record| @yield('title')</title>
 
 <style>

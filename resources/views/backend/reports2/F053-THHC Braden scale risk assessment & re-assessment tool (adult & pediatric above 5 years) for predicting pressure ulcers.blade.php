@@ -2,13 +2,7 @@
 <html lang="en">
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=windows-1252">
-<meta name=ProgId content=Word.Document>
-<meta name=Generator content="Microsoft Word 15">
-<meta name=Originator content="Microsoft Word 15">
-<link rel=File-List
-href="F053-THHC%20Braden%20scale%20risk%20assessment%20&amp;%20re-assessment%20tool%20(adult%20&amp;%20pediatric%20above%205%20years)%20for%20predicting%20pressure%20ulcers.files/filelist.xml">
-<link rel=Edit-Time-Data
-href="F053-THHC%20Braden%20scale%20risk%20assessment%20&amp;%20re-assessment%20tool%20(adult%20&amp;%20pediatric%20above%205%20years)%20for%20predicting%20pressure%20ulcers.files/editdata.mso">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 <title>F053-THHC Braden scale risk assessment & re-assessment tool (adult & pediatric above 5 years) for predicting pressure ulcers| @yield('title')</title>
 
 <style>

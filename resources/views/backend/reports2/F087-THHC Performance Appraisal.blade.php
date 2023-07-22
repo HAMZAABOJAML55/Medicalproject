@@ -4,7 +4,7 @@
 
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=windows-1252">
-<meta name=Generator content="Microsoft Word 15 (filtered)">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 <title>F087-THHC Performance Appraisal| @yield('title')</title>
 
 <style>
@@ -148,12 +148,12 @@ ul
 
 <p class=MsoNormal style='margin-top:.6pt;margin-right:0cm;margin-bottom:0cm;
 margin-left:0cm;margin-bottom:.0001pt;line-height:normal'><span lang=EN-US
-style='font-size:13.0pt;font-family:Montserrat;color:#002060'>���������� </span></p>
+style='font-size:13.0pt;font-family:Montserrat;color:#002060'></span></p>
 
 <p class=MsoNormal align=center style='margin-top:.6pt;margin-right:0cm;
 margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
 line-height:normal'><span lang=EN-US style='font-size:13.0pt;font-family:"Montserrat SemiBold";
-color:#002060'>�</span></p>
+color:#002060'></span></p>
 
 <p class=MsoNormal style='margin-top:.6pt;margin-right:0cm;margin-bottom:0cm;
 margin-left:0cm;margin-bottom:.0001pt;line-height:normal'><b><span lang=EN-US
@@ -175,7 +175,7 @@ style='font-size:8.0pt;font-family:Montserrat;color:#C00000'>&nbsp;</span></b></
   border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:21.6pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=EN-US style='font-family:Montserrat;color:#002060'>Employee
-  Name:�� </span></p>
+  Name: </span></p>
   </td>
   <td width=600 nowrap colspan=11 style='width:450.0pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -190,7 +190,7 @@ style='font-size:8.0pt;font-family:Montserrat;color:#C00000'>&nbsp;</span></b></
   border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:21.6pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=EN-US style='font-family:Montserrat;color:#002060'>ID
-  Number:��� </span></p>
+  Number: </span></p>
   </td>
   <td width=254 nowrap colspan=7 style='width:190.15pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -218,7 +218,7 @@ style='font-size:8.0pt;font-family:Montserrat;color:#C00000'>&nbsp;</span></b></
   border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:21.6pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=EN-US style='font-family:Montserrat;color:#002060'>Job
-  Title:���� </span></p>
+  Title:</span></p>
   </td>
   <td width=254 nowrap colspan=7 style='width:190.15pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -322,28 +322,28 @@ style='font-size:8.0pt;font-family:Montserrat;color:#C00000'>&nbsp;</span></b></
   <p class=MsoListParagraphCxSpFirst style='margin-top:0cm;margin-right:-3.6pt;
   margin-bottom:0cm;margin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;
   line-height:normal'><span lang=EN-US style='font-size:10.0pt;font-family:
-  Symbol;color:#002060'>�<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Symbol;color:#002060'><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span dir=LTR></span><span lang=EN-US style='font-size:10.0pt;
   font-family:Montserrat;color:#002060'>To guarantee fair recognition to all
   employees by adopting evidence-based method of performance evaluation.</span></p>
   <p class=MsoListParagraphCxSpMiddle style='margin-top:0cm;margin-right:-3.6pt;
   margin-bottom:0cm;margin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;
   line-height:normal'><span lang=EN-US style='font-size:10.0pt;font-family:
-  Symbol;color:#002060'>�<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Symbol;color:#002060'><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span dir=LTR></span><span lang=EN-US style='font-size:10.0pt;
   font-family:Montserrat;color:#002060'>To promote communication and provide
   constructive feedback about job performance.</span></p>
   <p class=MsoListParagraphCxSpMiddle style='margin-top:0cm;margin-right:-3.6pt;
   margin-bottom:0cm;margin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;
   line-height:normal'><span lang=EN-US style='font-size:10.0pt;font-family:
-  Symbol;color:#002060'>�<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Symbol;color:#002060'><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span dir=LTR></span><span lang=EN-US style='font-size:10.0pt;
   font-family:Montserrat;color:#002060'>To allow managers identify performance
   gap and set developmental goals to optimize performance.</span></p>
   <p class=MsoListParagraphCxSpMiddle style='margin-top:0cm;margin-right:-3.6pt;
   margin-bottom:0cm;margin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;
   line-height:normal'><span lang=EN-US style='font-size:10.0pt;font-family:
-  Symbol;color:#002060'>�<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Symbol;color:#002060'><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span dir=LTR></span><span lang=EN-US style='font-size:10.0pt;
   font-family:Montserrat;color:#002060'>To offer staff the opportunity to
   provide feedback about work environment and improvement opportunities.� </span></p>
@@ -418,7 +418,7 @@ style='font-size:8.0pt;font-family:Montserrat;color:#C00000'>&nbsp;</span></b></
   padding:0cm 5.4pt 0cm 5.4pt;height:12.1pt'>
   <p class=TableParagraph style='line-height:12.85pt'><span lang=EN-US
   style='font-size:10.0pt;font-family:Montserrat;color:#002060;letter-spacing:
-  -.05pt'>� Al</span><span lang=EN-US style='font-size:10.0pt;font-family:Montserrat;
+  -.05pt'>Al</span><span lang=EN-US style='font-size:10.0pt;font-family:Montserrat;
   color:#002060'>w<span style='letter-spacing:-.05pt'>a</span>ys<span
   style='letter-spacing:-.1pt'> </span>e<span style='letter-spacing:-.15pt'>x</span>cee<span
   style='letter-spacing:-.05pt'>d</span>s<span style='letter-spacing:-.1pt'> </span>st<span

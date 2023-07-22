@@ -2,17 +2,8 @@
 <html lang="en">
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=windows-1252">
-<meta name=ProgId content=Word.Document>
-<meta name=Generator content="Microsoft Word 15">
-<meta name=Originator content="Microsoft Word 15">
-<link rel=File-List
-href="F024%20-THHC%20Acknowledgement%20receipt%20for%20equipment%20form.files/filelist.xml">
-<link rel=Edit-Time-Data
-href="F024%20-THHC%20Acknowledgement%20receipt%20for%20equipment%20form.files/editdata.mso">
-<link rel=themeData
-href="F024%20-THHC%20Acknowledgement%20receipt%20for%20equipment%20form.files/themedata.thmx">
-<link rel=colorSchemeMapping
-href="F024%20-THHC%20Acknowledgement%20receipt%20for%20equipment%20form.files/colorschememapping.xml">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
 <title>F024 -THHC Acknowledgement receipt for equipment form| @yield('title')</title>
 
 <style>

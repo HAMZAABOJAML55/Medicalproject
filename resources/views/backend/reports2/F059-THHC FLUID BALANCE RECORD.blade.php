@@ -2,14 +2,8 @@
 <html lang="en">
 <head>
 <meta name="Excel Workbook Frameset">
-<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
-<meta name=ProgId content=Excel.Sheet>
-<meta name=Generator content="Microsoft Excel 15">
-<link rel=File-List
-href="F059-THHC%20FLUID%20BALANCE%20RECORD.files/filelist.xml">
-<link id="shLink" href="F059-THHC%20FLUID%20BALANCE%20RECORD.files/sheet001.htm">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
-<link id="shLink">
 <title>F059-THHC FLUID BALANCE RECORD| @yield('title')</title>
 
 <script language="JavaScript">

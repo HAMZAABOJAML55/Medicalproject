@@ -1,14 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
-<meta name=ProgId content=Word.Document>
-<meta name=Generator content="Microsoft Word 15">
-<meta name=Originator content="Microsoft Word 15">
-<link rel=File-List
-href="F070-THHC%20Skin%20Risk%20Assessment%20Scale%20for%20Patients%2028%20Days%20and%20Below%20Neonatal%20(NSRAS).files/filelist.xml">
-<link rel=Edit-Time-Data
-href="F070-THHC%20Skin%20Risk%20Assessment%20Scale%20for%20Patients%2028%20Days%20and%20Below%20Neonatal%20(NSRAS).files/editdata.mso">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 <title>F070-THHC Skin Risk Assessment Scale for Patients 28 Days and Below Neonatal (NSRAS)| @yield('title')</title>
 
 <style>

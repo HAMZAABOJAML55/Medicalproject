@@ -25,11 +25,11 @@ Route::get('show-pdf', function () {
 Route::get('/index', function(){
     return view('backend\reports\F057-THHC Consent to Photograph and or Video Record');
 });
-
+/////////////////للتحويل ل pdf \\\\\\\\\\\\\\\\\\\\\\\\\\\
 Route::get('/show_pdf',[ReportController::class,'create'])->name('show_pdf');
 Route::get('/pdf_loading',[ReportController::class,'pdf'])->name('pdf_loading');
 
-
+/////////////////للداش بورد وانتقالات بين الفورمات/////////////////////////////
 Route::group(['reports/doctore'], function () {
     Route::view('backend' , 'reports/f018')->name('backend.reports.f018');
     Route::view('temp' , 'reports.temp');

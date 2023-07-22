@@ -3,6 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
 <title>F010-THHC Initial Patient Assessment Nursing(Admission)| @yield('title')</title>
 <style id="F010-THHC Initial Patient Assessment Nursing(Admission)_8456_Styles">
 
@@ -4619,7 +4621,7 @@ align=center x:publishsource="Excel">
   class="font58456"> Tawazun Home Health Care Accepted Patient<br>
     Reason/s
   _____________________________________________________________________________________<br>
-   
+
   _____________________________________________________________________________________________</font></td>
   <td class=xl655358456></td>
   <td class=xl655358456></td>
@@ -4644,7 +4646,7 @@ align=center x:publishsource="Excel">
   class="font58456"> Tawazun Home Health Care Not Accepting Patient<br>
     Reason/s
   _____________________________________________________________________________________<br>
-   
+
   _____________________________________________________________________________________________</font></td>
   <td class=xl655358456></td>
   <td class=xl655358456></td>
@@ -4944,7 +4946,7 @@ align=center x:publishsource="Excel">
   <td width=63 style='width:47pt'></td>
   <td width=63 style='width:47pt'></td>
  </tr>
- 
+
 </table>
 
 </div>

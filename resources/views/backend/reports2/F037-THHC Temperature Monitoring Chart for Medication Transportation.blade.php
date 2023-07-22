@@ -2,13 +2,7 @@
 <html lang="en">
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=windows-1252">
-<meta name=ProgId content=Word.Document>
-<meta name=Generator content="Microsoft Word 15">
-<meta name=Originator content="Microsoft Word 15">
-<link rel=File-List
-href="F037-THHC%20Temperature%20Monitoring%20Chart%20for%20Medication%20Transportation.files/filelist.xml">
-<link rel=Edit-Time-Data
-href="F037-THHC%20Temperature%20Monitoring%20Chart%20for%20Medication%20Transportation.files/editdata.mso">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 <title>F037-THHC Temperature Monitoring Chart for Medication Transportation| @yield('title')</title>
 
 <style>
@@ -138,19 +132,19 @@ div.WordSection1
 
 <div class=WordSection1>
 
-<p class=MsoNormal style='text-indent:54.0pt'><b><span lang=EN-US><o:p>&nbsp;</o:p></span></b></p>
+<p class=MsoNormal style='text-indent:54.0pt'><b><span lang=EN-US></span></b></p>
 
-<p class=MsoNormal style='text-indent:54.0pt'><b><span lang=EN-US><o:p>&nbsp;</o:p></span></b></p>
+<p class=MsoNormal style='text-indent:54.0pt'><b><span lang=EN-US></span></b></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-family:"Montserrat SemiBold"'>Nurse
-Name: __________________________________Badge No: ______________<o:p></o:p></span></p>
+Name: __________________________________Badge No: ______________</span></p>
 
 <p class=MsoNormal style='text-indent:54.0pt'><b><span lang=EN-US
-style='font-size:16.0pt'><span style='mso-spacerun:yes'>���� </span></span><span
-lang=EN-US><o:p></o:p></span></b></p>
+style='font-size:16.0pt'><span style='mso-spacerun:yes'> </span></span><span
+lang=EN-US></span></b></p>
 
 <p class=MsoNormal style='text-indent:54.0pt'><b><span lang=EN-US
-style='font-size:18.0pt'><o:p>&nbsp;</o:p></span></b></p>
+style='font-size:18.0pt'></span></b></p>
 
 <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=737
  style='width:553.1pt;margin-left:5.4pt;border-collapse:collapse;mso-padding-alt:
@@ -160,7 +154,7 @@ style='font-size:18.0pt'><o:p>&nbsp;</o:p></span></b></p>
   mso-border-alt:solid windowtext .5pt;background:#3AC2BA;padding:0cm 5.4pt 0cm 5.4pt;
   height:12.15pt'>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:11.0pt;font-family:"Montserrat SemiBold";color:white'>DATE<o:p></o:p></span></p>
+  style='font-size:11.0pt;font-family:"Montserrat SemiBold";color:white'>DATE</span></p>
   </td>
   <td width=162 valign=bottom style='width:121.6pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
@@ -168,7 +162,7 @@ style='font-size:18.0pt'><o:p>&nbsp;</o:p></span></b></p>
   height:12.15pt'>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:11.0pt;font-family:"Montserrat SemiBold";color:white'>Medication
-  name<o:p></o:p></span></p>
+  name</span></p>
   </td>
   <td width=58 nowrap valign=bottom style='width:43.6pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:
@@ -176,22 +170,22 @@ style='font-size:18.0pt'><o:p>&nbsp;</o:p></span></b></p>
   #3AC2BA;padding:0cm 5.4pt 0cm 5.4pt;height:12.15pt'>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:11.0pt;font-family:"Montserrat SemiBold";color:white'>TIME <span
-  style='mso-spacerun:yes'>�</span><span style='mso-spacerun:yes'>��</span><span
-  style='mso-spacerun:yes'>�</span>IN<o:p></o:p></span></p>
+  style='mso-spacerun:yes'></span><span style='mso-spacerun:yes'></span><span
+  style='mso-spacerun:yes'></span>IN</span></p>
   </td>
   <td width=53 nowrap colspan=2 valign=bottom style='width:39.7pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:
   solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:
   #3AC2BA;padding:0cm 5.4pt 0cm 5.4pt;height:12.15pt'>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:11.0pt;font-family:"Montserrat SemiBold";color:white'>TEMP<o:p></o:p></span></p>
+  style='font-size:11.0pt;font-family:"Montserrat SemiBold";color:white'>TEMP</span></p>
   </td>
   <td width=97 nowrap valign=bottom style='width:72.6pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:
   solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:
   #3AC2BA;padding:0cm 5.4pt 0cm 5.4pt;height:12.15pt'>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:11.0pt;font-family:"Montserrat SemiBold";color:white'>MRN<o:p></o:p></span></p>
+  style='font-size:11.0pt;font-family:"Montserrat SemiBold";color:white'>MRN</span></p>
   </td>
   <td width=60 nowrap valign=bottom style='width:45.35pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:
@@ -199,14 +193,14 @@ style='font-size:18.0pt'><o:p>&nbsp;</o:p></span></b></p>
   #3AC2BA;padding:0cm 5.4pt 0cm 5.4pt;height:12.15pt'>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:11.0pt;font-family:"Montserrat SemiBold";color:white'>TIME
-  OUT<o:p></o:p></span></p>
+  OUT</span></p>
   </td>
   <td width=53 nowrap valign=bottom style='width:39.7pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:
   solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:
   #3AC2BA;padding:0cm 5.4pt 0cm 5.4pt;height:12.15pt'>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:11.0pt;font-family:"Montserrat SemiBold";color:white'>TEMP<o:p></o:p></span></p>
+  style='font-size:11.0pt;font-family:"Montserrat SemiBold";color:white'>TEMP</span></p>
   </td>
   <td width=181 nowrap valign=bottom style='width:136.1pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:
@@ -214,7 +208,7 @@ style='font-size:18.0pt'><o:p>&nbsp;</o:p></span></b></p>
   #3AC2BA;padding:0cm 5.4pt 0cm 5.4pt;height:12.15pt'>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:11.0pt;font-family:"Montserrat SemiBold";color:white'>INITIALS/
-  Badge No<o:p></o:p></span></p>
+  Badge No</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:1;height:25.7pt'>
@@ -222,50 +216,50 @@ style='font-size:18.0pt'><o:p>&nbsp;</o:p></span></b></p>
   border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
   solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
   0cm 5.4pt 0cm 5.4pt;height:25.7pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=162 valign=bottom style='width:121.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:25.7pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'></span></p>
   </td>
   <td width=59 nowrap colspan=2 valign=bottom style='width:44.45pt;border-top:
   none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:25.7pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=52 nowrap valign=bottom style='width:38.85pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:25.7pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=97 nowrap valign=bottom style='width:72.6pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:25.7pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=60 nowrap valign=bottom style='width:45.35pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:25.7pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=53 nowrap valign=bottom style='width:39.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:25.7pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=181 nowrap valign=bottom style='width:136.1pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:25.7pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:2;height:23.55pt'>
@@ -273,50 +267,50 @@ style='font-size:18.0pt'><o:p>&nbsp;</o:p></span></b></p>
   border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
   solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
   0cm 5.4pt 0cm 5.4pt;height:23.55pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=162 valign=bottom style='width:121.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:23.55pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'></span></p>
   </td>
   <td width=59 nowrap colspan=2 valign=bottom style='width:44.45pt;border-top:
   none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:23.55pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=52 nowrap valign=bottom style='width:38.85pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:23.55pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=97 nowrap valign=bottom style='width:72.6pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:23.55pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=60 nowrap valign=bottom style='width:45.35pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:23.55pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=53 nowrap valign=bottom style='width:39.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:23.55pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=181 nowrap valign=bottom style='width:136.1pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:23.55pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:3;height:23.55pt'>
@@ -324,50 +318,50 @@ style='font-size:18.0pt'><o:p>&nbsp;</o:p></span></b></p>
   border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
   solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
   0cm 5.4pt 0cm 5.4pt;height:23.55pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=162 valign=bottom style='width:121.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:23.55pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'></span></p>
   </td>
   <td width=59 nowrap colspan=2 valign=bottom style='width:44.45pt;border-top:
   none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:23.55pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=52 nowrap valign=bottom style='width:38.85pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:23.55pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=97 nowrap valign=bottom style='width:72.6pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:23.55pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=60 nowrap valign=bottom style='width:45.35pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:23.55pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=53 nowrap valign=bottom style='width:39.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:23.55pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=181 nowrap valign=bottom style='width:136.1pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:23.55pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:4;height:25.7pt'>
@@ -375,50 +369,50 @@ style='font-size:18.0pt'><o:p>&nbsp;</o:p></span></b></p>
   border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
   solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
   0cm 5.4pt 0cm 5.4pt;height:25.7pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=162 valign=bottom style='width:121.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:25.7pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'></span></p>
   </td>
   <td width=59 nowrap colspan=2 valign=bottom style='width:44.45pt;border-top:
   none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:25.7pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=52 nowrap valign=bottom style='width:38.85pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:25.7pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=97 nowrap valign=bottom style='width:72.6pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:25.7pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=60 nowrap valign=bottom style='width:45.35pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:25.7pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=53 nowrap valign=bottom style='width:39.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:25.7pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=181 nowrap valign=bottom style='width:136.1pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:25.7pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:5;height:25.7pt'>
@@ -426,50 +420,50 @@ style='font-size:18.0pt'><o:p>&nbsp;</o:p></span></b></p>
   border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
   solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
   0cm 5.4pt 0cm 5.4pt;height:25.7pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=162 valign=bottom style='width:121.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:25.7pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'></span></p>
   </td>
   <td width=59 nowrap colspan=2 valign=bottom style='width:44.45pt;border-top:
   none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:25.7pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=52 nowrap valign=bottom style='width:38.85pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:25.7pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=97 nowrap valign=bottom style='width:72.6pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:25.7pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=60 nowrap valign=bottom style='width:45.35pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:25.7pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=53 nowrap valign=bottom style='width:39.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:25.7pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=181 nowrap valign=bottom style='width:136.1pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:25.7pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:6;height:26.4pt'>
@@ -477,50 +471,50 @@ style='font-size:18.0pt'><o:p>&nbsp;</o:p></span></b></p>
   border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
   solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
   0cm 5.4pt 0cm 5.4pt;height:26.4pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=162 valign=bottom style='width:121.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:26.4pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'></span></p>
   </td>
   <td width=59 nowrap colspan=2 valign=bottom style='width:44.45pt;border-top:
   none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:26.4pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=52 nowrap valign=bottom style='width:38.85pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:26.4pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=97 nowrap valign=bottom style='width:72.6pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:26.4pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=60 nowrap valign=bottom style='width:45.35pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:26.4pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=53 nowrap valign=bottom style='width:39.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:26.4pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=181 nowrap valign=bottom style='width:136.1pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:26.4pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:7;height:25.7pt'>
@@ -528,50 +522,50 @@ style='font-size:18.0pt'><o:p>&nbsp;</o:p></span></b></p>
   border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
   solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
   0cm 5.4pt 0cm 5.4pt;height:25.7pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=162 valign=bottom style='width:121.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:25.7pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'></span></p>
   </td>
   <td width=59 nowrap colspan=2 valign=bottom style='width:44.45pt;border-top:
   none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:25.7pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=52 nowrap valign=bottom style='width:38.85pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:25.7pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=97 nowrap valign=bottom style='width:72.6pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:25.7pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=60 nowrap valign=bottom style='width:45.35pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:25.7pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=53 nowrap valign=bottom style='width:39.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:25.7pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=181 nowrap valign=bottom style='width:136.1pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:25.7pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:8;height:22.85pt'>
@@ -579,50 +573,50 @@ style='font-size:18.0pt'><o:p>&nbsp;</o:p></span></b></p>
   border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
   solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
   0cm 5.4pt 0cm 5.4pt;height:22.85pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=162 valign=bottom style='width:121.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:22.85pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'></span></p>
   </td>
   <td width=59 nowrap colspan=2 valign=bottom style='width:44.45pt;border-top:
   none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:22.85pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=52 nowrap valign=bottom style='width:38.85pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:22.85pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=97 nowrap valign=bottom style='width:72.6pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:22.85pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=60 nowrap valign=bottom style='width:45.35pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:22.85pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=53 nowrap valign=bottom style='width:39.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:22.85pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=181 nowrap valign=bottom style='width:136.1pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:22.85pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:9;height:24.25pt'>
@@ -630,50 +624,50 @@ style='font-size:18.0pt'><o:p>&nbsp;</o:p></span></b></p>
   border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
   solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
   0cm 5.4pt 0cm 5.4pt;height:24.25pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=162 valign=bottom style='width:121.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:24.25pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'></span></p>
   </td>
   <td width=59 nowrap colspan=2 valign=bottom style='width:44.45pt;border-top:
   none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:24.25pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=52 nowrap valign=bottom style='width:38.85pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:24.25pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=97 nowrap valign=bottom style='width:72.6pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:24.25pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=60 nowrap valign=bottom style='width:45.35pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:24.25pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=53 nowrap valign=bottom style='width:39.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:24.25pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=181 nowrap valign=bottom style='width:136.1pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:24.25pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:10;height:24.95pt'>
@@ -681,50 +675,50 @@ style='font-size:18.0pt'><o:p>&nbsp;</o:p></span></b></p>
   border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
   solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
   0cm 5.4pt 0cm 5.4pt;height:24.95pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=162 valign=bottom style='width:121.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:24.95pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'></span></p>
   </td>
   <td width=59 nowrap colspan=2 valign=bottom style='width:44.45pt;border-top:
   none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:24.95pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=52 nowrap valign=bottom style='width:38.85pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:24.95pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=97 nowrap valign=bottom style='width:72.6pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:24.95pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=60 nowrap valign=bottom style='width:45.35pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:24.95pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=53 nowrap valign=bottom style='width:39.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:24.95pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=181 nowrap valign=bottom style='width:136.1pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:24.95pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:11;height:22.85pt'>
@@ -732,50 +726,50 @@ style='font-size:18.0pt'><o:p>&nbsp;</o:p></span></b></p>
   border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
   solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
   0cm 5.4pt 0cm 5.4pt;height:22.85pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=162 valign=bottom style='width:121.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:22.85pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'></span></p>
   </td>
   <td width=59 nowrap colspan=2 valign=bottom style='width:44.45pt;border-top:
   none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:22.85pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=52 nowrap valign=bottom style='width:38.85pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:22.85pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=97 nowrap valign=bottom style='width:72.6pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:22.85pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=60 nowrap valign=bottom style='width:45.35pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:22.85pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=53 nowrap valign=bottom style='width:39.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:22.85pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=181 nowrap valign=bottom style='width:136.1pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:22.85pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:12;height:23.55pt'>
@@ -783,50 +777,50 @@ style='font-size:18.0pt'><o:p>&nbsp;</o:p></span></b></p>
   border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
   solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
   0cm 5.4pt 0cm 5.4pt;height:23.55pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=162 valign=bottom style='width:121.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:23.55pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'></span></p>
   </td>
   <td width=59 nowrap colspan=2 valign=bottom style='width:44.45pt;border-top:
   none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:23.55pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=52 nowrap valign=bottom style='width:38.85pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:23.55pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=97 nowrap valign=bottom style='width:72.6pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:23.55pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=60 nowrap valign=bottom style='width:45.35pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:23.55pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=53 nowrap valign=bottom style='width:39.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:23.55pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=181 nowrap valign=bottom style='width:136.1pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:23.55pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:13;height:23.55pt'>
@@ -834,50 +828,50 @@ style='font-size:18.0pt'><o:p>&nbsp;</o:p></span></b></p>
   border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
   solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
   0cm 5.4pt 0cm 5.4pt;height:23.55pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=162 valign=bottom style='width:121.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:23.55pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'></span></p>
   </td>
   <td width=59 nowrap colspan=2 valign=bottom style='width:44.45pt;border-top:
   none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:23.55pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=52 nowrap valign=bottom style='width:38.85pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:23.55pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=97 nowrap valign=bottom style='width:72.6pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:23.55pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=60 nowrap valign=bottom style='width:45.35pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:23.55pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=53 nowrap valign=bottom style='width:39.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:23.55pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=181 nowrap valign=bottom style='width:136.1pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:23.55pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:14;height:25.7pt'>
@@ -885,160 +879,160 @@ style='font-size:18.0pt'><o:p>&nbsp;</o:p></span></b></p>
   border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
   solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
   0cm 5.4pt 0cm 5.4pt;height:25.7pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=162 valign=bottom style='width:121.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:25.7pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'></span></p>
   </td>
   <td width=59 nowrap colspan=2 valign=bottom style='width:44.45pt;border-top:
   none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:25.7pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=52 nowrap valign=bottom style='width:38.85pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:25.7pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=97 nowrap valign=bottom style='width:72.6pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:25.7pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=60 nowrap valign=bottom style='width:45.35pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:25.7pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=53 nowrap valign=bottom style='width:39.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:25.7pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
   <td width=181 nowrap valign=bottom style='width:136.1pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:25.7pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:15;height:24.95pt'>
   <td width=73 nowrap valign=bottom style='width:54.45pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:24.95pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'></span></p>
   </td>
   <td width=162 valign=bottom style='width:121.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:24.95pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'></span></p>
   </td>
   <td width=59 nowrap colspan=2 valign=bottom style='width:44.45pt;border-top:
   none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:24.95pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'></span></p>
   </td>
   <td width=52 nowrap valign=bottom style='width:38.85pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:24.95pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'></span></p>
   </td>
   <td width=97 nowrap valign=bottom style='width:72.6pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:24.95pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'></span></p>
   </td>
   <td width=60 nowrap valign=bottom style='width:45.35pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:24.95pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'></span></p>
   </td>
   <td width=53 nowrap valign=bottom style='width:39.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:24.95pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'></span></p>
   </td>
   <td width=181 nowrap valign=bottom style='width:136.1pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:24.95pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:16;mso-yfti-lastrow:yes;height:24.95pt'>
   <td width=73 nowrap valign=bottom style='width:54.45pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:24.95pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'></span></p>
   </td>
   <td width=162 valign=bottom style='width:121.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:24.95pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'></span></p>
   </td>
   <td width=59 nowrap colspan=2 valign=bottom style='width:44.45pt;border-top:
   none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:24.95pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'></span></p>
   </td>
   <td width=52 nowrap valign=bottom style='width:38.85pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:24.95pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'></span></p>
   </td>
   <td width=97 nowrap valign=bottom style='width:72.6pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:24.95pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'></span></p>
   </td>
   <td width=60 nowrap valign=bottom style='width:45.35pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:24.95pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'></span></p>
   </td>
   <td width=53 nowrap valign=bottom style='width:39.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:24.95pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'></span></p>
   </td>
   <td width=181 nowrap valign=bottom style='width:136.1pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:24.95pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif'></span></p>
   </td>
  </tr>
  <![if !supportMisalignedColumns]>
@@ -1056,22 +1050,22 @@ style='font-size:18.0pt'><o:p>&nbsp;</o:p></span></b></p>
  <![endif]>
 </table>
 
-<p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal><span lang=EN-US></span></p>
 
-<p class=MsoNormal><b><span lang=EN-US style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></b></p>
+<p class=MsoNormal><b><span lang=EN-US style='font-size:10.0pt'></span></b></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;font-family:"Montserrat SemiBold"'>*Acceptable
-Temperature Range: 2�C to 8�C <o:p></o:p></span></p>
+Temperature Range: 2C to 8C </span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;font-family:"Montserrat SemiBold"'>*THHC-028
 Medication Administration and an Independent double check procedure for high
 alert medication and Telephone Orders received</span><span lang=EN-US
 style='font-size:10.0pt;font-family:"Montserrat SemiBold";mso-bidi-language:
-HE'> </span><span lang=EN-US style='font-size:10.0pt;font-family:"Montserrat SemiBold"'><o:p></o:p></span></p>
+HE'> </span><span lang=EN-US style='font-size:10.0pt;font-family:"Montserrat SemiBold"'></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;font-family:"Montserrat SemiBold"'>*IV
 bag(s) must have ice pack and should not be exposed or exceed more than 1 hour
-outside the IV bag(s). <o:p></o:p></span></p>
+outside the IV bag(s). </span></p>
 
 <p class=MsoFooter><span lang=EN-US style='font-size:10.0pt;font-family:"Montserrat SemiBold"'>*The<span
 style='letter-spacing:2.45pt'> </span><span style='letter-spacing:-.05pt'>TPN</span><span
@@ -1082,7 +1076,7 @@ style='letter-spacing:.05pt'> </span>for<span style='letter-spacing:-.05pt'> </s
 style='letter-spacing:.05pt'> </span><span style='letter-spacing:-.05pt'>hours</span>
 <span style='letter-spacing:-.05pt'>in</span><span style='letter-spacing:.3pt'>
 </span>the<span style='letter-spacing:.05pt'> </span><span style='letter-spacing:
--.05pt'>refrigerator (2-8�C)</span><span style='letter-spacing:.2pt'> </span><span
+-.05pt'>refrigerator (2-8C)</span><span style='letter-spacing:.2pt'> </span><span
 style='letter-spacing:-.1pt'>and</span><span style='letter-spacing:3.15pt'> </span>they<span
 style='letter-spacing:1.9pt'> </span><span style='letter-spacing:-.05pt'>are</span><span
 style='letter-spacing:2.0pt'> </span><span style='letter-spacing:-.05pt'>stable</span><span
@@ -1092,14 +1086,14 @@ style='letter-spacing:1.95pt'> </span>at<span style='letter-spacing:1.95pt'> </s
 style='letter-spacing:-.05pt'>room</span><span style='letter-spacing:1.85pt'> </span><span
 style='letter-spacing:-.05pt'>temperature</span><span style='letter-spacing:
 1.75pt'> </span><span style='letter-spacing:-.05pt'>(&lt;</span><span
-style='letter-spacing:2.0pt'> </span><span style='letter-spacing:-.1pt'>25�C)</span><span
+style='letter-spacing:2.0pt'> </span><span style='letter-spacing:-.1pt'>25C)</span><span
 style='letter-spacing:3.0pt'> </span>once<span style='letter-spacing:.05pt'> </span>the<span
 style='letter-spacing:.05pt'> </span><span style='letter-spacing:-.05pt'>Administration</span><span
 style='letter-spacing:.05pt'> </span><span style='letter-spacing:-.05pt'>started.</span>
 (THHC-029 TOTAL <span style='letter-spacing:-.05pt'>PARENTERAL</span> NUTRITION
-(TPN)<o:p></o:p></span></p>
+(TPN)</span></p>
 
-<p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal><span lang=EN-US></span></p>
 
 </div>
 

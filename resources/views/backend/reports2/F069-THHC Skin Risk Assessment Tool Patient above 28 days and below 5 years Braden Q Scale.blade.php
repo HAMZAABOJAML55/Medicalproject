@@ -1,14 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
-<meta name=ProgId content=Word.Document>
-<meta name=Generator content="Microsoft Word 15">
-<meta name=Originator content="Microsoft Word 15">
-<link rel=File-List
-href="F069-THHC%20Skin%20Risk%20Assessment%20Tool%20Patient%20above%2028%20days%20and%20below%205%20years%20Braden%20Q%20Scale.files/filelist.xml">
-<link rel=Edit-Time-Data
-href="F069-THHC%20Skin%20Risk%20Assessment%20Tool%20Patient%20above%2028%20days%20and%20below%205%20years%20Braden%20Q%20Scale.files/editdata.mso">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 <title>F069-THHC Skin Risk Assessment Tool Patient above 28 days and below 5 years Braden Q Scale| @yield('title')</title>
 
 <style>

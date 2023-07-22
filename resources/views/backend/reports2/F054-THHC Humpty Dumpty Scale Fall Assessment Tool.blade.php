@@ -2,13 +2,8 @@
 <html lang="en">
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=windows-1252">
-<meta name=ProgId content=Word.Document>
-<meta name=Generator content="Microsoft Word 15">
-<meta name=Originator content="Microsoft Word 15">
-<link rel=File-List
-href="F054-THHC%20Humpty%20Dumpty%20Scale%20Fall%20Assessment%20Tool.files/filelist.xml">
-<link rel=Edit-Time-Data
-href="F054-THHC%20Humpty%20Dumpty%20Scale%20Fall%20Assessment%20Tool.files/editdata.mso">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
 <title>F054-THHC Humpty Dumpty Scale Fall Assessment Tool| @yield('title')</title>
 
 <style>
